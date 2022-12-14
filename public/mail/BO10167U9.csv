@@ -1,0 +1,53 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",120,$319.2
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",120,$319.2
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",60,$159.6
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",60,$159.6
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD618,"BRAD - ORG NO SALT LENTILS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",72,$123.84
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD610,"BRAD - ORG SALAD BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",12,$48
+BRD386,"BRAD ORG SUNDRIED TOMATOES","Brad's Organic Condiments","$ 6.66",12,$79.92
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+SC603,"S.CRUZ OG STRAWBERY SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",36,$95.76
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",24,$63.84
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+PB206,"BRADS - ORG TAHINI BIG 32oz","Brad's Nut Butters","$ 8.33",12,$99.96
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",12,$103.92
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F266,"FIRST - CLOVER 40oz","1st International Honey","$ 8.46",18,$152.28
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",24,$168
+BRD543,"BRAD ORG MAPLE DARK A 16oz","Brad's Organic Maple Syrup","$ 12.66",24,$303.84
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD544B,"BRAD ORG A/B VERY DRK MPL 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD335,"BRAD ORG 32oz COCNUT OIL UNREF","Brad's Organic Coconut","$ 14.19",12,$170.28
+BRD332,"BRAD ORG COCONUT OIL REF 14oz","Brad's Organic Coconut","$ 6.19",12,$74.28
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",18,$135.54
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",24,$89.52
+,,,,,$5645.7

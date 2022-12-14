@@ -1,0 +1,61 @@
+Sku,Item,Category,Price,Quantity,Totals
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",108666,$383590.98
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",85,$340
+F245A,"FIRST- HONEY BEAR DISPLAY 48pc","1st International Honey","$ 2.86",555,$1587.3
+F250,"FIRST - BUCKWHEAT 2lb","1st International Honey","$ 6.66",6666,$44395.56
+F253,"FIRST - CLOVER 5lb","1st International Honey","$ 15.33",69,$1057.77
+F266,"FIRST - CLOVER 40oz","1st International Honey","$ 8.46",96,$812.16
+AB103,"ABS G.FREE PEPPER CRACKER","Absolutely Gluten Free","$ 3.86",122,$470.92
+AB113,"ABS G.FREE EVRYTHING FLATBREAD","Absolutely Gluten Free","$ 3.86",1268,$4894.48
+AB101,"ABS G.FREE ORIG CRACKER 4.4oz","Absolutely Gluten Free","$ 3.86",1258,$4855.88
+AN403,"ANNIE'S ORG HONEY MUSTARD 9oz","Annie's (condiments)","$ 4",1236,$4944
+AN404,"ANNIE'S ORG DIJON MUSTARD","Annie's (condiments)","$ 4",1265,$5060
+AN405,"ANNIE'S ORG YELLOW MUSTARD","Annie's (condiments)","$ 4",1269,$5076
+AN105,"ANNIE'S BALSAMIC natural","Annie's (dressings)","$ 3.13",612,$1915.56
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",652,$2040.76
+AN118,"ANNIE'S TUSCANY ITALIAN","Annie's (dressings)","$ 3.13",66,$206.58
+AN103,"ANNIE'S ORG L/F RASPBERRY 8oz","Annie's (organic dressings)","$ 3.58",699,$2502.42
+AN107,"ANNIE'S ORG GREEN GARLIC","Annie's (organic dressings)","$ 3.58",635,$2273.3
+AN114,"ANNIE'S ORG THOUSAND ISLAND","Annie's (organic dressings)","$ 3.58",664,$2377.12
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",625,$2237.5
+AN120,"ANNIE'S ORG RSTD GARLIC DRSING","Annie's (organic dressings)","$ 3.58",256,$916.48
+AN127,"ANNIE'S ORG GODDESS 8oz ORG","Annie's (organic dressings)","$ 3.58",356,$1274.48
+AN128,"ANNIE'S ORG SHIITAKE 8oz ORG","Annie's (organic dressings)","$ 3.58",846,$3028.68
+AN129,"ANNIE'S ORG BALSAMIC 8oz ORG","Annie's (organic dressings)","$ 3.58",356,$1274.48
+AN130,"ANNIE'S ORG COWGIRL 8oz ORG","Annie's (organic dressings)","$ 3.58",256,$916.48
+AP103,"ANNIE'S BUNNY PASTA W/ YUMMY","Annie's (pasta)","$ 2.08",112,$232.96
+AP104,"ANNIE'S SPIRALS W/ BTR PARMESN","Annie's (pasta)","$ 2.08",122,$253.76
+AP105,"ANNIE'S WISCONSIN CHED #30084","Annie's (pasta)","$ 2.08",124,$257.92
+AP106,"ANNIE'S CLASSIC MAC CHS #00045","Annie's (pasta)","$ 2.08",212,$440.96
+AP109,"ANNIE'S FOUR CHEESE MAC CHS","Annie's (pasta)","$ 2.08",312,$648.96
+AP110,"ANNIE'S MAC & TREES","Annie's (pasta)","$ 2.08",125,$260
+AP111,"ANNIE'S RICE PASTA & CHED G/F","Annie's (pasta)","$ 3",512,$1536
+AP203,"ANNIE'S ORG ALFR SHELL & CHED","Annie's (pasta)","$ 3",212,$636
+AP204,"ANNIE'S ORG WISCON CHED #30098","Annie's (pasta)","$ 3",212,$636
+AP301,"ANNIE'S FAMILY SHELL & CHEDDAR","Annie's (pasta)","$ 3.6",36,$129.6
+AP302,"ANNIE'S ORG FAMILY SHELL CHED","Annie's (pasta)","$ 4.53",66,$298.98
+AP704,"ANNIE'S 12pk FRIENDS GRAHM 1oz","Annie's (snacks)","$ 6.33",54,$341.82
+AP705,"ANNIE'S 12pk SNACKS VARIETY","Annie's (snacks)","$ 6.66",56,$372.96
+AP707,"ANNIE'S CHEDD SQUARES 7.5oz","Annie's (snacks)","$ 3.73",312,$1163.76
+AP713,"ANNIE'S CHOC BUNNY GRAHM 7.5oz","Annie's (snacks)","$ 3.73",312,$1163.76
+AP714,"ANNIE'S CHOC CHIP BNY GRM 7.5","Annie's (snacks)","$ 3.73",412,$1536.76
+AP721,"ANNIES OG BNY GRM FRNDS 11.25z","Annie's (snacks)","$ 4.33",26,$112.58
+AP731,"ANNIE'S ORG HNY GRAHAMS 14.4oz","Annie's (snacks)","$ 4.33",212,$917.96
+MA101,"ARTISANA - 8oz ORG CASHEW 6/cs","Artisana Nut Butters","$ 10.19",256,$2608.64
+MA103,"ARTISANA - ORG WALNUT 6/8oz","Artisana Nut Butters","$ 14.66",536,$7857.76
+MA104,"ARTISANA - ORG PECAN 6/8oz","Artisana Nut Butters","$ 12.66",526,$6659.16
+MA107,"ARTISANA- 8oz ORG COCONUT BTR","Artisana Nut Butters","$ 7.49",256,$1917.44
+MA102,"ARTISANA - 8oz ORG ALMOND 6/cs","Artisana Nut Butters","$ 14.33",26,$372.58
+MA110,"ARTISANA - ORG CASHEW CACAO","Artisana Nut Butters","$ 9.33",536,$5000.88
+MA109,"ARTISANA - ORG CACAO BLISS 8oz","Artisana Nut Butters","$ 9.33",116,$1082.28
+BAL107,"BALANCE - PEANUT BUTTER",Balance,"$ 1.26",256,$322.56
+BAL108,"BALANCE - COOKIE DOUGH",Balance,"$ 1.26",126,$158.76
+BAL201,"BALANCE - CARAMEL NUT BLAST",Balance,"$ 1.26",216,$272.16
+BAL102,"BALANCE - CHOCOLATE CRAZE",Balance,"$ 1.26",316,$398.16
+BB102,"BARBARA'S - MORNING OATS CRNCH",Barbara's,"$ 4.26",235,$1001.1
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",512,$1361.92
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",312,$829.92
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",612,$1627.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",512,$1361.92
+BRD107,"BRAD - NATURAL NACHO CHIPS","Brad's Organic","$ 2.66",512,$1361.92
+,,,,,$523184.71

@@ -1,0 +1,95 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD351,"BRAD NTRL AVOCADO OIL 33.8oz","Brad's Organic Oil & Vinegar","$ 12.66",24,$303.84
+BRD305,"BRAD OG SPNSH EV OLIVE OIL 8.5","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD301,"BRAD OG TRKSH OLIVE OIL 250ml","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD311,"BRAD - ORG BALSAMIC VNG MODENA","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",6,$24
+BRD552,"BRAD - ORG SLIM TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD572,"BRAD - ORG GREEN TEA KOMB 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD206,"BRAD - ORG MANGO SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD203,"BRAD - ORG HOT SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD111,"BRAD - ORGANIC MULTIGRAIN CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD176,"BRAD - ORG PRETZ SOURDGH HARDS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD178,"BRAD - ORG PRETZ STICK OAT BRN","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD515,"BRAD ORG RAW HONEY 18oz","Brad's Organic Honey","$ 9.16",12,$109.92
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",24,$84.72
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",6,$24
+BRD543,"BRAD ORG MAPLE DARK A 16oz","Brad's Organic Maple Syrup","$ 12.66",12,$151.92
+BRD544B,"BRAD ORG A/B VERY DRK MPL 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",24,$96
+BRD386,"BRAD ORG SUNDRIED TOMATOES","Brad's Organic Condiments","$ 6.66",12,$79.92
+BRD384,"BRAD ORG WHOLE KALAMATA OLIVES","Brad's Organic Condiments","$ 4",24,$96
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",36,$144
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",36,$102.96
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+WS114,"WHOLESOME ORG COCONUT SUGAR","Wholesome Sweeteners","$ 4.66",6,$27.96
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",12,$119.88
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD534,"BRAD - ORG RAW BL AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",72,$191.52
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",24,$63.84
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD642,"BRAD ORG LONG BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD390,"BRAD ORG HRTS PALM SPEARS jars","Brad's Organic Hearts Palm","$ 4.88",12,$58.56
+BRD391,"BRAD ORG HRTS PALM SLICES jars","Brad's Organic Hearts Palm","$ 3.55",12,$42.6
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD706,"BRAD ORG OATMEAL VARIETY","Brad's Organic Oatmeal","$ 3.2",18,$57.6
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",30,$96
+BRD233,"BRAD - ORG F/F L/S GARDEN VEG","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD221,"BRAD - ORG LOW FAT MARINARA","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD224,"BRAD - ORG LOW FAT PORTABELLO","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD241,"BRAD- ORG VODKA SAUCE less fat","Brad's Organic Pasta Sauce","$ 3.33",12,$39.96
+BRD432,"BRAD ORG WHOLE WHT CAPELINNI","Brad's Organic Pasta","$ 2",20,$40
+BRD421,"BRAD ORG SEMOLINA SPAGHETTI","Brad's Organic Pasta","$ 2",40,$80
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",24,$96
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",24,$63.84
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+PB103,"BRADS - NATURAL ALMOND BUTTER","Brad's Nut Butters","$ 9",12,$108
+PB204,"BRADS - ORGANIC CASHEW BUTTER","Brad's Nut Butters","$ 10.66",12,$127.92
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+BRD371,"BRAD ORG BALSAMIC DRESSING","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD373,"BRAD ORG HNY MUSTARD DRESSING","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD375,"BRAD ORG RASPBERRY VINAIGRETTE","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD376,"BRAD ORG SESAME GNGER DRESSING","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",24,$87.84
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",12,$43.92
+NP523,"N.PATH - G/F OAT SUGAR MAPLE","Nature's Path Hot Cereal","$ 4.33",12,$51.96
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",12,$51.96
+BRD451,"BRAD ORG RICE CORN SPAG G/F","Brad's Organic Gluten Free Pasta","$ 2.66",12,$31.92
+,,,,,$5781.66

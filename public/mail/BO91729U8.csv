@@ -1,0 +1,53 @@
+Sku,Item,Category,Price,Quantity,Totals
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",24,$63.84
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",24,$63.84
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",36,$311.76
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",60,$799.8
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",72,$288
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",72,$288
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",36,$95.76
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",24,$63.84
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD111,"BRAD - ORGANIC MULTIGRAIN CHIP","Brad's Organic","$ 2.66",24,$63.84
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",24,$63.84
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",36,$95.76
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD116,"BRAD - ORGANIC PUMPKIN CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD117,"BRAD - ORG BEET TORTILLA CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD118,"BRAD - ORG CAULIFLOWER CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD119,"BRAD ORG RSTD RD PEPPER CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD291,"BRAD PINK HIMALAYN SLT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD292,"BRAD GARLIC SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD293,"BRAD CHILI SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+NP543,"N.PATH QIA OATMEAL CINN PMPKIN","Nature's Path Hot Cereal","$ 4.66",6,$27.96
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",120,$319.2
+BRD584,"BRAD - COFFEE DECAF ROAST bag","Brad's Organic Coffee","$ 8",6,$48
+BB201,"WEETABIX NATURAL 14oz",Barbara's,"$ 4.26",24,$102.24
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD607,"BRAD - ORG CHILI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD610,"BRAD - ORG SALAD BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD618,"BRAD - ORG NO SALT LENTILS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD619,"BRAD - ORG NO SALT CHILI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD620,"BRAD - ORG NO SALT SALAD BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD629,"BRAD ORG NO SALT BLK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+,,,,,$3682.48

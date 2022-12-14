@@ -1,0 +1,51 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",12,$48
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD350,"BRAD NTRL AVOCADO OIL 16.9oz","Brad's Organic Oil & Vinegar","$ 6.66",12,$79.92
+BRD352,"BRAD REF GRAPESEED OIL 1 liter","Brad's Organic Oil & Vinegar","$ 10.66",12,$127.92
+BRD201,"BRAD - ORG MILD SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD202,"BRAD - ORG MEDIUM SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD204,"BRAD - ORG RSTD GARLIC SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD206,"BRAD - ORG MANGO SALSA","Brad's Organic","$ 3.7",12,$44.4
+SC101,"SANTA CRUZ OG LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC107,"SANTA CRUZ - OG RASP LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN102,"KNUDSEN - GRAPE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN120,"KNUDSEN - APPLE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN130,"KNUDSEN - PEAR 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+EF301,"E.F DISH LIQ ALMOND 25oz #9700","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF507,"E.F ORNG RTU SURFACE CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF502,"E.F SHOWER CLEANER 22oz","Earth Friendly","$ 3.04",6,$18.24
+NP225,"N.PATH LOVE CRUNCH CHOC MCROON","Nature's Path","$ 4.27",6,$25.62
+NP228,"N.PATH LOVE CRUNCH DOUBLE CHOC","Nature's Path","$ 4.27",6,$25.62
+K502,"KASHI - BLUEBRY HEART TO HEART",Kashi,"$ 4.46",10,$44.6
+K114,"KASHI - DARK COCOA KARMA ORG",Kashi,"$ 4.67",12,$56.04
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K111,"KASHI - CINNAMON HARVEST ORG",Kashi,"$ 4.67",12,$56.04
+NKD209,"B NAKED PEANUT BUTTER GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD207,"B NAKED CACAO CASHEW BTR GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD208,"B NAKED MAPLE-ICIOUS GRANOLA","Bear Naked","$ 4.86",6,$29.16
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+EB432,"E.BEST - STRAW SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+EB433,"E.BEST - SWT POT CAROT SNK BAR","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA352,"HAPPY MORNING APL CINN YOG OAT","Happy Baby","$ 1.53",16,$24.48
+HA165,"H.BABY TEETHER CRCKR STRW BEET","Happy Baby","$ 4.06",6,$24.36
+HA164,"H.BABY TEETHER CRCKR MANGO","Happy Baby","$ 4.06",6,$24.36
+HA163,"H.BABY TEETHERS PEA & SPINACH","Happy Baby","$ 4.06",6,$24.36
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",6,$24.36
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+,,,,,$1611.24

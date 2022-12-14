@@ -1,0 +1,125 @@
+Sku,Item,Category,Price,Quantity,Totals
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA405,"PACIFIC - ORG UNSW ALMOND ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA406,"PACIFIC - ORG UNSW ALMND VANIL","Pacific (milk)","$ 2.74",12,$32.88
+PA407,"PACIFIC - NATRL CHOC HAZELNUT","Pacific (milk)","$ 2.74",6,$16.44
+PA404,"PACIFIC - NATURAL HAZELNUT PLN","Pacific (milk)","$ 2.74",6,$16.44
+RD211,"R. DREAM - VANILLA 32oz (BLUE)","Rice Dream","$ 3.53",12,$42.36
+RD310,"R. DREAM - ENRICHED ORIG 32oz","Rice Dream","$ 3.53",12,$42.36
+RD311,"R. DREAM - ENRICH VANILLA 32oz","Rice Dream","$ 3.53",12,$42.36
+RD313,"R. DREAM - ENRICH UNSWEET 32oz","Rice Dream","$ 3.53",12,$42.36
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",24,$63.84
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+WS101,"WHOLESOME ORG FAIR TRADE SUGAR","Wholesome Sweeteners","$ 4.86",12,$58.32
+WS115,"WHOLESOME ORG TURBINADO SUGAR","Wholesome Sweeteners","$ 4.72",12,$56.64
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA110,"PACIFIC OG L/S BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",12,$44.76
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",12,$44.76
+PA272,"PACIFIC 17oz ORG CHK & RICE","Pacific (soup)","$ 3.13",12,$37.56
+PA271,"PACIFIC 17oz ORG CHK NOODLE","Pacific (soup)","$ 3.13",12,$37.56
+PA270,"PACIFIC 17oz VEG QUINOA SOUP","Pacific (soup)","$ 3.13",12,$37.56
+PA267,"PACIFIC 17oz POBLANO w/ CORN","Pacific (soup)","$ 3.13",12,$37.56
+PA265,"PACIFIC 17oz VEG LENTIL","Pacific (soup)","$ 3.13",12,$37.56
+PA266,"PACIFIC 17oz THAI SWT POTATO","Pacific (soup)","$ 3.13",12,$37.56
+PA264,"PACIFIC 17.6oz TOMATO BISQUE","Pacific (soup)","$ 3.13",12,$37.56
+PA262,"PACIFIC 17.6oz BTRNT SQSH BISQ","Pacific (soup)","$ 3.13",12,$37.56
+PA261,"PACIFIC 17.6oz CSHW CRT GINGR","Pacific (soup)","$ 3.13",12,$37.56
+PA263,"PACIFIC 17.6oz RSTD PEPP & TOM","Pacific (soup)","$ 3.13",12,$37.56
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA373,"H.TOT FIBER PEAR KIWI & KALE","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y148,"YOGI - HONEY LAVENDER STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y132,"YOGI - WOMAN'S RASP LEAF","Yogi Tea","$ 3.75",6,$22.5
+Y158,"YOGI - GINGER CITRUS TURMERIC","Yogi Tea",$3.75,6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y402,"YOGI - DECAF PURE GREEN","Yogi Tea","$ 3.75",6,$22.5
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+NP125,"N.PATH - CINNAMON SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP114,"N.PATH - OPTIMUM BLUE / CINN","Nature's Path","$ 4.27",12,$51.24
+NP225,"N.PATH LOVE CRUNCH CHOC MCROON","Nature's Path","$ 4.27",6,$25.62
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP552,"N.PATH OATMEAL CAN OLD FASHION","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+NP554,"N.PATH STEEL CUT OATS CANISTER","Nature's Path Hot Cereal","$ 3.9",6,$23.4
+K111,"KASHI - CINNAMON HARVEST ORG",Kashi,"$ 4.67",12,$56.04
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K502,"KASHI - BLUEBRY HEART TO HEART",Kashi,"$ 4.46",10,$44.6
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K303,"KASHI - GOLEAN CRISP BERRY CRM",Kashi,"$ 4.46",12,$53.52
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+K601,"KASHI - GRAN BAR TRAIL MIX","Kashi (granola bars)","$ 4.19",8,$33.52
+K602,"KASHI - GRAN BAR HNY ALM FLAX","Kashi (granola bars)","$ 4.19",8,$33.52
+K603,"KASHI - GRAN BAR PEANUT BUTTER","Kashi (granola bars)","$ 4.19",8,$33.52
+K609,"KASHI GRAIN FREE BAR P.B. CHOC","Kashi (granola bars)","$ 4.19",8,$33.52
+K632,"KASHI - BREAKFAST BAR STRAWBRY","Kashi (granola bars)","$ 4.19",8,$33.52
+K633,"KASHI - BREAKFST BAR MIX BERRY","Kashi (granola bars)","$ 4.19",8,$33.52
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN105,"ANNIE'S BALSAMIC natural","Annie's (dressings)","$ 3.13",6,$18.78
+SP118,"SPEC REF GRAPESEED OIL 16oz",Spectrum,"$ 11.6",12,$139.2
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU104,"LUNDBERG - PREM LONG RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+AP110,"ANNIE'S MAC & TREES","Annie's (pasta)","$ 2.08",12,$24.96
+AP201,"ANNIE'S ORG W/W SHELL & CHED","Annie's (pasta)","$ 3",12,$36
+AP202,"ANNIES OG SHELL WHT CHD #30063","Annie's (pasta)","$ 3",12,$36
+AP204,"ANNIE'S ORG WISCON CHED #30098","Annie's (pasta)","$ 3",12,$36
+MN106,"M. NATURE - RAISINS 9oz","Made in Nature","$ 4.99",6,$29.94
+MN109,"M. NATURE - DRIED APRICOTS 6oz","Made in Nature","$ 4.99",6,$29.94
+MN112,"M. NATURE - BANANAS 4oz","Made in Nature","$ 4.99",6,$29.94
+MN102,"M. NATURE - DRIED APPLES 3oz","Made in Nature","$ 4.99",6,$29.94
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+AP711,"ANNIE'S HNY BUNNY GRAHAM 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+CL001,"CLIF - CRUNCHY PEANUT BUTTER","Clif Bars","$ 1.5",12,$18
+CL002,"CLIF - CHOC CHIP PNUT CRUNCH","Clif Bars","$ 1.5",12,$18
+CL003,"CLIF - CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL006,"CLIF - COOL MINT CHOCOLATE","Clif Bars","$ 1.5",12,$18
+CL007,"CLIF - CHOC BROWNIE","Clif Bars","$ 1.5",12,$18
+CL012,"CLIF - PEANUT TOFFEE BUZZ","Clif Bars","$ 1.5",12,$18
+CL018,"CLIF - WHITE CHOC MACADAMIA","Clif Bars","$ 1.5",12,$18
+CL019,"CLIF - COCONUT CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL020,"CLIF - P.B. BANANA DARK CHOC","Clif Bars","$ 1.5",12,$18
+CL021,"CLIF - CHOC CHUNK SEA SALT","Clif Bars","$ 1.5",12,$18
+PUR109,"PURE PROTEIN COOKIES & CREAM","Pure Protein Bars","$ 1.76",6,$10.56
+PUR108,"PURE PROTEIN MARSH CRISPY TRT","Pure Protein Bars","$ 1.76",6,$10.56
+PUR107,"PURE PROTEIN RED VELVET","Pure Protein Bars","$ 1.76",6,$10.56
+PUR106,"PURE PROTEIN MAPLE CARAMEL","Pure Protein Bars","$ 1.76",6,$10.56
+PUR105,"PURE PROTEIN BIRTHDAY CAKE","Pure Protein Bars","$ 1.76",6,$10.56
+PUR104,"PURE PROTEIN SALTED CARAMEL","Pure Protein Bars","$ 1.76",6,$10.56
+PUR103,"PURE PROTEIN CHEWY CHOC CHIP","Pure Protein Bars","$ 1.76",6,$10.56
+PUR102,"PURE PROTEIN CHOC DELUXE","Pure Protein Bars","$ 1.76",6,$10.56
+PUR101,"PURE PROTEIN CHOC P.BUTTER","Pure Protein Bars","$ 1.76",6,$10.56
+,,,,,$4135.1

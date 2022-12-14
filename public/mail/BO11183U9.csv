@@ -1,0 +1,66 @@
+Sku,Item,Category,Price,Quantity,Totals
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,12,$31.92
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE125,"GOE - SESAME BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD107,"BRAD - NATURAL NACHO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+NP123,"N.PATH - VANILLA SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP124,"N.PATH - MAPLE SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP521,"N.PATH - G/F OAT SPICED APPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP523,"N.PATH - G/F OAT SUGAR MAPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP556,"N.PATH G/F STEEL CUT OATS CAN","Nature's Path Hot Cereal","$ 5.33",6,$31.98
+NP554,"N.PATH STEEL CUT OATS CANISTER","Nature's Path Hot Cereal","$ 3.9",6,$23.4
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+MGC103,"MARY - HERB CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC104,"MARY - BLK PEPPER CRCKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC106,"MARY - JALAPENO CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC107,"MARY - SUPER SEED CLASSIC ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC112,"MARY - SUPER SEED ROSEMARY OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",6,$24
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+PA405,"PACIFIC - ORG UNSW ALMOND ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA411,"PACIFIC - UNSW HEMP ORIG 32oz","Pacific (milk)","$ 3.36",12,$40.32
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+KN143,"KNUDSEN - ORG CRAN & POMEGRNTE",Knudsen,"$ 3.86",6,$23.16
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC101,"SANTA CRUZ OG LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+AN405,"ANNIE'S ORG YELLOW MUSTARD","Annie's (condiments)","$ 4",12,$48
+WS306,"WHOLESOME ORG 35ct STEVIA","Wholesome Sweeteners","$ 3.53",6,$21.18
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+TB110,"TASTY BITE SPINACH DAL 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB115,"TASTY BITE ORG CHANNA MASALA","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB502,"TASTY BITE THAI LIME RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB517,"TASTY BITE SMKY CHIPOTLE RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+MN101,"M. NATURE - PRUNES 6oz (PLUMS)","Made in Nature","$ 6.33",6,$37.98
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA411,"H.BABY CC # 2 APL KALE AVOCADO","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA421,"H.BABY CC # 2 PEAR ZUCHINI PEA","Happy Baby","$ 1.73",16,$27.68
+HA423,"H.BABY CC # 2 PEAS BANANA KIWI","Happy Baby","$ 1.73",16,$27.68
+,,,,,$1880.86

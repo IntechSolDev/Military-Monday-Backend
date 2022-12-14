@@ -1,0 +1,113 @@
+Sku,Item,Category,Price,Quantity,Totals
+NEW610,"NEWMAN'S O'S REGULAR W/F D/F","Newman's (cookies)","$ 4.72",6,$28.32
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+NEW202A,"NEWMAN'S OAT CHOC CHIP COOKIE","Newman's (cookies)","$ 3.19",6,$19.14
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",6,$24
+K606,"KASHI - GRAN BAR CHOC ALM SALT","Kashi (granola bars)","$ 4.19",8,$33.52
+K604,"KASHI - GRAN BAR CHERRY CHOC","Kashi (granola bars)","$ 4.19",8,$33.52
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC106,"MARY - JALAPENO CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU312,"LUNDBERG - KETTLE CORN R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU305,"LUNDBERG - TAM SEAWEED R CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU313,"LUNDBERG OG HONEY NUT R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",16,$24.48
+HA302,"HAPPY BABY # 3 VEG & TURKEY","Happy Baby","$ 1.53",16,$24.48
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",32,$53.12
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA411,"H.BABY CC # 2 APL KALE AVOCADO","Happy Baby","$ 1.73",16,$27.68
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA420,"H.BABY CC # 2 PEAR PUMPK GRAN","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA352,"HAPPY MORNING APL CINN YOG OAT","Happy Baby","$ 1.53",16,$24.48
+HA373,"H.TOT FIBER PEAR KIWI & KALE","Happy Baby","$ 1.53",16,$24.48
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA213,"H.BABY # 2 SPIN MNGO PEAR 1392","Happy Baby","$ 1.43",16,$22.88
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+EB457,"E.BEST - PINEAPPLE ORNG SMTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB455,"E.BEST - MIXED BERRY SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB451,"E.BEST - STRAW BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+PA407,"PACIFIC - NATRL CHOC HAZELNUT","Pacific (milk)","$ 2.74",6,$16.44
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+KN401,"KNUDSEN - ORG JUST PRUNE 32oz",Knudsen,"$ 6.92",6,$41.52
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN109,"M. NATURE - DRIED APRICOTS 6oz","Made in Nature","$ 4.99",6,$29.94
+NP110,"N.PATH - CRISPY RICE","Nature's Path","$ 4.12",12,$49.44
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K114,"KASHI - DARK COCOA KARMA ORG",Kashi,"$ 4.67",12,$56.04
+BB101,"BARBARA'S - ORIGINAL PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB105,"BARBARA'S - CINNAMON PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB108,"BARBARA'S - P. BUTTER PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB114,"BARBARA'S - PB & CHOC PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB107,"BARBARA'S MULTI SQUREFUL MAPLE",Barbara's,"$ 4.26",12,$51.12
+NP542,"N.PATH - QIA OATMEAL COCONUT","Nature's Path Hot Cereal","$ 4.66",6,$27.96
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU208,"LUNDBERG - BLACK JAPONICA 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+PA265,"PACIFIC 17oz VEG LENTIL","Pacific (soup)","$ 3.13",12,$37.56
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+HV712,"H.VALLEY - ORG VEGETABLE N/S","Health Valley (soup)","$ 3.15",12,$37.8
+HV726,"H.VALLEY - ORG CHICK RICE N/S","Health Valley (soup)","$ 3.15",12,$37.8
+RD509,"IMAGINE FREE RANGE CHICK 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+RD531,"IMAGINE BONE BROTH CHKN BEEF","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD530,"IMAGINE BONE BROTH CHICKEN","Imagine (32oz soup)","$ 4.66",12,$55.92
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN108,"ANNIE'S ORG CAESAR","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN112,"ANNIE'S ORG FRENCH","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN127,"ANNIE'S ORG GODDESS 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN404,"ANNIE'S ORG DIJON MUSTARD","Annie's (condiments)","$ 4",12,$48
+WP002,"WILD PLANET NO SALT ALBCR TUNA","Wild Planet","$ 4.33",12,$51.96
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+SC603,"S.CRUZ OG STRAWBERY SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F266,"FIRST - CLOVER 40oz","1st International Honey","$ 8.46",6,$50.76
+BRD577,"BRAD - ORG MORINGA TEA 20ct","Brad's Organic Tea","$ 4",6,$24
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+TR139,"TRAD MED - CHAM W/ LAVENDER","Traditional Medicinals","$ 4.33",6,$25.98
+TR201,"TRAD MED - ORG CHAMOMILE","Traditional Medicinals","$ 4.33",6,$25.98
+TR136,"TRAD MED NIGHT NIGHT VALERIAN","Traditional Medicinals","$ 4.33",6,$25.98
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF302,"E.F DISH LIQUID PEAR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+TT501,"THINK THIN- CHUNKY PNUT BUTTER","Think! Protein Bars","$ 1.79",10,$17.9
+TT502,"THINK THIN- CREAMY PNUT BUTTER","Think! Protein Bars","$ 1.79",20,$35.8
+TT503,"THINK THIN - BROWNIE CRUNCH","Think! Protein Bars","$ 1.79",10,$17.9
+TT504,"THINK THIN - WHITE CHOCOLATE","Think! Protein Bars","$ 1.79",10,$17.9
+TT505,"THINK THIN - CHOCOLATE FUDGE","Think! Protein Bars","$ 1.79",10,$17.9
+TT507,"THINK THIN - COOKIES & CREAM","Think! Protein Bars","$ 1.79",10,$17.9
+TT511,"THINK! KETO PROTEIN CHOC P.B.","Think! Protein Bars","$ 1.79",10,$17.9
+TT545,"THINK THIN LEAN CHNKY CHC PNUT","Think! Protein Bars","$ 1.59",10,$15.9
+TT547,"THINK THIN LEAN S'MORES","Think! Protein Bars","$ 1.59",10,$15.9
+TT548,"THINK THIN DARK CHOC PEPPRMINT","Think! Protein Bars","$ 1.59",10,$15.9
+,,,,,$3377.26

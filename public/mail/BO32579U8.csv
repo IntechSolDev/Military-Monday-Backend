@@ -1,0 +1,103 @@
+Sku,Item,Category,Price,Quantity,Totals
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",16,$24.48
+HA302,"HAPPY BABY # 3 VEG & TURKEY","Happy Baby","$ 1.53",16,$24.48
+HA303,"HAPPY BABY # 3 VEG BEEF MEDLEY","Happy Baby","$ 1.53",16,$24.48
+HA321,"HAPPY BABY # 4 GRN BEAN, PEARS","Happy Baby","$ 1.53",16,$24.48
+HA322,"HAPPY BABY # 4 SWT POT, APPLES","Happy Baby","$ 1.53",16,$24.48
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA326,"H.BABY # 4 PMPKIN SWT PT PEAR","Happy Baby","$ 1.53",16,$24.48
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA343,"H.BABY TOT #4 KALE APL MANGO","Happy Baby","$ 1.53",16,$24.48
+HA411,"H.BABY CC # 2 APL KALE AVOCADO","Happy Baby","$ 1.73",16,$27.68
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA416,"H.BABY CC # 2 PEAR SQSH BLKBRY","Happy Baby","$ 1.73",16,$27.68
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA418,"H.BABY CC # 2 APL SWT POT GRAN","Happy Baby","$ 1.73",16,$27.68
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",16,$27.68
+HA420,"H.BABY CC # 2 PEAR PUMPK GRAN","Happy Baby","$ 1.73",16,$27.68
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA351,"HAPPY MORNING BANANA BLUE OAT","Happy Baby","$ 1.53",16,$24.48
+HA352,"HAPPY MORNING APL CINN YOG OAT","Happy Baby","$ 1.53",16,$24.48
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA359,"H.BABY BELLIES BANANA SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA373,"H.TOT FIBER PEAR KIWI & KALE","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA211,"HAPPY BABY # 2 BAN, BEET, BLUE","Happy Baby","$ 1.43",16,$22.88
+HA213,"H.BABY # 2 SPIN MNGO PEAR 1392","Happy Baby","$ 1.43",16,$22.88
+HA165,"H.BABY TEETHER CRCKR STRW BEET","Happy Baby","$ 4.06",12,$48.72
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",12,$48.72
+HA164,"H.BABY TEETHER CRCKR MANGO","Happy Baby","$ 4.06",12,$48.72
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",12,$48.72
+EB318,"E.BEST - PEACH OATMEAL","Earth's Best (baby food)","$ 1.6",10,$16
+EB304,"E.BEST - PEAR","Earth's Best (baby food)","$ 1.6",10,$16
+EB305,"E.BEST - BANANA","Earth's Best (baby food)","$ 1.6",30,$48
+EB301,"E.BEST - APPLES","Earth's Best (baby food)","$ 1.6",30,$48
+EB360,"E.BEST SWT POTATO APPLE pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB361,"E.BEST BTRNT SQUASH PEAR pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB362,"E.BEST ORANGE BANANA pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB363,"E.BEST BANANA BLUEBERRY pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB364,"E.BEST APPLE PCH OATMEAL pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB365,"E.BEST BAN RASP BR RICE pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB367,"E.BEST PEAR CARROT APRCT pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB368,"E.BEST SWEET POTATO BEET pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB371,"E.BEST TRKY QUINOA APPLE pouch","Earth's Best (puree pouch)","$ 2.06",12,$24.72
+EB369,"E.BEST SQUASH SWT PEAS pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+WS101,"WHOLESOME ORG FAIR TRADE SUGAR","Wholesome Sweeteners","$ 4.86",12,$58.32
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS113,"WHOLESOME ORG POWDERED SUGAR","Wholesome Sweeteners","$ 3.7",6,$22.2
+WS114,"WHOLESOME ORG COCONUT SUGAR","Wholesome Sweeteners","$ 4.66",6,$27.96
+WS115,"WHOLESOME ORG TURBINADO SUGAR","Wholesome Sweeteners","$ 4.72",12,$56.64
+BRD346,"BRAD ORG TURBINADO SUGAR","Brad's Organic Sugar",$4.75,12,$57
+BRD347,"BRAD ORGANIC CANE SUGAR","Brad's Organic Sugar",$3.80,12,$45.6
+BRD543,"BRAD ORG MAPLE DARK A 16oz","Brad's Organic Maple Syrup","$ 12.66",12,$151.92
+K602,"KASHI - GRAN BAR HNY ALM FLAX","Kashi (granola bars)","$ 4.19",8,$33.52
+K603,"KASHI - GRAN BAR PEANUT BUTTER","Kashi (granola bars)","$ 4.19",8,$33.52
+K604,"KASHI - GRAN BAR CHERRY CHOC","Kashi (granola bars)","$ 4.19",8,$33.52
+K605,"KASHI - GRAN BAR DRK MOCHA ALM","Kashi (granola bars)","$ 4.19",8,$33.52
+K606,"KASHI - GRAN BAR CHOC ALM SALT","Kashi (granola bars)","$ 4.19",8,$33.52
+K632,"KASHI - BREAKFAST BAR STRAWBRY","Kashi (granola bars)","$ 4.19",8,$33.52
+K641,"KASHI NUT BUTTER BAR CHC ALMND","Kashi (granola bars)","$ 4.73",8,$37.84
+K642,"KASHI NUT BTTR BAR SALTED CRML","Kashi (granola bars)","$ 4.73",8,$37.84
+K643,"KASHI NUT BTTR BAR CHOC CHUNK","Kashi (granola bars)","$ 4.73",8,$37.84
+K614,"KASHI CRNCHY GRN BAR CHC CHIA","Kashi (granola bars)","$ 4.19",12,$50.28
+K609,"KASHI GRAIN FREE BAR P.B. CHOC","Kashi (granola bars)","$ 4.19",8,$33.52
+K610,"KASHI GRAIN FREE BAR COCO ALM","Kashi (granola bars)","$ 4.19",8,$33.52
+BRD561,"BRAD -  ORG BEDTIME TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD567,"BRAD - ORGANIC GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD573,"BRAD ORG DECAF GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",6,$24
+NP308,"N.PATH - ENVIRO CHOCO CHIMPS","Nature's Path","$ 4.12",12,$49.44
+NP404,"N.PATH - FLAX PLUS RAISIN BRAN","Nature's Path","$ 4.12",12,$49.44
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+RD210,"R. DREAM- ORIGINAL 32oz (BLUE)","Rice Dream","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",12,$48
+MGC103,"MARY - HERB CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC104,"MARY - BLK PEPPER CRCKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+LU208,"LUNDBERG - BLACK JAPONICA 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU202,"LUNDBERG - JUBILEE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU212,"LUNDBERG OG BLK PERL RICE 1lb","Lundberg (1lb rice)","$ 4.54",6,$27.24
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",12,$75
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+,,,,,$3147.22

@@ -1,0 +1,72 @@
+Sku,Item,Category,Price,Quantity,Totals
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+NP131,"N.PATH - TURMERIC FLAKES 6/cs","Nature's Path","$ 4.39",6,$26.34
+NP404,"N.PATH - FLAX PLUS RAISIN BRAN","Nature's Path","$ 4.12",12,$49.44
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+PA311,"PACIFIC OG COCONUT ORIG 32oz","Pacific (milk)","$ 2.74",12,$32.88
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA313,"PACIFIC OG COCONUT UNSW VANILA","Pacific (milk)","$ 2.74",12,$32.88
+PA403,"PACIFIC - ORG ALMOND VANILLA","Pacific (milk)","$ 2.74",12,$32.88
+PA407,"PACIFIC - NATRL CHOC HAZELNUT","Pacific (milk)","$ 2.74",12,$32.88
+PA412,"PACIFIC - UNSW HEMP VANIL 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA414,"PACIFIC - ORIG HEMP MILK 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA415,"PACIFIC - VANILLA HEMP MILK 32","Pacific (milk)","$ 3.36",12,$40.32
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN114,"KNUDSEN - JUST BLACK CHERRY",Knudsen,"$ 5.46",6,$32.76
+KN130,"KNUDSEN - PEAR 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN102,"KNUDSEN - GRAPE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+SC104,"SANTA CRUZ OG PEAR NECTAR","Santa Cruz Juices","$ 3.86",6,$23.16
+SC303,"SANTA CRUZ ORG ORANGE MANGO","Santa Cruz Juices","$ 3.86",6,$23.16
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC109,"SANTA CRUZ - OG LIMEADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",6,$21.18
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",6,$21.18
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",60,$159.6
+AP505,"ANNIE'S ORG CHEESY RAVIOLI","Annie's (pasta)","$ 2.73",12,$32.76
+AP502,"ANNIE'S ORG ALL STARS","Annie's (pasta)","$ 2.73",12,$32.76
+AP501,"ANNIE'S ORG BERNIEO'S","Annie's (pasta)","$ 2.73",12,$32.76
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",12,$39.96
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",24,$89.52
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",24,$89.52
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU208,"LUNDBERG - BLACK JAPONICA 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",12,$58.92
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",12,$78.48
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",12,$78.48
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",24,$81.6
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",18,$61.2
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",18,$61.2
+LU305,"LUNDBERG - TAM SEAWEED R CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU312,"LUNDBERG - KETTLE CORN R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU313,"LUNDBERG OG HONEY NUT R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+CH101,"CHIMES GINGER CHEW ORIG 5oz","Chimes Ginger Chews","$ 3",20,$60
+CH102,"CHIMES GINGER CHEW P.BUTTR 5oz","Chimes Ginger Chews","$ 3",20,$60
+CH105,"CHIMES GINGER CHEW ORANGE 5oz","Chimes Ginger Chews","$ 3",20,$60
+MN101,"M. NATURE - PRUNES 6oz (PLUMS)","Made in Nature","$ 6.33",6,$37.98
+MN110,"M. NATURE - ORG CRANBERRIES","Made in Nature","$ 4.99",6,$29.94
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN104,"M. NATURE BLCK MISSION FIG 8oz","Made in Nature","$ 5.99",6,$35.94
+TZ110,"TAZO - GINGER GREEN TEA","Tazo Tea","$ 3.99",12,$47.88
+EB506,"E.BEST - FIRST FOOD BANANAS","Earth's Best - First Foods","$ 1.05",12,$12.6
+EB502,"E.BEST - FIRST FOOD CARROTS","Earth's Best - First Foods","$ 1.05",12,$12.6
+EB421,"E.BEST - CHEDDAR CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB422,"E.BEST - ORIGINAL CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB423,"E.BEST - VEGGIE CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB426,"E.BEST - OATMEAL CINN COOKIE","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB431,"E.BEST - APPLE SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+EB432,"E.BEST - STRAW SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+LAV101,"LAVASH - ORIGINAL SESAME","Lavash Flat Breads","$ 2.19",12,$26.28
+LAV105,"LAVASH - WHOLE WHT COMBO MULTI","Lavash Flat Breads","$ 2.19",12,$26.28
+,,,,,$2898.05

@@ -1,0 +1,119 @@
+Sku,Item,Category,Price,Quantity,Totals
+Y102,"YOGI - GREEN TEA W/KOMBUCHA","Yogi Tea","$ 3.75",6,$22.5
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",6,$22.5
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",6,$22.5
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y142,"YOGI - VANILLA SPICE ENERGY","Yogi Tea","$ 3.75",6,$22.5
+Y147,"YOGI - SWEET TANGERINE","Yogi Tea","$ 3.75",6,$22.5
+Y149,"YOGI - CINN VANIL HEALTHY SKIN","Yogi Tea","$ 3.75",6,$22.5
+Y150,"YOGI - RSTD DANDELION DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y154,"YOGI - MANGO GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y158,"YOGI - GINGER CITRUS TURMERIC","Yogi Tea",$3.75,6,$22.5
+TR102,"TRAD MED - ORG SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR133,"TRAD MED ORG PEPMINT SMTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR134,"TRAD MED - CHAM SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR121,"TRAD MED - ORG SPEARMINT","Traditional Medicinals","$ 4.33",6,$25.98
+TR131,"TRAD MED - ORG LICORICE ROOT","Traditional Medicinals","$ 4.33",6,$25.98
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",12,$43.92
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP506,"N.PATH - OPT CINN BB HOT","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+GT302,"SWEET HOME - FRNCH VANILA GRAN","Sweet Home Granola","$ 5.33",8,$42.64
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP125,"N.PATH - CINNAMON SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP225,"N.PATH LOVE CRUNCH CHOC MCROON","Nature's Path","$ 4.27",6,$25.62
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+NP228,"N.PATH LOVE CRUNCH DOUBLE CHOC","Nature's Path","$ 4.27",6,$25.62
+NP229,"N.PATH LOVE CRNCH ESPRESSO VAN","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+NP245,"N.PATH G/F COCONUT CASHEW GRAN","Nature's Path","$ 5.07",8,$40.56
+NKD201,"B NAKED FRUIT NUT GRAN CEREAL","Bear Naked","$ 4.86",12,$58.32
+NKD202,"B NAKED CINN PROTEIN GR CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD203,"B NAKED VAN ALM GRAN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD204,"B NAKED BANANA NUT GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K301A,"KASHI - GO LEAN CRUNCH",Kashi,"$ 4.46",12,$53.52
+K303,"KASHI - GOLEAN CRISP BERRY CRM",Kashi,"$ 4.46",12,$53.52
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN109,"M. NATURE - DRIED APRICOTS 6oz","Made in Nature","$ 4.99",6,$29.94
+MN101,"M. NATURE - PRUNES 6oz (PLUMS)","Made in Nature","$ 6.33",6,$37.98
+MN102,"M. NATURE - DRIED APPLES 3oz","Made in Nature","$ 4.99",6,$29.94
+MN104,"M. NATURE BLCK MISSION FIG 8oz","Made in Nature","$ 5.99",6,$35.94
+MN110,"M. NATURE - ORG CRANBERRIES","Made in Nature","$ 4.99",6,$29.94
+MN111,"M. NATURE - SUPER BERRY FUSION","Made in Nature","$ 4.99",6,$29.94
+MN112,"M. NATURE - BANANAS 4oz","Made in Nature","$ 4.99",6,$29.94
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",12,$51.96
+BRD205,"BRAD - ORG HABANERO SALSA","Brad's Organic",$3.7,12,$44.4
+BRD204,"BRAD - ORG RSTD GARLIC SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD203,"BRAD - ORG HOT SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD202,"BRAD - ORG MEDIUM SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD201,"BRAD - ORG MILD SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD108,"BRAD - NATURAL RANCH CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD301,"BRAD OG TRKSH OLIVE OIL 250ml","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+AN404,"ANNIE'S ORG DIJON MUSTARD","Annie's (condiments)","$ 4",12,$48
+AN405,"ANNIE'S ORG YELLOW MUSTARD","Annie's (condiments)","$ 4",12,$48
+AN107,"ANNIE'S ORG GREEN GARLIC","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+RD531,"IMAGINE BONE BROTH CHKN BEEF","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD530,"IMAGINE BONE BROTH CHICKEN","Imagine (32oz soup)","$ 4.66",12,$55.92
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+WS101,"WHOLESOME ORG FAIR TRADE SUGAR","Wholesome Sweeteners","$ 4.86",12,$58.32
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS306,"WHOLESOME ORG 35ct STEVIA","Wholesome Sweeteners","$ 3.53",6,$21.18
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+LUN108,"LUNA BAR - S'MORES 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN112,"LUNA BAR CHOC PEPPERMINT 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN123,"LUNA BAR - CHOCOLATE CUPCAKE","Luna Bars","$ 1.39",15,$20.85
+TT502,"THINK THIN- CREAMY PNUT BUTTER","Think! Protein Bars","$ 1.79",10,$17.9
+TT503,"THINK THIN - BROWNIE CRUNCH","Think! Protein Bars","$ 1.79",10,$17.9
+CL002,"CLIF - CHOC CHIP PNUT CRUNCH","Clif Bars","$ 1.5",12,$18
+CL003,"CLIF - CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL007,"CLIF - CHOC BROWNIE","Clif Bars","$ 1.5",12,$18
+CL014,"CLIF - OATMEAL RAISIN WALNUT","Clif Bars","$ 1.5",12,$18
+CL019,"CLIF - COCONUT CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL020,"CLIF - P.B. BANANA DARK CHOC","Clif Bars","$ 1.5",12,$18
+,,,,,$4097.39

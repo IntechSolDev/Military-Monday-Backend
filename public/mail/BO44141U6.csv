@@ -1,0 +1,65 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD201,"BRAD - ORG MILD SALSA","Brad's Organic","$ 3.7",24,$88.8
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",24,$52.56
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",24,$52.56
+BRD171,"BRAD - ORG PRETZELS STICKS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+SC101,"SANTA CRUZ OG LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC108,"SANTA CRUZ - OG STRAW LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC119,"SANTA CRUZ OG BLUEBRY LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",72,$123.84
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD433,"BRAD ORG WHOLE WHT MED SHELLS","Brad's Organic Pasta","$ 2",20,$40
+BRD375,"BRAD ORG RASPBERRY VINAIGRETTE","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD371,"BRAD ORG BALSAMIC DRESSING","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",12,$75
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",24,$120
+BRD643,"BRAD ORG BROWN BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD359,"BRAD ORG N/S WHL GRAIN MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",36,$95.76
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",24,$63.84
+BRD691,"BRADS - ORG COCONUT WATER","Brad's Organic Coconut","$ 4.66",300,$1398
+NP122,"N.PATH - SMART BRAN org","Nature's Path","$ 4.27",12,$51.24
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP124,"N.PATH - MAPLE SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP108,"N.PATH - HONEY'D CORN FLAKES","Nature's Path","$ 4.12",12,$49.44
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",24,$65.76
+PA415,"PACIFIC - VANILLA HEMP MILK 32","Pacific (milk)","$ 3.36",24,$80.64
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD291,"BRAD PINK HIMALAYN SLT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Sugar",$4,12,$48
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",12,$48
+F266,"FIRST - CLOVER 40oz","1st International Honey","$ 8.46",6,$50.76
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD534,"BRAD - ORG RAW BL AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+BRD351,"BRAD NTRL AVOCADO OIL 33.8oz","Brad's Organic Oil & Vinegar","$ 12.66",24,$303.84
+BRD305,"BRAD OG SPNSH EV OLIVE OIL 8.5","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",24,$52.8
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",24,$52.8
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+,,,,,$5381

@@ -1,0 +1,64 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD202,"BRAD - ORG MEDIUM SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+K110,"KASHI - AUTUMN WHEAT ORG",Kashi,"$ 4.67",12,$56.04
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+K503,"KASHI CINNAMON HEART TO HEART",Kashi,"$ 4.46",12,$53.52
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC107,"MARY - SUPER SEED CLASSIC ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+NEW610,"NEWMAN'S O'S REGULAR W/F D/F","Newman's (cookies)","$ 4.72",6,$28.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW605,"NEWMAN'S O'S MINT","Newman's (cookies)","$ 4.72",6,$28.32
+NEW603,"NEWMAN'S O'S CHOCOLATE","Newman's (cookies)","$ 4.72",6,$28.32
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA402,"PACIFIC - ORG ALMOND ORIGINAL","Pacific (milk)","$ 2.74",12,$32.88
+PA403,"PACIFIC - ORG ALMOND VANILLA","Pacific (milk)","$ 2.74",12,$32.88
+PA405,"PACIFIC - ORG UNSW ALMOND ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA406,"PACIFIC - ORG UNSW ALMND VANIL","Pacific (milk)","$ 2.74",12,$32.88
+PA407,"PACIFIC - NATRL CHOC HAZELNUT","Pacific (milk)","$ 2.74",6,$16.44
+PA411,"PACIFIC - UNSW HEMP ORIG 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA414,"PACIFIC - ORIG HEMP MILK 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA415,"PACIFIC - VANILLA HEMP MILK 32","Pacific (milk)","$ 3.36",12,$40.32
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",6,$32.76
+KN118,"KNUDSEN - JUST POMEGRANTE 32oz",Knudsen,"$ 6.92",6,$41.52
+KN143,"KNUDSEN - ORG CRAN & POMEGRNTE",Knudsen,"$ 3.86",6,$23.16
+SC101,"SANTA CRUZ OG LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC118,"SANTA CRUZ OG GINGER LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",12,$48
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD618,"BRAD - ORG NO SALT LENTILS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+TB101,"TASTY BITE BOMBAY POTATO 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB109,"TASTY BITE ORG MADRAS 3 BEAN","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB114,"TASTY BITE VEGTABLE KORMA 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB512,"TASTY BITE BASMATI RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB515,"TASTY BITE STICKY RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+EF132,"E.F LNDRY LIQ F&C 170oz","Earth Friendly","$ 15",2,$30
+EF133,"E.F LNDRY LIQ LVND 170oz","Earth Friendly","$ 15",2,$30
+EF134,"E.F LNDRY LIQ LEMONGRASS 170oz","Earth Friendly","$ 15",2,$30
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",12,$38.4
+EF304,"E.F DISH LIQUID LAVENDER 25oz","Earth Friendly","$ 3.2",12,$38.4
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",12,$38.4
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",12,$39.84
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF353,"E.F HAND SOAP ORANGE BLSM 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF505,"E.F FRUIT & VEG WASH 22oz","Earth Friendly","$ 3.04",12,$36.48
+EF506,"E.F VINEGAR GLASS CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF511,"E.F FLOOR CLEANER 22oz","Earth Friendly","$ 3.04",12,$36.48
+,,,,,$1970.16

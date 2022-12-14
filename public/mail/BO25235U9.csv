@@ -1,0 +1,87 @@
+Sku,Item,Category,Price,Quantity,Totals
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",6,$25.14
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+BLN101,"BLANCHARD ORG WHOLE CHESTNUTS",Chestnuts,"$ 2.66",12,$31.92
+TB124,"TASTY BITE VINDALOO SPICY","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB104,"TASTY BITE PUNJAB EGGPLNT 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB109,"TASTY BITE ORG MADRAS 3 BEAN","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB102,"TASTY BITE ORG MADRAS LENTILS","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB122,"TASTY BITE VEG TIKKA MASALA","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB114,"TASTY BITE VEGTABLE KORMA 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+ES201,"N. FOREST OG COCONUT MILK can","Native Forest Condiments","$ 2.26",12,$27.12
+ES202,"N. FOREST OG LITE COCO MLK can","Native Forest Condiments","$ 2.26",12,$27.12
+WP001,"WILD PLANET - ALBACORE TUNA","Wild Planet","$ 4.33",12,$51.96
+WP002,"WILD PLANET NO SALT ALBCR TUNA","Wild Planet","$ 4.33",12,$51.96
+WP003,"WILD PLANET - SKIPJACK TUNA","Wild Planet","$ 3.06",12,$36.72
+WP007,"WILD PLANET ALBCR TUNA IN EVOO","Wild Planet","$ 4.33",12,$51.96
+WP009,"WILD PLANET NO SLT SKPJCK TUNA","Wild Planet","$ 3.06",12,$36.72
+PA271,"PACIFIC 17oz ORG CHK NOODLE","Pacific (soup)","$ 3.13",12,$37.56
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA110,"PACIFIC OG L/S BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD610,"BRAD - ORG SALAD BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU106,"LUNDBERG ORG BROWN BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+EF304,"E.F DISH LIQUID LAVENDER 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF306,"E.F DISH LIQUID APRICOT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+MN106,"M. NATURE - RAISINS 9oz","Made in Nature","$ 4.99",6,$29.94
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+GT305,"SWEET HOME BLUE FLAX GRANOLA","Sweet Home Granola","$ 5.33",8,$42.64
+GT304,"SWEET HOME- L/F GRAN w/ RAISIN","Sweet Home Granola","$ 5.33",8,$42.64
+NP111,"N.PATH - FJS CORN FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP114,"N.PATH - OPTIMUM BLUE / CINN","Nature's Path","$ 4.27",12,$51.24
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+BB101,"BARBARA'S - ORIGINAL PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB102,"BARBARA'S - MORNING OATS CRNCH",Barbara's,"$ 4.26",12,$51.12
+BB303,"BARBARAS CHS PUFFS CHED JACK",Barbara's,"$ 2.47",12,$29.64
+BB301,"BARBARAS CHEESE PUFFS ORIG",Barbara's,"$ 2.47",12,$29.64
+WS113,"WHOLESOME ORG POWDERED SUGAR","Wholesome Sweeteners","$ 3.7",6,$22.2
+WS305,"WHOLESOME ORG STEVIA 75ct","Wholesome Sweeteners","$ 6.46",6,$38.76
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,12,$31.92
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE125,"GOE - SESAME BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+LUN101,"LUNA BAR - LEMON ZEST 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN102,"LUNA BAR NUTZ OVER CHOC 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN115,"LUNA BAR- DREAMY PEANUT BUTTER","Luna Bars","$ 1.39",15,$20.85
+LUN118,"LUNA BAR - CARAMEL NUT BROWNIE","Luna Bars","$ 1.39",15,$20.85
+LUN123,"LUNA BAR - CHOCOLATE CUPCAKE","Luna Bars","$ 1.39",15,$20.85
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",6,$24
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+,,,,,$2916.51

@@ -1,0 +1,52 @@
+Sku,Item,Category,Price,Quantity,Totals
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+AN113,"ANNIE'S ORG GREEN GODDESS","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN129,"ANNIE'S ORG BALSAMIC 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",12,$75
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD629,"BRAD ORG NO SALT BLK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+LU106,"LUNDBERG ORG BROWN BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU111,"LUNDBERG ORG WHITE LONG GRAIN 2lb","Lundberg (2lb rice)",$4.91,6,$29.46
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+HV726,"H.VALLEY - ORG CHICK RICE N/S","Health Valley (soup)","$ 3.15",12,$37.8
+HV716,"H.VALLEY - F/F 14 GARDEN VEG","Health Valley (soup)","$ 3.15",12,$37.8
+HV709,"H.VALLEY - ORG SPLIT PEA N/S","Health Valley (soup)","$ 3.15",12,$37.8
+HV725,"H.VALLEY - ORG CHCK NDL BOWTIE","Health Valley (soup)","$ 3.15",12,$37.8
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+BRD467,"BRAD ORG RICE & KALE RIGATI","Brad's Organic Gluten Free Pasta","$ 4.57",12,$54.84
+BRD461,"BRAD ORG RED LENTIL PENNE G/F","Brad's Organic Gluten Free Pasta","$ 4.57",12,$54.84
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+MGC106,"MARY - JALAPENO CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+K603,"KASHI - GRAN BAR PEANUT BUTTER","Kashi (granola bars)","$ 4.19",8,$33.52
+TT507,"THINK THIN - COOKIES & CREAM","Think! Protein Bars","$ 1.79",10,$17.9
+EB319,"E.BEST - VEGETABLE TURKEY","Earth's Best (baby food)","$ 1.6",20,$32
+EB320,"E.BEST - WINTER SQUASH","Earth's Best (baby food)","$ 1.6",10,$16
+EB307,"E.BEST - PEAR RASPBERRY","Earth's Best (baby food)","$ 1.6",20,$32
+EB327,"E.BEST - PEAR MANGO","Earth's Best (baby food)","$ 1.6",10,$16
+EB316,"E.BEST - APPLE BLUEBERRY","Earth's Best (baby food)","$ 1.6",10,$16
+EB308,"E.BEST - CARROT","Earth's Best (baby food)","$ 1.6",10,$16
+EB310,"E.BEST - PEAS & BROWN RICE","Earth's Best (baby food)","$ 1.6",24,$38.4
+EB321,"E.BEST CORN & BUTTERNUT SQUASH","Earth's Best (baby food)","$ 1.6",10,$16
+EB302,"E.BEST - APPLE & APRICOT","Earth's Best (baby food)","$ 1.6",20,$32
+EB306,"E.BEST - APPLE PLUM","Earth's Best (baby food)","$ 1.6",20,$32
+EB328,"E.BEST - BANANA PEACH RASP","Earth's Best (baby food)","$ 1.6",24,$38.4
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",24,$79.92
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",12,$31.92
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",60,$131.4
+,,,,,$1903.58

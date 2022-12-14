@@ -1,0 +1,35 @@
+Sku,Item,Category,Price,Quantity,Totals
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF114,"E.F LNDRY LIQ LEMONGRASS 100oz","Earth Friendly","$ 11.09",4,$44.36
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+RD513,"IMAGINE L/S CHICK BROTH 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+AP302,"ANNIE'S ORG FAMILY SHELL CHED","Annie's (pasta)","$ 4.53",6,$27.18
+AP402,"ANNIE'S MICRO REAL WISCON CHED","Annie's (pasta)","$ 5.86",6,$35.16
+AP411,"ANNIE'S MICRO CUP AGED CHED","Annie's (pasta)","$ 1.79",12,$21.48
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD221,"BRAD - ORG LOW FAT MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+NP551,"N.PATH OATMEAL CAN QUICK OATS","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+TZ115,"TAZO - CHAI ORGANIC TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ107,"TAZO - EARL GREY BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ106,"TAZO - AWAKE BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ104,"TAZO - PASSION HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ110,"TAZO - GINGER GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ116,"TAZO - DECAF CHAI TEA","Tazo Tea","$ 3.99",6,$23.94
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y132,"YOGI - WOMAN'S RASP LEAF","Yogi Tea","$ 3.75",6,$22.5
+TR139,"TRAD MED - CHAM W/ LAVENDER","Traditional Medicinals","$ 4.33",6,$25.98
+TR202,"TRAD MED - ORG PEPPERMINT","Traditional Medicinals","$ 4.33",6,$25.98
+TR118,"TRAD MED - ORG RSTD DANDELION","Traditional Medicinals","$ 4.33",6,$25.98
+TR112,"TRAD MED - SEASON HERB SAMPLER","Traditional Medicinals","$ 4.33",6,$25.98
+TR113,"TRAD MED - MOTHER'S MILK","Traditional Medicinals","$ 4.33",6,$25.98
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+K502,"KASHI - BLUEBRY HEART TO HEART",Kashi,"$ 4.46",10,$44.6
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+,,,,,$1099.96

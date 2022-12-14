@@ -1,0 +1,52 @@
+Sku,Item,Category,Price,Quantity,Totals
+HA103,"HAPPY BABY PUFFS KALE SPINACH","Happy Baby","$ 2.93",12,$35.16
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",12,$35.16
+HA111,"HAPPY BABY MELTS STRAWBERRY","Happy Baby","$ 3.33",16,$53.28
+HA112,"HAPPY BABY MELTS MIX BERRY","Happy Baby","$ 3.33",16,$53.28
+HA113,"HAPPY BABY MELTS BANANA MANGO","Happy Baby","$ 3.33",16,$53.28
+HA118,"H.BABY MELT APL SPINACH PEA","Happy Baby","$ 3.33",16,$53.28
+HA119,"H.BABY MELT STRAW RASP CAROT","Happy Baby","$ 3.33",16,$53.28
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",12,$48.72
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",12,$48.72
+HA163,"H.BABY TEETHERS PEA & SPINACH","Happy Baby","$ 4.06",12,$48.72
+HA164,"H.BABY TEETHER CRCKR MANGO","Happy Baby","$ 4.06",12,$48.72
+HA165,"H.BABY TEETHER CRCKR STRW BEET","Happy Baby","$ 4.06",12,$48.72
+HA211,"HAPPY BABY # 2 BAN, BEET, BLUE","Happy Baby","$ 1.43",32,$45.76
+HA213,"H.BABY # 2 SPIN MNGO PEAR 1392","Happy Baby","$ 1.43",32,$45.76
+HA214,"HAPPY BABY # 2 PEAS, BROC PEAR","Happy Baby","$ 1.43",32,$45.76
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",32,$48.96
+HA302,"HAPPY BABY # 3 VEG & TURKEY","Happy Baby","$ 1.53",32,$48.96
+HA303,"HAPPY BABY # 3 VEG BEEF MEDLEY","Happy Baby","$ 1.53",32,$48.96
+HA321,"HAPPY BABY # 4 GRN BEAN, PEARS","Happy Baby","$ 1.53",32,$48.96
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",32,$48.96
+HA326,"H.BABY # 4 PMPKIN SWT PT PEAR","Happy Baby","$ 1.53",32,$48.96
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",32,$48.96
+HA351,"HAPPY MORNING BANANA BLUE OAT","Happy Baby","$ 1.53",32,$48.96
+HA352,"HAPPY MORNING APL CINN YOG OAT","Happy Baby","$ 1.53",32,$48.96
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",32,$48.96
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",32,$48.96
+HA411,"H.BABY CC # 2 APL KALE AVOCADO","Happy Baby","$ 1.73",32,$55.36
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",32,$55.36
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",32,$55.36
+HA421,"H.BABY CC # 2 PEAR ZUCHINI PEA","Happy Baby","$ 1.73",32,$55.36
+HA423,"H.BABY CC # 2 PEAS BANANA KIWI","Happy Baby","$ 1.73",32,$55.36
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",32,$55.36
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",32,$48.96
+EB423,"E.BEST - VEGGIE CRACKER","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB424,"E.BEST - HONEY GRM CRACKER","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB426,"E.BEST - OATMEAL CINN COOKIE","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB427,"E.BEST - VERY VANILLA COOKIE","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB431,"E.BEST - APPLE SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+EB432,"E.BEST - STRAW SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+EB433,"E.BEST - SWT POT CAROT SNK BAR","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+EB451,"E.BEST - STRAW BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",24,$46.08
+EB453,"E.BEST - PEACH BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",24,$46.08
+EB452,"E.BEST - APPLE BLUE SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",24,$46.08
+EB457,"E.BEST - PINEAPPLE ORNG SMTHIE","Earth's Best - Sesame Street","$ 1.92",24,$46.08
+EB364,"E.BEST APPLE PCH OATMEAL pouch","Earth's Best (puree pouch)","$ 1.73",24,$41.52
+EB363,"E.BEST BANANA BLUEBERRY pouch","Earth's Best (puree pouch)","$ 1.73",24,$41.52
+EB365,"E.BEST BAN RASP BR RICE pouch","Earth's Best (puree pouch)","$ 1.73",24,$41.52
+EB368,"E.BEST SWEET POTATO BEET pouch","Earth's Best (puree pouch)","$ 1.73",24,$41.52
+EB369,"E.BEST SQUASH SWT PEAS pouch","Earth's Best (puree pouch)","$ 1.73",24,$41.52
+EB371,"E.BEST TRKY QUINOA APPLE pouch","Earth's Best (puree pouch)","$ 2.06",24,$49.44
+,,,,,$2412.36

@@ -1,0 +1,75 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD390,"BRAD ORG HRTS PALM SPEARS jars","Brad's Organic Hearts Palm","$ 4.88",12,$58.56
+BRD391,"BRAD ORG HRTS PALM SLICES jars","Brad's Organic Hearts Palm","$ 3.55",12,$42.6
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD607,"BRAD - ORG CHILI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",36,$128.16
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",36,$128.16
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",36,$113.4
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",36,$113.4
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA110,"PACIFIC OG L/S BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",12,$44.76
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+PA272,"PACIFIC 17oz ORG CHK & RICE","Pacific (soup)","$ 3.13",12,$37.56
+PA271,"PACIFIC 17oz ORG CHK NOODLE","Pacific (soup)","$ 3.13",12,$37.56
+TB514,"TASTY BITE JASMINE RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB122,"TASTY BITE VEG TIKKA MASALA","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+WP023,"W. PLANET SARDINES OIL & LEMON","Wild Planet","$ 2.19",12,$26.28
+MN109,"M. NATURE - DRIED APRICOTS 6oz","Made in Nature","$ 4.99",6,$29.94
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",12,$59.88
+MN112,"M. NATURE - BANANAS 4oz","Made in Nature","$ 4.99",6,$29.94
+BLN101,"BLANCHARD ORG WHOLE CHESTNUTS",Chestnuts,"$ 2.66",24,$63.84
+KN120,"KNUDSEN - APPLE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",6,$32.76
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN401,"KNUDSEN - ORG JUST PRUNE 32oz",Knudsen,"$ 6.92",6,$41.52
+KN144,"KNUDSEN - ORG PINEAPPLE JUICE",Knudsen,"$ 5.53",6,$33.18
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BB201,"WEETABIX NATURAL 14oz",Barbara's,"$ 4.26",12,$51.12
+BB103,"BARBARA'S MULTIGRAIN SPOONFUL",Barbara's,"$ 4.26",12,$51.12
+BB105,"BARBARA'S - CINNAMON PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB109,"BARBARA'S - HONEY RICE PUFFINS",Barbara's,"$ 4.26",12,$51.12
+WB204,"WESTSOY OG UNSWEET PLAIN 32oz",Westsoy,"$ 3.53",12,$42.36
+WB204A,"WESTSOY UNSWEETENED VANILLA",Westsoy,"$ 3.53",12,$42.36
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA311,"PACIFIC OG COCONUT ORIG 32oz","Pacific (milk)","$ 2.74",12,$32.88
+CL310,"CLIF - BUILDER CINN NUT SWIRL","Clif Bars","$ 1.86",12,$22.32
+CL308,"CLIF - BUILDER VANILLA ALMOND","Clif Bars","$ 1.86",12,$22.32
+CL302,"CLIF - BUILDER CHOCOLATE","Clif Bars","$ 1.86",12,$22.32
+CL003,"CLIF - CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL007,"CLIF - CHOC BROWNIE","Clif Bars","$ 1.5",12,$18
+CL012,"CLIF - PEANUT TOFFEE BUZZ","Clif Bars","$ 1.5",12,$18
+CL014,"CLIF - OATMEAL RAISIN WALNUT","Clif Bars","$ 1.5",12,$18
+CL020,"CLIF - P.B. BANANA DARK CHOC","Clif Bars","$ 1.5",12,$18
+CL018,"CLIF - WHITE CHOC MACADAMIA","Clif Bars","$ 1.5",12,$18
+LUN101,"LUNA BAR - LEMON ZEST 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN102,"LUNA BAR NUTZ OVER CHOC 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN112,"LUNA BAR CHOC PEPPERMINT 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN115,"LUNA BAR- DREAMY PEANUT BUTTER","Luna Bars","$ 1.39",15,$20.85
+TT502,"THINK THIN- CREAMY PNUT BUTTER","Think! Protein Bars","$ 1.79",10,$17.9
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101B,"NEWMAN'S - WHEAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",6,$24
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW610,"NEWMAN'S O'S REGULAR W/F D/F","Newman's (cookies)","$ 4.72",6,$28.32
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+,,,,,$2668.13

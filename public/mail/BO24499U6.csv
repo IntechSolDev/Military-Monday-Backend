@@ -1,0 +1,83 @@
+Sku,Item,Category,Price,Quantity,Totals
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF114,"E.F LNDRY LIQ LEMONGRASS 100oz","Earth Friendly","$ 11.09",4,$44.36
+EF506,"E.F VINEGAR GLASS CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU111,"LUNDBERG ORG WHITE LONG GRAIN 2lb","Lundberg (2lb rice)",$4.91,6,$29.46
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+WP022,"W. PLANET SARDINES SPRNG WATER","Wild Planet","$ 2.19",12,$26.28
+WP023,"W. PLANET SARDINES OIL & LEMON","Wild Planet","$ 2.19",12,$26.28
+WP007,"WILD PLANET ALBCR TUNA IN EVOO","Wild Planet","$ 4.33",12,$51.96
+AN103,"ANNIE'S ORG L/F RASPBERRY 8oz","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN113,"ANNIE'S ORG GREEN GODDESS","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN130,"ANNIE'S ORG COWGIRL 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN102,"ANNIE'S GODDESS 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+TB125,"TASTY BITE COCONUT VEG HOT","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+BRD315,"BRAD ORG APPL CIDER VNGR liter","Brad's Organic Oil & Vinegar","$ 4.88",6,$29.28
+SP511,"SPEC 16oz COCONUT SPRAY large",Spectrum,"$ 8.99",6,$53.94
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+NP541,"N.PATH - QIA OATMEAL SUPERSEED","Nature's Path Hot Cereal","$ 4.66",6,$27.96
+NP521,"N.PATH - G/F OAT SPICED APPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+K502,"KASHI - BLUEBRY HEART TO HEART",Kashi,"$ 4.46",10,$44.6
+K110,"KASHI - AUTUMN WHEAT ORG",Kashi,"$ 4.67",12,$56.04
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K114,"KASHI - DARK COCOA KARMA ORG",Kashi,"$ 4.67",12,$56.04
+NP131,"N.PATH - TURMERIC FLAKES 6/cs","Nature's Path","$ 4.39",6,$26.34
+NP132,"N.PATH PURPLE ACAI FLAKES 6/cs","Nature's Path","$ 4.39",6,$26.34
+NP126,"N.PATH - HONEY SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+WB204,"WESTSOY OG UNSWEET PLAIN 32oz",Westsoy,"$ 3.53",12,$42.36
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+ES201,"N. FOREST OG COCONUT MILK can","Native Forest Condiments","$ 2.26",12,$27.12
+ES202,"N. FOREST OG LITE COCO MLK can","Native Forest Condiments","$ 2.26",12,$27.12
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",6,$22.5
+Y205,"YOGI - PEPPERMINT","Yogi Tea","$ 3.75",6,$22.5
+Y122,"YOGI - GRN TEA SLIM LIFE BLUE","Yogi Tea","$ 3.75",6,$22.5
+Y146,"YOGI - CARAMEL APPLE SPICE","Yogi Tea","$ 3.75",6,$22.5
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN121,"KNUDSEN- MEGA ANTIOXIDANT 32oz",Knudsen,"$ 3.33",6,$19.98
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+BRD511C,"BRAD ORG WILDFLWR HONEY 35.3oz","Brad's Organic Honey","$ 10",6,$60
+BRD511A,"BRAD ORG WILDFLOWR HONEY 12.35","Brad's Organic Honey","$ 4.16",12,$49.92
+BRD528B,"BRAD NATURAL WILDFLOWR 17.6oz","Brad's Natural Honey","$ 4.58",12,$54.96
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F249,"FIRST - WILDFLOWER 2lb","1st International Honey","$ 6.66",12,$79.92
+F247,"FIRST - ORANGE BLOSSOM 2lb","1st International Honey","$ 6.66",12,$79.92
+F255,"FIRST - BUCKWHEAT 5lb","1st International Honey","$ 15.33",6,$91.98
+F254,"FIRST - WILDFLOWER 5lb","1st International Honey","$ 15.33",6,$91.98
+F253,"FIRST - CLOVER 5lb","1st International Honey","$ 15.33",6,$91.98
+F252,"FIRST - ORANGE BLOSSOM 5lb","1st International Honey","$ 15.33",6,$91.98
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",12,$31.92
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",12,$31.92
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+,,,,,$2931.62

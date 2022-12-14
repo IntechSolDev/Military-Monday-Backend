@@ -1,0 +1,57 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD107,"BRAD - NATURAL NACHO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",12,$39.96
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN112,"KNUDSEN - ORG TOMATO 32oz",Knudsen,"$ 3.26",6,$19.56
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN144,"KNUDSEN - ORG PINEAPPLE JUICE",Knudsen,"$ 5.53",6,$33.18
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",6,$25.14
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+BRD528A,"BRAD NATURAL WILDFLOWR 12.35oz","Brad's Natural Honey","$ 3.33",12,$39.96
+BRD529A,"BRAD NATURAL ORANG BLSM 12.35","Brad's Natural Honey","$ 4.58",12,$54.96
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+WS101,"WHOLESOME ORG FAIR TRADE SUGAR","Wholesome Sweeteners","$ 4.86",12,$58.32
+WS115,"WHOLESOME ORG TURBINADO SUGAR","Wholesome Sweeteners","$ 4.72",12,$56.64
+BRD332,"BRAD ORG COCONUT OIL REF 14oz","Brad's Organic Coconut","$ 6.19",6,$37.14
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y147,"YOGI - SWEET TANGERINE","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP552,"N.PATH OATMEAL CAN OLD FASHION","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+NP556,"N.PATH G/F STEEL CUT OATS CAN","Nature's Path Hot Cereal","$ 5.33",6,$31.98
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA272,"PACIFIC 17oz ORG CHK & RICE","Pacific (soup)","$ 3.13",12,$37.56
+PA271,"PACIFIC 17oz ORG CHK NOODLE","Pacific (soup)","$ 3.13",12,$37.56
+PA264,"PACIFIC 17.6oz TOMATO BISQUE","Pacific (soup)","$ 3.13",12,$37.56
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+,,,,,$1727.86

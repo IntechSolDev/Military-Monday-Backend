@@ -1,0 +1,324 @@
+Sku,Item,Category,Price,Quantity,Totals
+TB519,"TASTY BITE BROWN RICE & LENTIL","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB114,"TASTY BITE VEGTABLE KORMA 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB103,"TASTY BITE KASHMIR SPINCH 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD346,"BRAD ORG TURBINADO SUGAR","Brad's Organic Sugar",$4.75,12,$57
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Sugar",$4,24,$96
+BRD348,"BRAD ORG STEVIA 50ct","Brad's Organic Sugar",$3.80,20,$76
+WS306,"WHOLESOME ORG 35ct STEVIA","Wholesome Sweeteners","$ 3.53",6,$21.18
+WS215,"WHOLESOME 44oz OG BLUE AGAVE","Wholesome Sweeteners","$ 10.61",6,$63.66
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA104,"HAPPY BABY PUFFS SWEET POT G/F","Happy Baby","$ 2.93",6,$17.58
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",6,$17.58
+HA111,"HAPPY BABY MELTS STRAWBERRY","Happy Baby","$ 3.33",8,$26.64
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",6,$24.36
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+HA163,"H.BABY TEETHERS PEA & SPINACH","Happy Baby","$ 4.06",6,$24.36
+HA211,"HAPPY BABY # 2 BAN, BEET, BLUE","Happy Baby","$ 1.43",16,$22.88
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA423,"H.BABY CC # 2 PEAS BANANA KIWI","Happy Baby","$ 1.73",16,$27.68
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",32,$53.12
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",32,$48.96
+HA373,"H.TOT FIBER PEAR KIWI & KALE","Happy Baby","$ 1.53",32,$48.96
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",32,$48.96
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA343,"H.BABY TOT #4 KALE APL MANGO","Happy Baby","$ 1.53",32,$48.96
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA322,"HAPPY BABY # 4 SWT POT, APPLES","Happy Baby","$ 1.53",32,$48.96
+HA351,"HAPPY MORNING BANANA BLUE OAT","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",32,$48.96
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",32,$48.96
+HA359,"H.BABY BELLIES BANANA SPINACH","Happy Baby","$ 1.53",32,$48.96
+EB502,"E.BEST - FIRST FOOD CARROTS","Earth's Best - First Foods","$ 1.05",12,$12.6
+EB506,"E.BEST - FIRST FOOD BANANAS","Earth's Best - First Foods","$ 1.05",12,$12.6
+EB421,"E.BEST - CHEDDAR CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB422,"E.BEST - ORIGINAL CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB424,"E.BEST - HONEY GRM CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB433,"E.BEST - SWT POT CAROT SNK BAR","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+EB451,"E.BEST - STRAW BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB455,"E.BEST - MIXED BERRY SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB301,"E.BEST - APPLES","Earth's Best (baby food)","$ 1.6",20,$32
+EB302,"E.BEST - APPLE & APRICOT","Earth's Best (baby food)","$ 1.6",10,$16
+EB305,"E.BEST - BANANA","Earth's Best (baby food)","$ 1.6",20,$32
+EB306,"E.BEST - APPLE PLUM","Earth's Best (baby food)","$ 1.6",20,$32
+EB308,"E.BEST - CARROT","Earth's Best (baby food)","$ 1.6",10,$16
+EB309,"E.BEST - SWEET POTATO","Earth's Best (baby food)","$ 1.6",10,$16
+EB310,"E.BEST - PEAS & BROWN RICE","Earth's Best (baby food)","$ 1.6",24,$38.4
+EB316,"E.BEST - APPLE BLUEBERRY","Earth's Best (baby food)","$ 1.6",10,$16
+EB319,"E.BEST - VEGETABLE TURKEY","Earth's Best (baby food)","$ 1.6",20,$32
+EB327,"E.BEST - PEAR MANGO","Earth's Best (baby food)","$ 1.6",10,$16
+EB328,"E.BEST - BANANA PEACH RASP","Earth's Best (baby food)","$ 1.6",24,$38.4
+EB203,"E.BEST - 8oz OATMEAL CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+EB360,"E.BEST SWT POTATO APPLE pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB362,"E.BEST ORANGE BANANA pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB363,"E.BEST BANANA BLUEBERRY pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB364,"E.BEST APPLE PCH OATMEAL pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+BJ301,"BRAD - ORG STRAW FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ303,"BRAD - ORG MIX BERRY FRT SPRD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ305,"BRAD - ORG APRICOT FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF103,"E.F LNDRY LIQ LVND 50oz #9755","Earth Friendly","$ 6.2",8,$49.6
+EF126,"ECOS NXT LNDRY SHTS LAVND 50ct","Earth Friendly","$ 11.09",10,$110.9
+EF133,"E.F LNDRY LIQ LVND 170oz","Earth Friendly","$ 15",2,$30
+EF134,"E.F LNDRY LIQ LEMONGRASS 170oz","Earth Friendly","$ 15",2,$30
+EF114,"E.F LNDRY LIQ LEMONGRASS 100oz","Earth Friendly","$ 11.09",4,$44.36
+EF112,"E.F LNDRY LIQ F&C 100oz #9889","Earth Friendly","$ 11.09",4,$44.36
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",72,$123.84
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD629,"BRAD ORG NO SALT BLK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",48,$127.68
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",24,$63.84
+PB103,"BRADS - NATURAL ALMOND BUTTER","Brad's Nut Butters","$ 9",12,$108
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",12,$103.92
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+PB204,"BRADS - ORGANIC CASHEW BUTTER","Brad's Nut Butters","$ 10.66",12,$127.92
+BRD315,"BRAD ORG APPL CIDER VNGR liter","Brad's Organic Oil & Vinegar","$ 4.88",60,$292.8
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD544B,"BRAD ORG A/B VERY DRK MPL 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD515,"BRAD ORG RAW HONEY 18oz","Brad's Organic Honey","$ 9.16",12,$109.92
+BRD519,"BRAD ORG CITRUS HONEY 2lb","Brad's Organic Honey","$ 13.33",6,$79.98
+BRD527,"BRAD NATURAL CITRUS 2lb","Brad's Natural Honey","$ 9",6,$54
+SC554,"S.CRUZ ORG STRAWBERRY FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC553,"S.CRUZ ORG APRICOT FRT SPREAD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",6,$21.18
+F245,"FIRST - HONEY BEARS","1st International Honey","$ 2.86",12,$34.32
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",24,$239.76
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",24,$144
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",18,$179.82
+BRD534,"BRAD - ORG RAW BL AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+SP104,"SPEC OG 25oz XTRA VIRG OLV OIL",Spectrum,"$ 13.32",6,$79.92
+SP401,"SPEC ORG SESAME OIL 8oz","Spectrum (8oz Oils)","$ 6.65",6,$39.9
+SP405,"SPEC OG TSTD SESAME OIL 8oz","Spectrum (8oz Oils)","$ 6.65",6,$39.9
+BRD332,"BRAD ORG COCONUT OIL REF 14oz","Brad's Organic Coconut","$ 6.19",6,$37.14
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",12,$90.36
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",60,$159.6
+KZ101,"KHAZANA ORG BLK GRAM KIDNEY BN","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ102,"KHAZANA ORG TIKA MASALA CHKPEA","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ103,"KHAZANA ORG YELLOW LENTILS","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ104,"KHAZANA ORG RED LENTIL CURRY","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ105,"KHAZANA ORG CHIPOTLE CHKPEA","Khazana Organic Indian","$ 3.33",6,$19.98
+FM102,"F. MARKET - SWT POT PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+BRD393,"BRAD ORG HRTS PALM SLICES cans","Brad's Organic Hearts Palm","$ 3",12,$36
+BRD376,"BRAD ORG SESAME GNGER DRESSING","Brad's Organic Dressing 12oz","$ 3.33",12,$39.96
+BRD453,"BRAD ORG RICE CORN FUSILI G/F","Brad's Organic Gluten Free Pasta","$ 2.66",12,$31.92
+BRD221,"BRAD - ORG LOW FAT MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD224,"BRAD - ORG LOW FAT PORTABELLO","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA107,"PACIFIC - ORG MUSH BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA264,"PACIFIC 17.6oz TOMATO BISQUE","Pacific (soup)","$ 3.13",12,$37.56
+PA265,"PACIFIC 17oz VEG LENTIL","Pacific (soup)","$ 3.13",12,$37.56
+PA262,"PACIFIC 17.6oz BTRNT SQSH BISQ","Pacific (soup)","$ 3.13",12,$37.56
+PA266,"PACIFIC 17oz THAI SWT POTATO","Pacific (soup)","$ 3.13",12,$37.56
+RD514,"IMAGINE L/S VEG BROTH 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+RD501,"IMAGINE BUTTERNUT SQUASH 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD510,"IMAGINE CREAMY SWEET PEA 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD529,"IMAGINE ORG MISO BROTH 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+ES105,"ED & SON - GOLDEN MISO CUP","Ed & Son Miso Cups","$ 3.86",12,$46.32
+ES106,"ED & SON - SEAWEED MISO CUP","Ed & Son Miso Cups","$ 3.86",12,$46.32
+ES107,"ED & SON - L/S MISO CUP","Ed & Son Miso Cups","$ 3.19",12,$38.28
+AB101,"ABS G.FREE ORIG CRACKER 4.4oz","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB111,"ABS G.FREE ORIG FLATBREAD 5.29","Absolutely Gluten Free","$ 3.86",12,$46.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",6,$24
+MGC412,"MARY - GARLC ROSEMRY THINS G/F","Mary's Gone Crackers","$ 3.86",6,$23.16
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC103,"MARY - HERB CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+AP705,"ANNIE'S 12pk SNACKS VARIETY","Annie's (snacks)","$ 6.66",6,$39.96
+AP704,"ANNIE'S 12pk FRIENDS GRAHM 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP702,"ANNIE'S 12pk CHED BUNNIES 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP754,"ANNIE'S ORG FRUIT SNACK STRAW","Annie's (snacks)","$ 4.13",10,$41.3
+AP753,"ANNIE'S ORG FRT SNK SNY CITRUS","Annie's (snacks)","$ 4.13",10,$41.3
+AP752,"ANNIE'S ORG FRUIT SNK TROPICAL","Annie's (snacks)","$ 4.13",10,$41.3
+AP751,"ANNIE'S ORG FRUIT SNACKS BERRY","Annie's (snacks)","$ 4.13",10,$41.3
+AP721,"ANNIES OG BNY GRM FRNDS 11.25z","Annie's (snacks)","$ 4.33",6,$25.98
+AP711,"ANNIE'S HNY BUNNY GRAHAM 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP701,"ANNIE'S CHEDDAR BUNNIES 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU201,"LUNDBERG - COUNTRY WILD 1lb","Lundberg (1lb rice)","$ 3.83",12,$45.96
+LU202,"LUNDBERG - JUBILEE 1lb","Lundberg (1lb rice)","$ 3.83",12,$45.96
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",12,$45.96
+LU212,"LUNDBERG OG BLK PERL RICE 1lb","Lundberg (1lb rice)","$ 4.54",6,$27.24
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD643A,"BRAD ORG 5lb BRWN BASMATI sack","Brad's Organic Grains","$ 12.5",6,$75
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+AP301,"ANNIE'S FAMILY SHELL & CHEDDAR","Annie's (pasta)","$ 3.6",6,$21.6
+AP302,"ANNIE'S ORG FAMILY SHELL CHED","Annie's (pasta)","$ 4.53",6,$27.18
+AP411,"ANNIE'S MICRO CUP AGED CHED","Annie's (pasta)","$ 1.79",12,$21.48
+AP304,"ANNIE'S DELUXE ELBOW 4-CHEESE","Annie's (pasta)","$ 3.83",12,$45.96
+AP303,"ANNIE'S DELUXE SHELL AGED CHED","Annie's (pasta)","$ 3.83",12,$45.96
+AP101,"ANNIE'S SHELL WHT CHED #00004","Annie's (pasta)","$ 2.08",12,$24.96
+AP106,"ANNIE'S CLASSIC MAC CHS #00045","Annie's (pasta)","$ 2.08",12,$24.96
+AP107,"ANNIES 25% LESS SODIUM MAC CHS","Annie's (pasta)","$ 2.08",12,$24.96
+AP204,"ANNIE'S ORG WISCON CHED #30098","Annie's (pasta)","$ 3",12,$36
+WP041,"W. PLANET SKNLS BONELESS SRDNS","Wild Planet","$ 2.66",12,$31.92
+WP021,"W. PLANET SARDINES EV OLV OIL","Wild Planet","$ 2.19",24,$52.56
+WP024,"W. PLANET SARDINES MARINARA","Wild Planet","$ 2.19",24,$52.56
+WP022,"W. PLANET SARDINES SPRNG WATER","Wild Planet","$ 2.19",12,$26.28
+WP009,"WILD PLANET NO SLT SKPJCK TUNA","Wild Planet","$ 3.06",12,$36.72
+WP007,"WILD PLANET ALBCR TUNA IN EVOO","Wild Planet","$ 4.33",12,$51.96
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+Y102,"YOGI - GREEN TEA W/KOMBUCHA","Yogi Tea","$ 3.75",6,$22.5
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y105,"YOGI - BREATHE DEEP","Yogi Tea","$ 3.75",6,$22.5
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y121,"YOGI - KAVA STRESS RELIEF","Yogi Tea","$ 3.75",6,$22.5
+Y122,"YOGI - GRN TEA SLIM LIFE BLUE","Yogi Tea","$ 3.75",6,$22.5
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",6,$22.5
+Y132,"YOGI - WOMAN'S RASP LEAF","Yogi Tea","$ 3.75",6,$22.5
+Y136,"YOGI - G.T. PASSION FRT MATCHA","Yogi Tea","$ 3.75",6,$22.5
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y141,"YOGI ROSE HIBISCUS (skin detx)","Yogi Tea","$ 3.75",6,$22.5
+Y146,"YOGI - CARAMEL APPLE SPICE","Yogi Tea","$ 3.75",6,$22.5
+Y147,"YOGI - SWEET TANGERINE","Yogi Tea","$ 3.75",6,$22.5
+Y148,"YOGI - HONEY LAVENDER STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y149,"YOGI - CINN VANIL HEALTHY SKIN","Yogi Tea","$ 3.75",6,$22.5
+Y150,"YOGI - RSTD DANDELION DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y152,"YOGI - CINN BERRY PROBIOTIC","Yogi Tea","$ 3.75",6,$22.5
+Y154,"YOGI - MANGO GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y156,"YOGI SWEET CLEMENTINE STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y157,"YOGI BLKBRY APPLE CIDER DIGEST","Yogi Tea","$ 3.75",6,$22.5
+Y158,"YOGI - GINGER CITRUS TURMERIC","Yogi Tea",$3.75,6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y205,"YOGI - PEPPERMINT","Yogi Tea","$ 3.75",6,$22.5
+Y206,"YOGI - HONEY CHAI TURMERIC","Yogi Tea","$ 3.75",6,$22.5
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+Y402,"YOGI - DECAF PURE GREEN","Yogi Tea","$ 3.75",6,$22.5
+BRD572,"BRAD - ORG GREEN TEA KOMB 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",18,$59.94
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",18,$59.94
+BRD567,"BRAD - ORGANIC GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",6,$24
+BRD569,"BRAD - ORG THROAT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",18,$59.94
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",18,$59.94
+BRD550,"BRAD - ORG DETOX TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD552,"BRAD - ORG SLIM TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD553,"BRAD - ORG LAXATIVE TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+TR101,"TRAD MED - BREATHE EASY","Traditional Medicinals","$ 4.33",6,$25.98
+TR102,"TRAD MED - ORG SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR103,"TRAD MED - ORG THROAT COAT","Traditional Medicinals","$ 4.33",6,$25.98
+TR104,"TRAD MED - GINGER AID","Traditional Medicinals","$ 4.33",6,$25.98
+TR105,"TRAD MED - ORG ECHIN PLUS","Traditional Medicinals","$ 4.33",6,$25.98
+TR109,"TRAD MED- LEMON ECH THROAT","Traditional Medicinals","$ 4.33",6,$25.98
+TR115,"TRAD MED - BELLY CMFRT PEPRMNT","Traditional Medicinals","$ 4.33",6,$25.98
+TR116,"TRAD MED - ORG RASPBERRY LEAF","Traditional Medicinals","$ 4.33",6,$25.98
+TR117,"TRAD MED - ORG GINGER  reg","Traditional Medicinals","$ 4.33",6,$25.98
+TR121,"TRAD MED - ORG SPEARMINT","Traditional Medicinals","$ 4.33",6,$25.98
+TR132,"TRAD MED - ORG NETTLE LEAF","Traditional Medicinals","$ 4.33",6,$25.98
+TR133,"TRAD MED ORG PEPMINT SMTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR134,"TRAD MED - CHAM SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR139,"TRAD MED - CHAM W/ LAVENDER","Traditional Medicinals","$ 4.33",6,$25.98
+TR201,"TRAD MED - ORG CHAMOMILE","Traditional Medicinals","$ 4.33",6,$25.98
+TR202,"TRAD MED - ORG PEPPERMINT","Traditional Medicinals","$ 4.33",6,$25.98
+TZ104,"TAZO - PASSION HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ105,"TAZO - CINN SPICE HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ106,"TAZO - AWAKE BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ107,"TAZO - EARL GREY BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ109,"TAZO - ZEN GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ110,"TAZO - GINGER GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ111,"TAZO - CHINA TIPS GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ112,"TAZO - OG PEACHY GREEN TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ113,"TAZO - DARJEELING ORGANIC TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ114,"TAZO - ORG PAN FIRED GREEN TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ115,"TAZO - CHAI ORGANIC TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ116,"TAZO - DECAF CHAI TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ118,"TAZO - SCARLT CTRS ROOIBOS TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ119,"TAZO - FLOWERING HNY BUSH TEA","Tazo Tea","$ 3.99",6,$23.94
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+BRD386,"BRAD ORG SUNDRIED TOMATOES","Brad's Organic Condiments","$ 6.66",12,$79.92
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+TT603,"THINK THIN OAT BWL HNY PNT BTR","Think Thin Oatmeal","$ 1.68",6,$10.08
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+NKD207,"B NAKED CACAO CASHEW BTR GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD201,"B NAKED FRUIT NUT GRAN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD208,"B NAKED MAPLE-ICIOUS GRANOLA","Bear Naked","$ 4.86",6,$29.16
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",6,$29.16
+K302,"KASHI - GOLEAN CRNCH HNY ALMND",Kashi,"$ 4.46",12,$53.52
+K114,"KASHI - DARK COCOA KARMA ORG",Kashi,"$ 4.67",12,$56.04
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K113,"KASHI - BERRY FRUITFUL ORG",Kashi,"$ 4.67",12,$56.04
+K107,"KASHI - STRAWBERRY FIELDS ORG",Kashi,"$ 4.67",12,$56.04
+K101,"KASHI - 7 GRAIN PUFFED KASHI",Kashi,"$ 3.06",10,$30.6
+K111,"KASHI - CINNAMON HARVEST ORG",Kashi,"$ 4.67",12,$56.04
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+NP122,"N.PATH - SMART BRAN org","Nature's Path","$ 4.27",12,$51.24
+NP132,"N.PATH PURPLE ACAI FLAKES 6/cs","Nature's Path","$ 4.39",6,$26.34
+GE124,"GOE - MULTIGRAIN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE302,"GOE - RED HOT BLUES 16oz PARTY","Garden of Eatin","$ 4.99",12,$59.88
+GE303,"GOE - YELLOW CHIP 16oz PARTY","Garden of Eatin","$ 4.99",12,$59.88
+KN120,"KNUDSEN - APPLE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN102,"KNUDSEN - GRAPE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN110,"KNUDSEN - LEM/GINGER ECHINACEA",Knudsen,"$ 3.33",6,$19.98
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN121,"KNUDSEN- MEGA ANTIOXIDANT 32oz",Knudsen,"$ 3.33",6,$19.98
+KN112,"KNUDSEN - ORG TOMATO 32oz",Knudsen,"$ 3.26",6,$19.56
+KN401,"KNUDSEN - ORG JUST PRUNE 32oz",Knudsen,"$ 6.92",6,$41.52
+OAT101,"OAT DREAM - ORIGINAL 32oz","Oat Dream","$ 3.53",12,$42.36
+OAT102,"OAT DREAM - UNSWEET 32oz","Oat Dream","$ 3.53",12,$42.36
+OAT103,"OAT DREAM - VANILLA 32oz","Oat Dream","$ 3.53",12,$42.36
+RD210,"R. DREAM- ORIGINAL 32oz (BLUE)","Rice Dream","$ 3.53",12,$42.36
+RD310,"R. DREAM - ENRICHED ORIG 32oz","Rice Dream","$ 3.53",12,$42.36
+RD312,"R. DREAM - ENRICHED CHOC 32oz","Rice Dream","$ 3.53",12,$42.36
+RD313,"R. DREAM - ENRICH UNSWEET 32oz","Rice Dream","$ 3.53",12,$42.36
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA414,"PACIFIC - ORIG HEMP MILK 32oz","Pacific (milk)","$ 3.36",12,$40.32
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+,,,,,$12518.33

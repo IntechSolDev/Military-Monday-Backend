@@ -1,0 +1,49 @@
+Sku,Item,Category,Price,Quantity,Totals
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+NP106,"N.PATH - HERITAGE CRUNCH","Nature's Path","$ 4.12",12,$49.44
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+NP108,"N.PATH - HONEY'D CORN FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP123,"N.PATH - VANILLA SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP124,"N.PATH - MAPLE SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+BB101,"BARBARA'S - ORIGINAL PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB114,"BARBARA'S - PB & CHOC PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB201,"WEETABIX NATURAL 14oz",Barbara's,"$ 4.26",12,$51.12
+NP523,"N.PATH - G/F OAT SUGAR MAPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP556,"N.PATH G/F STEEL CUT OATS CAN","Nature's Path Hot Cereal","$ 5.33",6,$31.98
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD534,"BRAD - ORG RAW BL AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN127,"ANNIE'S ORG GODDESS 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN129,"ANNIE'S ORG BALSAMIC 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+TB102,"TASTY BITE ORG MADRAS LENTILS","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB110,"TASTY BITE SPINACH DAL 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB115,"TASTY BITE ORG CHANNA MASALA","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB514,"TASTY BITE JASMINE RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+PA311,"PACIFIC OG COCONUT ORIG 32oz","Pacific (milk)","$ 2.74",12,$32.88
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA412,"PACIFIC - UNSW HEMP VANIL 32oz","Pacific (milk)","$ 3.36",12,$40.32
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",6,$32.76
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+TZ107,"TAZO - EARL GREY BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ109,"TAZO - ZEN GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ102,"TAZO - CALM HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ101,"TAZO - REFRESH HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+NEW610,"NEWMAN'S O'S REGULAR W/F D/F","Newman's (cookies)","$ 4.72",6,$28.32
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",6,$19.92
+,,,,,$1622.22

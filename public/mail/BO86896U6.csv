@@ -1,0 +1,58 @@
+Sku,Item,Category,Price,Quantity,Totals
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB204,"BRADS - ORGANIC CASHEW BUTTER","Brad's Nut Butters","$ 10.66",12,$127.92
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+SC554,"S.CRUZ ORG STRAWBERRY FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+EF113,"E.F LNDRY LIQ LVND 100oz #9891","Earth Friendly","$ 11.09",4,$44.36
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+HA165,"H.BABY TEETHER CRCKR STRW BEET","Happy Baby","$ 4.06",6,$24.36
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA373,"H.TOT FIBER PEAR KIWI & KALE","Happy Baby","$ 1.53",16,$24.48
+HA326,"H.BABY # 4 PMPKIN SWT PT PEAR","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",16,$26.56
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA101,"HAPPY BABY PUFFS APPLE","Happy Baby","$ 2.93",6,$17.58
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",6,$17.58
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN102,"KNUDSEN - GRAPE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",6,$25.14
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN106A,"KNUDSEN - ORG L/S VERY VEGGIE",Knudsen,"$ 3.46",6,$20.76
+SC302,"SANTA CRUZ ORG CONCORD GRAPE","Santa Cruz Juices","$ 3.86",6,$23.16
+BRD511A,"BRAD ORG WILDFLOWR HONEY 12.35","Brad's Organic Honey","$ 4.16",12,$49.92
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",6,$21.18
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+BRD706,"BRAD ORG OATMEAL VARIETY","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD702,"BRAD ORG OATMEAL APP CINN WLNT","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD642,"BRAD ORG LONG BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+BRD293,"BRAD CHILI SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD292,"BRAD GARLIC SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+RD509,"IMAGINE FREE RANGE CHICK 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+SP108,"SPEC HIGH HEAT SAFF REF 16oz",Spectrum,"$ 5.33",6,$31.98
+,,,,,$1716.18

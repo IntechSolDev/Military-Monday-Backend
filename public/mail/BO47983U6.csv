@@ -1,0 +1,36 @@
+Sku,Item,Category,Price,Quantity,Totals
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU312,"LUNDBERG - KETTLE CORN R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+BRD332,"BRAD ORG COCONUT OIL REF 14oz","Brad's Organic Coconut","$ 6.19",6,$37.14
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD203,"BRAD - ORG HOT SALSA","Brad's Organic","$ 3.7",12,$44.4
+SP401,"SPEC ORG SESAME OIL 8oz","Spectrum (8oz Oils)","$ 6.65",6,$39.9
+AP754,"ANNIE'S ORG FRUIT SNACK STRAW","Annie's (snacks)","$ 4.13",10,$41.3
+AP752,"ANNIE'S ORG FRUIT SNK TROPICAL","Annie's (snacks)","$ 4.13",10,$41.3
+AP751,"ANNIE'S ORG FRUIT SNACKS BERRY","Annie's (snacks)","$ 4.13",10,$41.3
+AP705,"ANNIE'S 12pk SNACKS VARIETY","Annie's (snacks)","$ 6.66",6,$39.96
+AP101,"ANNIE'S SHELL WHT CHED #00004","Annie's (pasta)","$ 2.08",12,$24.96
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA104,"HAPPY BABY PUFFS SWEET POT G/F","Happy Baby","$ 2.93",6,$17.58
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",6,$17.58
+,,,,,$1052.92

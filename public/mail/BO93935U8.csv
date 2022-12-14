@@ -1,0 +1,39 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD581,"BRAD - COFFEE FRENCH ROAST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD582,"BRAD - COFFEE HOUSE BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD584,"BRAD - COFFEE DECAF ROAST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD317,"BRAD - ORG GLAZE BALSAMIC 8.5","Brad's Organic Oil & Vinegar","$ 4",12,$48
+BRD326,"BRAD ORG RED WINE VNGR MOTHER","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+BRD312,"BRAD - ORG RED WINE VINEGAR","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD452,"BRAD ORG RICE CORN PENNE G/F","Brad's Organic Gluten Free Pasta","$ 2.66",12,$31.92
+BRD461,"BRAD ORG RED LENTIL PENNE G/F","Brad's Organic Gluten Free Pasta","$ 4.57",12,$54.84
+BRD221,"BRAD - ORG LOW FAT MARINARA","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD241,"BRAD- ORG VODKA SAUCE less fat","Brad's Organic Pasta Sauce","$ 3.33",12,$39.96
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD252,"BRAD ORG CRUSHED TOMATOES 28oz","Brad's Organic Canned Tomato","$ 2.49",12,$29.88
+BRD253,"BRAD ORG DICED TOMATOES 28oz","Brad's Organic Canned Tomato","$ 2.49",12,$29.88
+BRD384,"BRAD ORG WHOLE KALAMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+,,,,,$1353.54

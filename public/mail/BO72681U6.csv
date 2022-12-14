@@ -1,0 +1,152 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD171,"BRAD - ORG PRETZELS STICKS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",24,$52.56
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD176,"BRAD - ORG PRETZ SOURDGH HARDS","Brad's Organic Pretzels","$ 2.19",24,$52.56
+BRD177,"BRAD - ORG PRETZ STICK HNY WHT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD178,"BRAD - ORG PRETZ STICK OAT BRN","Brad's Organic Pretzels","$ 2.19",12,$26.28
+LAV101,"LAVASH - ORIGINAL SESAME","Lavash Flat Breads","$ 2.19",12,$26.28
+LAV102,"LAVASH - COMBO MULTI TOPPING","Lavash Flat Breads","$ 2.19",12,$26.28
+LAV104,"LAVASH - WHOLE WHEAT SESAME","Lavash Flat Breads","$ 2.19",12,$26.28
+LAV105,"LAVASH - WHOLE WHT COMBO MULTI","Lavash Flat Breads","$ 2.19",12,$26.28
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+ES101,"ED & SON - TAMARI SESAME","Edward & Son","$ 2.5",12,$30
+ES110,"ED & SON - ORG N/S BROWN RICE","Edward & Son","$ 2.79",12,$33.48
+ES103,"ED & SON - NO/SALT SESAME","Edward & Son","$ 2.5",12,$30
+ES112,"ED & SON - ORGANIC CHEDDAR","Edward & Son","$ 2.79",12,$33.48
+GT101A,"G.TEMPLE - BULK SUPER NUTTY","Bulk Granola","$ 72.5",1,$72.5
+GT108,"G.TEMPLE - BULK FR VANILLA ALM","Bulk Granola","$ 72.5",1,$72.5
+BB104,"BARBARA'S - SHREDDED WHEAT",Barbara's,"$ 4.26",12,$51.12
+BB103,"BARBARA'S MULTIGRAIN SPOONFUL",Barbara's,"$ 4.26",12,$51.12
+BB105,"BARBARA'S - CINNAMON PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB303,"BARBARAS CHS PUFFS CHED JACK",Barbara's,"$ 2.47",12,$29.64
+BB302,"BARBARAS CHEESE PUFFS JALAPENO",Barbara's,"$ 2.47",12,$29.64
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD209,"B NAKED PEANUT BUTTER GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD208,"B NAKED MAPLE-ICIOUS GRANOLA","Bear Naked","$ 4.86",6,$29.16
+NKD207,"B NAKED CACAO CASHEW BTR GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD206,"B NAKED HEAVEN CHOC GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD204,"B NAKED BANANA NUT GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD203,"B NAKED VAN ALM GRAN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD202,"B NAKED CINN PROTEIN GR CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD201,"B NAKED FRUIT NUT GRAN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+AB102,"ABS G.FREE TSTD ONION CRACKER","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB101,"ABS G.FREE ORIG CRACKER 4.4oz","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB103,"ABS G.FREE PEPPER CRACKER","Absolutely Gluten Free","$ 3.86",12,$46.32
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101B,"NEWMAN'S - WHEAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",12,$48
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",12,$48
+NEW204,"NEWMAN'S DOUBLE CH/CHIP COOKIE","Newman's (cookies)","$ 3.19",6,$19.14
+NEW203,"NEWMAN'S ORANGE CHOC COOKIES","Newman's (cookies)","$ 3.19",6,$19.14
+NEW202A,"NEWMAN'S OAT CHOC CHIP COOKIE","Newman's (cookies)","$ 3.19",6,$19.14
+NEW201,"NEWMAN'S CHOC CHIP COOKIE REG","Newman's (cookies)","$ 3.19",6,$19.14
+NEW605,"NEWMAN'S O'S MINT","Newman's (cookies)","$ 4.72",6,$28.32
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",12,$56.64
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",12,$56.64
+ES250,"N. FOREST - OG HEARTS OF PALM","Native Forest Condiments","$ 3.66",12,$43.92
+ES251,"N.FOREST ARTICHK HRT WHOLE 9.9","Native Forest Condiments","$ 3.06",6,$18.36
+ES252,"N.FOREST ARTICHK HRT QRTRD 14z","Native Forest Condiments","$ 3.06",6,$18.36
+ES253,"N.FORST ARTICHK HRT MRINTD 6oz","Native Forest Condiments","$ 2.42",6,$14.52
+SC554,"S.CRUZ ORG STRAWBERRY FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC556,"S.CRUZ ORG CNCRD GRAPE FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC552,"S.CRUZ ORG RASPBERRY FRT SPRD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC553,"S.CRUZ ORG APRICOT FRT SPREAD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC603,"S.CRUZ OG STRAWBERY SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+SC606,"S.CRUZ OG CINNAMON SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",24,$63.84
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",24,$63.84
+PB103,"BRADS - NATURAL ALMOND BUTTER","Brad's Nut Butters","$ 9",12,$108
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",12,$103.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",24,$96
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",24,$96
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+FM102,"F. MARKET - SWT POT PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD629,"BRAD ORG NO SALT BLK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU111,"LUNDBERG ORG WHITE LONG GRAIN 2lb","Lundberg (2lb rice)",$4.91,6,$29.46
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU104,"LUNDBERG - PREM LONG RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU106,"LUNDBERG ORG BROWN BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",12,$78.48
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",12,$78.48
+EF306,"E.F DISH LIQUID APRICOT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF304,"E.F DISH LIQUID LAVENDER 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF302,"E.F DISH LIQUID PEAR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF353,"E.F HAND SOAP ORANGE BLSM 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+MN102,"M. NATURE - DRIED APPLES 3oz","Made in Nature","$ 4.99",6,$29.94
+MN103,"M. NATURE DRIED PINEAPPLE 3oz","Made in Nature","$ 4.99",6,$29.94
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN104,"M. NATURE BLCK MISSION FIG 8oz","Made in Nature","$ 5.99",6,$35.94
+MN113,"M. NATURE - DATES 8oz","Made in Nature","$ 4.99",6,$29.94
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",12,$96
+BRD581,"BRAD - COFFEE FRENCH ROAST bag","Brad's Organic Coffee","$ 8",12,$96
+BRD582,"BRAD - COFFEE HOUSE BLEND bag","Brad's Organic Coffee","$ 8",12,$96
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",12,$96
+BRD584,"BRAD - COFFEE DECAF ROAST bag","Brad's Organic Coffee","$ 8",12,$96
+BRD590,"BRAD - COFFEE CUP BRKFST BLEND","Brad's Organic Coffee","$ 6.65",6,$39.9
+BRD591,"BRAD - COFFEE CUP FRENCH ROAST","Brad's Organic Coffee","$ 6.65",6,$39.9
+BRD592,"BRAD - COFFEE CUP HOUSE BLEND","Brad's Organic Coffee","$ 6.65",6,$39.9
+BRD593,"BRAD - COFFEE CUP ULTIMATE RST","Brad's Organic Coffee","$ 6.65",6,$39.9
+EB360,"E.BEST SWT POTATO APPLE pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB363,"E.BEST BANANA BLUEBERRY pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB364,"E.BEST APPLE PCH OATMEAL pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB369,"E.BEST SQUASH SWT PEAS pouch","Earth's Best (puree pouch)","$ 1.73",12,$20.76
+EB203,"E.BEST - 8oz OATMEAL CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+LB101,"LARA BAR - CHERRY PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB102,"LARA BAR - APPLE PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB109,"LARA BAR - LEMON 16/bars","Lara Bar","$ 1.5",16,$24
+LB113,"LARA BAR - CHOC CHIP BROWNIE","Lara Bar","$ 1.5",16,$24
+LB115,"LARA BAR - BLUEBERRY MUFFIN 16","Lara Bar","$ 1.5",16,$24
+LB118,"LARA BAR - ALMOND BTR CH CHIP","Lara Bar","$ 1.5",16,$24
+PUR101,"PURE PROTEIN CHOC P.BUTTER","Pure Protein Bars","$ 1.76",6,$10.56
+PUR102,"PURE PROTEIN CHOC DELUXE","Pure Protein Bars","$ 1.76",6,$10.56
+PUR103,"PURE PROTEIN CHEWY CHOC CHIP","Pure Protein Bars","$ 1.76",6,$10.56
+PUR109,"PURE PROTEIN COOKIES & CREAM","Pure Protein Bars","$ 1.76",6,$10.56
+PUR106,"PURE PROTEIN MAPLE CARAMEL","Pure Protein Bars","$ 1.76",6,$10.56
+PUR105,"PURE PROTEIN BIRTHDAY CAKE","Pure Protein Bars","$ 1.76",6,$10.56
+BAL105,"BALANCE - YOGURT HONEY PEANUT",Balance,"$ 1.26",6,$7.56
+BAL108,"BALANCE - COOKIE DOUGH",Balance,"$ 1.26",6,$7.56
+BAL201,"BALANCE - CARAMEL NUT BLAST",Balance,"$ 1.26",6,$7.56
+BAL102,"BALANCE - CHOCOLATE CRAZE",Balance,"$ 1.26",6,$7.56
+BAL107,"BALANCE - PEANUT BUTTER",Balance,"$ 1.26",6,$7.56
+BAL206,"BALANCE - CHOC MINT GOLD CRNCH",Balance,"$ 1.26",6,$7.56
+BAL203,"BALANCE - CHOC PNUT BUTTER",Balance,"$ 1.26",6,$7.56
+LUN101,"LUNA BAR - LEMON ZEST 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN113,"LUNA BAR - WHT CHOC MACADAMIA","Luna Bars","$ 1.39",15,$20.85
+LUN115,"LUNA BAR- DREAMY PEANUT BUTTER","Luna Bars","$ 1.39",15,$20.85
+LUN102,"LUNA BAR NUTZ OVER CHOC 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN108,"LUNA BAR - S'MORES 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN112,"LUNA BAR CHOC PEPPERMINT 15/cs","Luna Bars","$ 1.39",15,$20.85
+,,,,,$5158.46

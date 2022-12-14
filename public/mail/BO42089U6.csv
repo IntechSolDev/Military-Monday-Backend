@@ -1,0 +1,57 @@
+Sku,Item,Category,Price,Quantity,Totals
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD561,"BRAD -  ORG BEDTIME TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",24,$91.2
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",40,$152
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",16,$60.8
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",16,$60.8
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",120,$319.2
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+H901,"HAIN - SEA SALT REG 21oz","Hain (mayo & salt)","$ 2.33",8,$18.64
+SP112,"SPEC UNREFINED PEANUT OIL 16oz",Spectrum,"$ 8.66",6,$51.96
+SP118,"SPEC REF GRAPESEED OIL 16oz",Spectrum,"$ 11.6",6,$69.6
+BRD359,"BRAD ORG N/S WHL GRAIN MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+TB516,"TASTY BITE COCONUT RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB511,"TASTY BITE TURMERIC RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",24,$63.84
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",24,$63.84
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",24,$63.84
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD111,"BRAD - ORGANIC MULTIGRAIN CHIP","Brad's Organic","$ 2.66",24,$63.84
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",24,$63.84
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",24,$63.84
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD116,"BRAD - ORGANIC PUMPKIN CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD117,"BRAD - ORG BEET TORTILLA CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD119,"BRAD ORG RSTD RD PEPPER CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD108,"BRAD - NATURAL RANCH CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",12,$39.96
+EF112,"E.F LNDRY LIQ F&C 100oz #9889","Earth Friendly","$ 11.09",4,$44.36
+EF114,"E.F LNDRY LIQ LEMONGRASS 100oz","Earth Friendly","$ 11.09",4,$44.36
+EF304,"E.F DISH LIQUID LAVENDER 25oz","Earth Friendly","$ 3.2",6,$19.2
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+SC555,"S.CRUZ ORG MANGO FRUIT SPREAD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC556,"S.CRUZ ORG CNCRD GRAPE FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC552,"S.CRUZ ORG RASPBERRY FRT SPRD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC553,"S.CRUZ ORG APRICOT FRT SPREAD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+BRD704,"BRAD ORG OATMEAL FLAX","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD706,"BRAD ORG OATMEAL VARIETY","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD702,"BRAD ORG OATMEAL APP CINN WLNT","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",168,$446.88
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+,,,,,$2933.96

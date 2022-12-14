@@ -1,0 +1,45 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",120,$319.2
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",120,$319.2
+GT108,"G.TEMPLE - BULK FR VANILLA ALM","Bulk Granola","$ 72.5",4,$290
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101B,"NEWMAN'S - WHEAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101C,"NEWMAN'S - STRAW FIG BAR","Fig Newman's","$ 4",6,$24
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+NEW603,"NEWMAN'S O'S CHOCOLATE","Newman's (cookies)","$ 4.72",6,$28.32
+NEW605,"NEWMAN'S O'S MINT","Newman's (cookies)","$ 4.72",6,$28.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW610,"NEWMAN'S O'S REGULAR W/F D/F","Newman's (cookies)","$ 4.72",6,$28.32
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",24,$63.84
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",12,$31.92
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD111,"BRAD - ORGANIC MULTIGRAIN CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",24,$63.84
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD116,"BRAD - ORGANIC PUMPKIN CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD117,"BRAD - ORG BEET TORTILLA CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD118,"BRAD - ORG CAULIFLOWER CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD119,"BRAD ORG RSTD RD PEPPER CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+Y501,"YOGI - SEASONAL DISPLAY 48pc","Yogi Tea","$ 3.75",96,$360
+EF102,"E.F LNDRY LIQ F&C 50oz #9764","Earth Friendly","$ 6.2",8,$49.6
+EF101,"E.F LNDRY LIQ LILY 50oz #9750","Earth Friendly","$ 6.2",8,$49.6
+EF103,"E.F LNDRY LIQ LVND 50oz #9755","Earth Friendly","$ 6.2",8,$49.6
+EF301,"E.F DISH LIQ ALMOND 25oz #9700","Earth Friendly","$ 3.2",6,$19.2
+EF302,"E.F DISH LIQUID PEAR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF303,"E.F DISH LIQUID GRAPEFRUT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF304,"E.F DISH LIQUID LAVENDER 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF306,"E.F DISH LIQUID APRICOT 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF353,"E.F HAND SOAP ORANGE BLSM 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF401,"E.F WAVE GEL LAVNDR 40oz #9730","Earth Friendly","$ 4.26",8,$34.08
+EF402,"E.F WAVE GEL FREE CLEAR 40oz","Earth Friendly","$ 4.26",8,$34.08
+,,,,,$2464.16

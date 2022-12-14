@@ -1,0 +1,114 @@
+Sku,Item,Category,Price,Quantity,Totals
+TB125,"TASTY BITE COCONUT VEG HOT","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB505,"TASTY BITE TANDOORI RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB101,"TASTY BITE BOMBAY POTATO 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB104,"TASTY BITE PUNJAB EGGPLNT 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB122,"TASTY BITE VEG TIKKA MASALA","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB109,"TASTY BITE ORG MADRAS 3 BEAN","Tasty Bite (ready to eat)","$ 2.99",12,$35.88
+TB107,"TASTY BITE ORG JODPHUR DAL","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD643,"BRAD ORG BROWN BASMATI 2lb","Brad's Organic Grains","$ 5.86",12,$70.32
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",12,$70.32
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",24,$63.84
+BRD334,"BRAD ORG 32oz COCONUT OIL REF","Brad's Organic Coconut","$ 8.79",12,$105.48
+BRD335,"BRAD ORG 32oz COCNUT OIL UNREF","Brad's Organic Coconut","$ 14.19",18,$255.42
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Coconut","$ 4",12,$48
+LU211,"LUNDBERG - ORG RED RICE 1lb","Lundberg (1lb rice)","$ 4.54",6,$27.24
+LU212,"LUNDBERG OG BLK PERL RICE 1lb","Lundberg (1lb rice)","$ 4.54",6,$27.24
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+NP404,"N.PATH - FLAX PLUS RAISIN BRAN","Nature's Path","$ 4.12",12,$49.44
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP110,"N.PATH - CRISPY RICE","Nature's Path","$ 4.12",12,$49.44
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP229,"N.PATH LOVE CRNCH ESPRESSO VAN","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+BB105,"BARBARA'S - CINNAMON PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB113,"BARBARA'S - MULTIGRAIN PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB109,"BARBARA'S - HONEY RICE PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",16,$60.8
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD704,"BRAD ORG OATMEAL FLAX","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD706,"BRAD ORG OATMEAL VARIETY","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD534,"BRAD - ORG RAW BL AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",12,$119.88
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",12,$119.88
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD581,"BRAD - COFFEE FRENCH ROAST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD582,"BRAD - COFFEE HOUSE BLEND bag","Brad's Organic Coffee","$ 8",12,$96
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",6,$24
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",36,$144
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",24,$63.84
+WP001,"WILD PLANET - ALBACORE TUNA","Wild Planet","$ 4.33",12,$51.96
+WP002,"WILD PLANET NO SALT ALBCR TUNA","Wild Planet","$ 4.33",12,$51.96
+WP007,"WILD PLANET ALBCR TUNA IN EVOO","Wild Planet","$ 4.33",12,$51.96
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD629,"BRAD ORG NO SALT BLK EYED PEAS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",24,$41.28
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD224,"BRAD - ORG LOW FAT PORTABELLO","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD423,"BRAD ORG SEMOLINA PENNE","Brad's Organic Pasta","$ 2",20,$40
+BRD453,"BRAD ORG RICE CORN FUSILI G/F","Brad's Organic Gluten Free Pasta","$ 2.66",12,$31.92
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+AN101,"ANNIE'S SHIITAKE SES 8oz ntrl","Annie's (dressings)","$ 3.13",6,$18.78
+AN128,"ANNIE'S ORG SHIITAKE 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD384,"BRAD ORG WHOLE KALAMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",12,$48
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",24,$68.64
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD311,"BRAD - ORG BALSAMIC VNG MODENA","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD350,"BRAD NTRL AVOCADO OIL 16.9oz","Brad's Organic Oil & Vinegar","$ 6.66",24,$159.84
+BRD351,"BRAD NTRL AVOCADO OIL 33.8oz","Brad's Organic Oil & Vinegar","$ 12.66",24,$303.84
+BRD314,"BRAD ORG APPLE CIDER VNGR 16.9","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+BRD301,"BRAD OG TRKSH OLIVE OIL 250ml","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD305,"BRAD OG SPNSH EV OLIVE OIL 8.5","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+WS101,"WHOLESOME ORG FAIR TRADE SUGAR","Wholesome Sweeteners","$ 4.86",12,$58.32
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS113,"WHOLESOME ORG POWDERED SUGAR","Wholesome Sweeteners","$ 3.7",6,$22.2
+WS114,"WHOLESOME ORG COCONUT SUGAR","Wholesome Sweeteners","$ 4.66",6,$27.96
+SC401,"S.CRUZ OG APPLESAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC404,"S.CRUZ OG CINNAMON SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",12,$31.92
+BRD103,"BRAD - ORG WHITE CHIPS 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD104,"BRAD - ORGANIC MINI YELLOW 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD113,"BRAD ORGANIC SALSA VERDE CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD115,"BRAD - ORG SWEET POTATO CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",36,$119.88
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",24,$79.92
+BRD171,"BRAD - ORG PRETZELS STICKS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD176,"BRAD - ORG PRETZ SOURDGH HARDS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD177,"BRAD - ORG PRETZ STICK HNY WHT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD178,"BRAD - ORG PRETZ STICK OAT BRN","Brad's Organic Pretzels","$ 2.19",12,$26.28
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,12,$31.92
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE124,"GOE - MULTIGRAIN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE125,"GOE - SESAME BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE126,"GOE - TOUCH OF LIME CHIPS 5.5","Garden of Eatin","$ 2.66",12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE127,"GOE - WHITE CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+,,,,,$5337.06

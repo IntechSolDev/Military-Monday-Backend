@@ -1,0 +1,68 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD317,"BRAD - ORG GLAZE BALSAMIC 8.5","Brad's Organic Oil & Vinegar","$ 4",12,$48
+BRD350,"BRAD NTRL AVOCADO OIL 16.9oz","Brad's Organic Oil & Vinegar","$ 6.66",12,$79.92
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA420,"H.BABY CC # 2 PEAR PUMPK GRAN","Happy Baby","$ 1.73",16,$27.68
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA101,"HAPPY BABY PUFFS APPLE","Happy Baby","$ 2.93",6,$17.58
+HA103,"HAPPY BABY PUFFS KALE SPINACH","Happy Baby","$ 2.93",6,$17.58
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA104,"HAPPY BABY PUFFS SWEET POT G/F","Happy Baby","$ 2.93",6,$17.58
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",6,$17.58
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+EB309,"E.BEST - SWEET POTATO","Earth's Best (baby food)","$ 1.6",10,$16
+EB301,"E.BEST - APPLES","Earth's Best (baby food)","$ 1.6",10,$16
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+SC552,"S.CRUZ ORG RASPBERRY FRT SPRD","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y206,"YOGI - HONEY CHAI TURMERIC","Yogi Tea","$ 3.75",6,$22.5
+Y126,"YOGI - CALMING","Yogi Tea","$ 3.75",6,$22.5
+TR141,"TRAD MED - FENNEL TEA","Traditional Medicinals","$ 4.33",6,$25.98
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K119,"Kashi - kids berry loops organic",Kashi,$4.67,10,$46.7
+K117,"Kashi - kids cinn loops organic",Kashi,$4.67,10,$46.7
+NP106,"N.PATH - HERITAGE CRUNCH","Nature's Path","$ 4.12",12,$49.44
+NP401,"N.PATH - FLAX PLUS","Nature's Path","$ 4.12",12,$49.44
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP228,"N.PATH LOVE CRUNCH DOUBLE CHOC","Nature's Path","$ 4.27",6,$25.62
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NKD206,"B NAKED HEAVEN CHOC GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD208,"B NAKED MAPLE-ICIOUS GRANOLA","Bear Naked","$ 4.86",6,$29.16
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD209,"B NAKED PEANUT BUTTER GRAN","Bear Naked","$ 4.86",6,$29.16
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD702,"BRAD ORG OATMEAL APP CINN WLNT","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+NP551,"N.PATH OATMEAL CAN QUICK OATS","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP506,"N.PATH - OPT CINN BB HOT","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+SC401,"S.CRUZ OG APPLESAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,24,$63.84
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE124,"GOE - MULTIGRAIN CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE125,"GOE - SESAME BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+BRD101,"BRAD ORGANIC BLUE CHIP SLT 8oz","Brad's Organic","$ 2.66",12,$31.92
+BRD102,"BRAD - ORG BLUE CHIP NO SALT","Brad's Organic","$ 2.66",12,$31.92
+BRD111,"BRAD - ORGANIC MULTIGRAIN CHIP","Brad's Organic","$ 2.66",12,$31.92
+BRD112,"BRAD - ORGANIC SESAME BL CHIPS","Brad's Organic","$ 2.66",12,$31.92
+BRD114,"BRAD - ORGANIC YELLOW CHIPS","Brad's Organic","$ 2.66",12,$31.92
+,,,,,$2093.86

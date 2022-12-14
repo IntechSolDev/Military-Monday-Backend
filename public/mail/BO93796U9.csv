@@ -1,0 +1,52 @@
+Sku,Item,Category,Price,Quantity,Totals
+BJ303,"BRAD - ORG MIX BERRY FRT SPRD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ301,"BRAD - ORG STRAW FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ304,"BRAD - ORG CHERRY FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ306,"BRAD - ORG ORANGE FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ305,"BRAD - ORG APRICOT FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",24,$319.92
+PB206,"BRADS - ORG TAHINI BIG 32oz","Brad's Nut Butters","$ 8.33",12,$99.96
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+BRD528B,"BRAD NATURAL WILDFLOWR 17.6oz","Brad's Natural Honey","$ 4.58",12,$54.96
+BRD528C,"BRAD NATURAL WILDFLOWR 35.3oz","Brad's Natural Honey","$ 7.5",12,$90
+BRD529B,"BRAD NATURAL ORANG BLSM 17.6oz","Brad's Natural Honey","$ 6.25",12,$75
+BRD529A,"BRAD NATURAL ORANG BLSM 12.35","Brad's Natural Honey","$ 4.58",12,$54.96
+BRD528A,"BRAD NATURAL WILDFLOWR 12.35oz","Brad's Natural Honey","$ 3.33",12,$39.96
+BRD511A,"BRAD ORG WILDFLOWR HONEY 12.35","Brad's Organic Honey","$ 4.16",12,$49.92
+BRD511C,"BRAD ORG WILDFLWR HONEY 35.3oz","Brad's Organic Honey","$ 10",12,$120
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",36,$119.88
+BRD561,"BRAD -  ORG BEDTIME TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD569,"BRAD - ORG THROAT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",24,$79.92
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD572,"BRAD - ORG GREEN TEA KOMB 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD573,"BRAD ORG DECAF GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD577,"BRAD - ORG MORINGA TEA 20ct","Brad's Organic Tea","$ 4",12,$48
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",12,$48
+BRD550,"BRAD - ORG DETOX TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Sugar",$4,12,$48
+BRD706,"BRAD ORG OATMEAL VARIETY","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",16,$60.8
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD186,"BRAD ORG CORN CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",24,$63.84
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",24,$63.84
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",24,$63.84
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",24,$63.84
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",24,$52.8
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",24,$52.8
+BRD544B,"BRAD ORG A/B VERY DRK MPL 32oz","Brad's Organic Maple Syrup","$ 20",12,$240
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+,,,,,$3024.14

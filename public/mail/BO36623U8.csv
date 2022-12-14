@@ -1,0 +1,65 @@
+Sku,Item,Category,Price,Quantity,Totals
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K307,"KASHI - GO CEREAL CINN CRISP",Kashi,$4.46,12,$53.52
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+NP126,"N.PATH - HONEY SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NKD206,"B NAKED HEAVEN CHOC GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",6,$29.16
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+NP521,"N.PATH - G/F OAT SPICED APPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS113,"WHOLESOME ORG POWDERED SUGAR","Wholesome Sweeteners","$ 3.7",6,$22.2
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+PA403,"PACIFIC - ORG ALMOND VANILLA","Pacific (milk)","$ 2.74",12,$32.88
+CEL210,"CELESTIAL - RASPBERRY ZINGER","Celestial Tea","$ 3.33",6,$19.98
+CEL220,"CELESITAL - TANGERINE ZINGER","Celestial Tea","$ 3.33",6,$19.98
+CEL204,"CELESTIAL- CHAMOMILE REG 20ct","Celestial Tea","$ 3.33",6,$19.98
+CEL203,"CELESTIAL - PEPPERMINT 20ct","Celestial Tea","$ 3.33",6,$19.98
+Y105,"YOGI - BREATHE DEEP","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y121,"YOGI - KAVA STRESS RELIEF","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y119,"YOGI - EGYPTIAN LICORICE reg","Yogi Tea","$ 3.75",6,$22.5
+Y145,"YOGI - CARAMEL BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y154,"YOGI - MANGO GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y402,"YOGI - DECAF PURE GREEN","Yogi Tea","$ 3.75",6,$22.5
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+HA302,"HAPPY BABY # 3 VEG & TURKEY","Happy Baby","$ 1.53",16,$24.48
+HA303,"HAPPY BABY # 3 VEG BEEF MEDLEY","Happy Baby","$ 1.53",16,$24.48
+HA301,"HAPPY BABY # 3 VEG & CHICKEN","Happy Baby","$ 1.53",16,$24.48
+HA213,"H.BABY # 2 SPIN MNGO PEAR 1392","Happy Baby","$ 1.43",16,$22.88
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA416,"H.BABY CC # 2 PEAR SQSH BLKBRY","Happy Baby","$ 1.73",16,$27.68
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA113,"HAPPY BABY MELTS BANANA MANGO","Happy Baby","$ 3.33",8,$26.64
+HA111,"HAPPY BABY MELTS STRAWBERRY","Happy Baby","$ 3.33",8,$26.64
+EB433,"E.BEST - SWT POT CAROT SNK BAR","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+EB431,"E.BEST - APPLE SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",6,$26.34
+K603,"KASHI - GRAN BAR PEANUT BUTTER","Kashi (granola bars)","$ 4.19",8,$33.52
+K602,"KASHI - GRAN BAR HNY ALM FLAX","Kashi (granola bars)","$ 4.19",8,$33.52
+SC556,"S.CRUZ ORG CNCRD GRAPE FRT SPR","Santa Cruz Org Fruit Spread","$ 3.33",6,$19.98
+SC115,"SANTA CRUZ - OG PEACH LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+EF507,"E.F ORNG RTU SURFACE CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF502,"E.F SHOWER CLEANER 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF506,"E.F VINEGAR GLASS CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",12,$75
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA263,"PACIFIC 17.6oz RSTD PEPP & TOM","Pacific (soup)","$ 3.13",12,$37.56
+,,,,,$1892.46

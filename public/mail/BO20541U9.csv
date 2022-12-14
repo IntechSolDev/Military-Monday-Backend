@@ -1,0 +1,36 @@
+Sku,Item,Category,Price,Quantity,Totals
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",84,$223.44
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",60,$159.6
+PB204,"BRADS - ORGANIC CASHEW BUTTER","Brad's Nut Butters","$ 10.66",12,$127.92
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+BJ301,"BRAD - ORG STRAW FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ302,"BRAD - ORG RASP FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ303,"BRAD - ORG MIX BERRY FRT SPRD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ304,"BRAD - ORG CHERRY FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ305,"BRAD - ORG APRICOT FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ306,"BRAD - ORG ORANGE FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BRD221,"BRAD - ORG LOW FAT MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD222,"BRAD - ORG LOW FAT TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD223,"BRAD - ORG LOW FAT RSTD GARLIC","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD224,"BRAD - ORG LOW FAT PORTABELLO","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD231,"BRAD - ORG F/F L/S MARINARA","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce",$3.7,12,$44.4
+BRD233,"BRAD - ORG F/F L/S GARDEN VEG","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD306,"BRAD OG SPNSH EV OLVE OIL 16.9","Brad's Organic Oil & Vinegar","$ 6.5",24,$156
+BRD315,"BRAD ORG APPL CIDER VNGR liter","Brad's Organic Oil & Vinegar","$ 4.88",18,$87.84
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",72,$191.52
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",72,$191.52
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",36,$95.76
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",36,$95.76
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",72,$191.52
+BRD186,"BRAD ORG CORN CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",72,$191.52
+BRD184,"BRAD ORG RICE CAKES MILK CHOC","Brad's Organic Rice Cakes","$ 2.66",72,$191.52
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",72,$191.52
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",72,$239.76
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",48,$159.84
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD567,"BRAD - ORGANIC GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",36,$119.88
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",36,$119.88
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",36,$119.88
+,,,,,$3692.28

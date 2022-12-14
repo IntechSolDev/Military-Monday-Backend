@@ -1,0 +1,76 @@
+Sku,Item,Category,Price,Quantity,Totals
+AN129,"ANNIE'S ORG BALSAMIC 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU111,"LUNDBERG ORG WHITE LONG GRAIN 2lb","Lundberg (2lb rice)",$4.91,6,$29.46
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+Y101,"YOGI - DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y102,"YOGI - GREEN TEA W/KOMBUCHA","Yogi Tea","$ 3.75",6,$22.5
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y105,"YOGI - BREATHE DEEP","Yogi Tea","$ 3.75",6,$22.5
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y112,"YOGI - PEACH DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",6,$22.5
+Y119,"YOGI - EGYPTIAN LICORICE reg","Yogi Tea","$ 3.75",6,$22.5
+Y121,"YOGI - KAVA STRESS RELIEF","Yogi Tea","$ 3.75",6,$22.5
+Y122,"YOGI - GRN TEA SLIM LIFE BLUE","Yogi Tea","$ 3.75",6,$22.5
+Y126,"YOGI - CALMING","Yogi Tea","$ 3.75",6,$22.5
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",6,$22.5
+Y132,"YOGI - WOMAN'S RASP LEAF","Yogi Tea","$ 3.75",6,$22.5
+Y136,"YOGI - G.T. PASSION FRT MATCHA","Yogi Tea","$ 3.75",6,$22.5
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y140,"YOGI - BERRY DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y205,"YOGI - PEPPERMINT","Yogi Tea","$ 3.75",6,$22.5
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+Y210,"YOGI - ROOIBOS CHAI","Yogi Tea","$ 3.75",6,$22.5
+Y154,"YOGI - MANGO GINGER","Yogi Tea","$ 3.75",6,$22.5
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+WS212,"WHOLESOME OG BL RAW AGAVE 23.5","Wholesome Sweeteners","$ 6.46",6,$38.76
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP521,"N.PATH - G/F OAT SPICED APPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NKD202,"B NAKED CINN PROTEIN GR CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD204,"B NAKED BANANA NUT GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD206,"B NAKED HEAVEN CHOC GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",6,$29.16
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+EF506,"E.F VINEGAR GLASS CLNR 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF101,"E.F LNDRY LIQ LILY 50oz #9750","Earth Friendly","$ 6.2",8,$49.6
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+WP003,"WILD PLANET - SKIPJACK TUNA","Wild Planet","$ 3.06",12,$36.72
+BRD352,"BRAD REF GRAPESEED OIL 1 liter","Brad's Organic Oil & Vinegar","$ 10.66",12,$127.92
+,,,,,$2347.72

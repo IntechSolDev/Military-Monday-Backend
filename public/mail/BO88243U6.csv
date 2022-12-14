@@ -1,0 +1,83 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",12,$48.72
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",16,$27.68
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA326,"H.BABY # 4 PMPKIN SWT PT PEAR","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA418,"H.BABY CC # 2 APL SWT POT GRAN","Happy Baby","$ 1.73",16,$27.68
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA101,"HAPPY BABY PUFFS APPLE","Happy Baby","$ 2.93",6,$17.58
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA103,"HAPPY BABY PUFFS KALE SPINACH","Happy Baby","$ 2.93",6,$17.58
+HA104,"HAPPY BABY PUFFS SWEET POT G/F","Happy Baby","$ 2.93",6,$17.58
+HA105,"HAPPY BABY PUFFS STRAWBRY G/F","Happy Baby","$ 2.93",6,$17.58
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+HA118,"H.BABY MELT APL SPINACH PEA","Happy Baby","$ 3.33",8,$26.64
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+HA322,"HAPPY BABY # 4 SWT POT, APPLES","Happy Baby","$ 1.53",16,$24.48
+HA343,"H.BABY TOT #4 KALE APL MANGO","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA359,"H.BABY BELLIES BANANA SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA372,"H.TOT FIBER PEAR RASP & SQUASH","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",16,$26.56
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+SC404,"S.CRUZ OG CINNAMON SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+ES201,"N. FOREST OG COCONUT MILK can","Native Forest Condiments","$ 2.26",12,$27.12
+BRD511A,"BRAD ORG WILDFLOWR HONEY 12.35","Brad's Organic Honey","$ 4.16",12,$49.92
+BRD515,"BRAD ORG RAW HONEY 18oz","Brad's Organic Honey","$ 9.16",12,$109.92
+BRD512,"BRAD ORG WILDFLOWR HONEY 15oz","Brad's Organic Honey","$ 6.66",12,$79.92
+Y210,"YOGI - ROOIBOS CHAI","Yogi Tea","$ 3.75",6,$22.5
+Y148,"YOGI - HONEY LAVENDER STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",6,$22.5
+Y121,"YOGI - KAVA STRESS RELIEF","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y206,"YOGI - HONEY CHAI TURMERIC","Yogi Tea","$ 3.75",6,$22.5
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",6,$22.5
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD642,"BRAD ORG LONG BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",18,$111.6
+BRD292,"BRAD GARLIC SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD291,"BRAD PINK HIMALAYN SLT grinder","Brad's Natural Spices","$ 5",12,$60
+BRD293,"BRAD CHILI SEA SALT grinder","Brad's Natural Spices","$ 5.66",6,$33.96
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",12,$60
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Sugar",$4,12,$48
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+BRD341,"BRAD ORG COCONUT FLOUR 1lb","Brad's Organic Coconut","$ 4",12,$48
+WP003,"WILD PLANET - SKIPJACK TUNA","Wild Planet","$ 3.06",12,$36.72
+BRD355,"BRAD ORG YELLOW MUSTARD 10oz","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD313,"BRAD - ORG WHT WINE VINEGAR","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+BRD301,"BRAD OG TRKSH OLIVE OIL 250ml","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD305,"BRAD OG SPNSH EV OLIVE OIL 8.5","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD302,"BRAD OG TRKSH OLIVE OIL 500ml","Brad's Organic Oil & Vinegar","$ 6.5",12,$78
+BRD306,"BRAD OG SPNSH EV OLVE OIL 16.9","Brad's Organic Oil & Vinegar","$ 6.5",12,$78
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+,,,,,$2753.51

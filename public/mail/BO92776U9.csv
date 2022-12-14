@@ -1,0 +1,50 @@
+Sku,Item,Category,Price,Quantity,Totals
+Y122,"YOGI - GRN TEA SLIM LIFE BLUE","Yogi Tea","$ 3.75",6,$22.5
+Y203,"YOGI - SUPER ANTIOXIDANT","Yogi Tea","$ 3.75",6,$22.5
+Y141,"YOGI ROSE HIBISCUS (skin detx)","Yogi Tea","$ 3.75",6,$22.5
+Y156,"YOGI SWEET CLEMENTINE STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y105,"YOGI - BREATHE DEEP","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",6,$22.5
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",6,$22.5
+TR104,"TRAD MED - GINGER AID","Traditional Medicinals","$ 4.33",6,$25.98
+TR107,"TRAD MED GREEN TEA LEMONGRASS","Traditional Medicinals","$ 4.33",6,$25.98
+TR109,"TRAD MED- LEMON ECH THROAT","Traditional Medicinals","$ 4.33",6,$25.98
+TR103,"TRAD MED - ORG THROAT COAT","Traditional Medicinals","$ 4.33",6,$25.98
+TR102,"TRAD MED - ORG SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TZ107,"TAZO - EARL GREY BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ106,"TAZO - AWAKE BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+BRD553,"BRAD - ORG LAXATIVE TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD551,"BRAD - ORG DIABETIC TEA 16ct","Brad's Organic Tea","$ 4",6,$24
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU202,"LUNDBERG - JUBILEE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU105,"LUNDBERG ORG WHITE BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+NP506,"N.PATH - OPT CINN BB HOT","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP554,"N.PATH STEEL CUT OATS CANISTER","Nature's Path Hot Cereal","$ 3.9",6,$23.4
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD544,"BRAD ORG MAPLE DARK A 32oz","Brad's Organic Maple Syrup","$ 20",6,$120
+BRD312,"BRAD - ORG RED WINE VINEGAR","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+WP023,"W. PLANET SARDINES OIL & LEMON","Wild Planet","$ 2.19",12,$26.28
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",6,$25.98
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+CL307,"CLIF - BUILDER COOKIES & CREAM","Clif Bars","$ 1.86",12,$22.32
+CL303,"CLIF - BUILDER CHOC MINT","Clif Bars","$ 1.86",12,$22.32
+CL018,"CLIF - WHITE CHOC MACADAMIA","Clif Bars","$ 1.5",12,$18
+CL019,"CLIF - COCONUT CHOC CHIP","Clif Bars","$ 1.5",12,$18
+,,,,,$1512.16

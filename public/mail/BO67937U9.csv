@@ -1,0 +1,102 @@
+Sku,Item,Category,Price,Quantity,Totals
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",12,$48
+F253,"FIRST - CLOVER 5lb","1st International Honey","$ 15.33",6,$91.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD577,"BRAD - ORG MORINGA TEA 20ct","Brad's Organic Tea","$ 4",6,$24
+TZ115,"TAZO - CHAI ORGANIC TEA","Tazo Tea","$ 5.06",6,$30.36
+TZ116,"TAZO - DECAF CHAI TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ109,"TAZO - ZEN GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+TR109,"TRAD MED- LEMON ECH THROAT","Traditional Medicinals","$ 4.33",6,$25.98
+TR141,"TRAD MED - FENNEL TEA","Traditional Medicinals","$ 4.33",6,$25.98
+TR139,"TRAD MED - CHAM W/ LAVENDER","Traditional Medicinals","$ 4.33",6,$25.98
+TR202,"TRAD MED - ORG PEPPERMINT","Traditional Medicinals","$ 4.33",6,$25.98
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+AP204,"ANNIE'S ORG WISCON CHED #30098","Annie's (pasta)","$ 3",12,$36
+NP110,"N.PATH - CRISPY RICE","Nature's Path","$ 4.12",12,$49.44
+NP302,"N.PATH - ENVIRO KOALA CRISP","Nature's Path","$ 4.12",12,$49.44
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+K303,"KASHI - GOLEAN CRISP BERRY CRM",Kashi,"$ 4.46",12,$53.52
+K110,"KASHI - AUTUMN WHEAT ORG",Kashi,"$ 4.67",12,$56.04
+NP541,"N.PATH - QIA OATMEAL SUPERSEED","Nature's Path Hot Cereal","$ 4.66",6,$27.96
+NP542,"N.PATH - QIA OATMEAL COCONUT","Nature's Path Hot Cereal","$ 4.66",6,$27.96
+NP523,"N.PATH - G/F OAT SUGAR MAPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+BRD691,"BRADS - ORG COCONUT WATER","Brad's Organic Coconut","$ 4.66",48,$223.68
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",24,$63.84
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+PA411,"PACIFIC - UNSW HEMP ORIG 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA415,"PACIFIC - VANILLA HEMP MILK 32","Pacific (milk)","$ 3.36",12,$40.32
+PA402,"PACIFIC - ORG ALMOND ORIGINAL","Pacific (milk)","$ 2.74",12,$32.88
+PA403,"PACIFIC - ORG ALMOND VANILLA","Pacific (milk)","$ 2.74",12,$32.88
+PA406,"PACIFIC - ORG UNSW ALMND VANIL","Pacific (milk)","$ 2.74",12,$32.88
+RD313,"R. DREAM - ENRICH UNSWEET 32oz","Rice Dream","$ 3.53",12,$42.36
+OAT101,"OAT DREAM - ORIGINAL 32oz","Oat Dream","$ 3.53",6,$21.18
+OAT102,"OAT DREAM - UNSWEET 32oz","Oat Dream","$ 3.53",6,$21.18
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN122,"KNUDSEN - MEGA GREEN 32oz",Knudsen,"$ 3.33",6,$19.98
+KN106A,"KNUDSEN - ORG L/S VERY VEGGIE",Knudsen,"$ 3.46",6,$20.76
+KN112,"KNUDSEN - ORG TOMATO 32oz",Knudsen,"$ 3.26",6,$19.56
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",6,$32.76
+KN118,"KNUDSEN - JUST POMEGRANTE 32oz",Knudsen,"$ 6.92",6,$41.52
+NX107,"NIXIE OG LEMON 12oz 8pk","Nixie Org Sparkling Water","$ 4.99",3,$14.97
+KN102,"KNUDSEN - GRAPE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+KN120,"KNUDSEN - APPLE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",7,$19.81
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",24,$63.84
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+LU312,"LUNDBERG - KETTLE CORN R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU305,"LUNDBERG - TAM SEAWEED R CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU302,"LUNDBERG - BROWN RICE CAKE N/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU321,"LUNDBERG THIN STACKER L/S","Lundberg (rice cakes/chips)",$3.30,12,$39.6
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",12,$39.96
+BRD171,"BRAD - ORG PRETZELS STICKS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD174,"BRAD - ORG PRETZELS SPELT","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD176,"BRAD - ORG PRETZ SOURDGH HARDS","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD178,"BRAD - ORG PRETZ STICK OAT BRN","Brad's Organic Pretzels","$ 2.19",12,$26.28
+NEW202A,"NEWMAN'S OAT CHOC CHIP COOKIE","Newman's (cookies)","$ 3.19",6,$19.14
+NEW204,"NEWMAN'S DOUBLE CH/CHIP COOKIE","Newman's (cookies)","$ 3.19",6,$19.14
+HA217,"HAPPY BABY # 2 APPLE SPIN KALE","Happy Baby","$ 1.43",16,$22.88
+HA214,"HAPPY BABY # 2 PEAS, BROC PEAR","Happy Baby","$ 1.43",16,$22.88
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA416,"H.BABY CC # 2 PEAR SQSH BLKBRY","Happy Baby","$ 1.73",16,$27.68
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",16,$27.68
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA211,"HAPPY BABY # 2 BAN, BEET, BLUE","Happy Baby","$ 1.43",16,$22.88
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA321,"HAPPY BABY # 4 GRN BEAN, PEARS","Happy Baby","$ 1.53",16,$24.48
+HA418,"H.BABY CC # 2 APL SWT POT GRAN","Happy Baby","$ 1.73",16,$27.68
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",24,$63.84
+SC404,"S.CRUZ OG CINNAMON SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC402,"S.CRUZ OG APRICOT SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC601,"S.CRUZ OG APPLESAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+SC606,"S.CRUZ OG CINNAMON SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+AN112,"ANNIE'S ORG FRENCH","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN129,"ANNIE'S ORG BALSAMIC 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN105,"ANNIE'S BALSAMIC natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN402,"ANNIE'S ORG HORSRADISH MUSTARD","Annie's (condiments)","$ 4",12,$48
+AN405,"ANNIE'S ORG YELLOW MUSTARD","Annie's (condiments)","$ 4",12,$48
+,,,,,$3440.25

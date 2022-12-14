@@ -1,0 +1,42 @@
+Sku,Item,Category,Price,Quantity,Totals
+PA402,"PACIFIC - ORG ALMOND ORIGINAL","Pacific (milk)","$ 2.74",12,$32.88
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD717,"BRAD ORG DARK CHOC BERRY GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+NKD206,"B NAKED HEAVEN CHOC GRN CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD202,"B NAKED CINN PROTEIN GR CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD209,"B NAKED PEANUT BUTTER GRAN","Bear Naked","$ 4.86",6,$29.16
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+LU301,"LUNDBERG - BROWN RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+EB306,"E.BEST - APPLE PLUM","Earth's Best (baby food)","$ 1.6",10,$16
+EB309,"E.BEST - SWEET POTATO","Earth's Best (baby food)","$ 1.6",10,$16
+WS115,"WHOLESOME ORG TURBINADO SUGAR","Wholesome Sweeteners","$ 4.72",12,$56.64
+SC401,"S.CRUZ OG APPLESAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC604,"S.CRUZ OG APRICOT SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+SC609,"S.CRUZ OG APL PEACH SAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",18,$77.94
+MGC103,"MARY - HERB CRACKER ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC104,"MARY - BLK PEPPER CRCKER ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC106,"MARY - JALAPENO CRACKER ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC107,"MARY - SUPER SEED CLASSIC ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC109,"MARY - SUPER SEED SEAWEED OG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC112,"MARY - SUPER SEED ROSEMARY OG","Mary's Gone Crackers","$ 4.33",12,$51.96
+AP701,"ANNIE'S CHEDDAR BUNNIES 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP714,"ANNIE'S CHOC CHIP BNY GRM 7.5","Annie's (snacks)","$ 3.73",12,$44.76
+AP712,"ANNIE'S CINN BUNNY GRAHM 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP711,"ANNIE'S HNY BUNNY GRAHAM 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101B,"NEWMAN'S - WHEAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+NEW603,"NEWMAN'S O'S CHOCOLATE","Newman's (cookies)","$ 4.72",6,$28.32
+NEW605,"NEWMAN'S O'S MINT","Newman's (cookies)","$ 4.72",6,$28.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+BJ301,"BRAD - ORG STRAW FRUIT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+BJ306,"BRAD - ORG ORANGE FRT SPREAD","Brad's Organic Fruit Spreads","$ 4.66",8,$37.28
+,,,,,$1643.06

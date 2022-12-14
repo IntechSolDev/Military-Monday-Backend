@@ -1,0 +1,86 @@
+Sku,Item,Category,Price,Quantity,Totals
+AB101,"ABS G.FREE ORIG CRACKER 4.4oz","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB103,"ABS G.FREE PEPPER CRACKER","Absolutely Gluten Free","$ 3.86",12,$46.32
+ES114,"ED & SON - ORGANIC BLK SESAME","Edward & Son","$ 2.79",12,$33.48
+ES110,"ED & SON - ORG N/S BROWN RICE","Edward & Son","$ 2.79",12,$33.48
+AN118,"ANNIE'S TUSCANY ITALIAN","Annie's (dressings)","$ 3.13",6,$18.78
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN105,"ANNIE'S BALSAMIC natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN108,"ANNIE'S ORG CAESAR","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD356,"BRAD ORG SPICY BROWN MUSTARD","Brad's Organic Condiments","$ 2.66",6,$15.96
+BRD359,"BRAD ORG N/S WHL GRAIN MUSTARD","Brad's Organic Condiments","$ 2.66",6,$15.96
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA267,"PACIFIC 17oz POBLANO w/ CORN","Pacific (soup)","$ 3.13",12,$37.56
+PA261,"PACIFIC 17.6oz CSHW CRT GINGR","Pacific (soup)","$ 3.13",12,$37.56
+LU110,"LUNDBERG ORG WHITE JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+AP109,"ANNIE'S FOUR CHEESE MAC CHS","Annie's (pasta)","$ 2.08",12,$24.96
+AP301,"ANNIE'S FAMILY SHELL & CHEDDAR","Annie's (pasta)","$ 3.6",6,$21.6
+AP303,"ANNIE'S DELUXE SHELL AGED CHED","Annie's (pasta)","$ 3.83",12,$45.96
+AP304,"ANNIE'S DELUXE ELBOW 4-CHEESE","Annie's (pasta)","$ 3.83",12,$45.96
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",12,$51.12
+K101,"KASHI - 7 GRAIN PUFFED KASHI",Kashi,"$ 3.06",10,$30.6
+K111,"KASHI - CINNAMON HARVEST ORG",Kashi,"$ 4.67",12,$56.04
+K112,"KASHI - ISLAND VANILLA ORG",Kashi,"$ 4.67",12,$56.04
+K113,"KASHI - BERRY FRUITFUL ORG",Kashi,"$ 4.67",12,$56.04
+K114,"KASHI - DARK COCOA KARMA ORG",Kashi,"$ 4.67",12,$56.04
+K117,"Kashi - kids cinn loops organic",Kashi,$4.67,10,$46.7
+K118,"Kashi - choc loops organic",Kashi,$4.67,10,$46.7
+K119,"Kashi - kids berry loops organic",Kashi,$4.67,10,$46.7
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+K302,"KASHI - GOLEAN CRNCH HNY ALMND",Kashi,"$ 4.46",12,$53.52
+K303,"KASHI - GOLEAN CRISP BERRY CRM",Kashi,"$ 4.46",12,$53.52
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+K306,"KASHI - GO CEREAL MAPLE BR SGR",Kashi,"$ 4.46",8,$35.68
+NP303,"N.PATH - ENVIRO AMAZON FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP112,"N.PATH - ENVIRO PANDA PUFFS","Nature's Path","$ 4.12",12,$49.44
+NP302,"N.PATH - ENVIRO KOALA CRISP","Nature's Path","$ 4.12",12,$49.44
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP407,"N.PATH - FLAX PLUS MAPLE PECAN","Nature's Path","$ 4.27",12,$51.24
+NP406,"N.PATH - FLAX PLUS BERRY CRNCH","Nature's Path","$ 4.27",12,$51.24
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+NP404,"N.PATH - FLAX PLUS RAISIN BRAN","Nature's Path","$ 4.12",12,$49.44
+NP401,"N.PATH - FLAX PLUS","Nature's Path","$ 4.12",12,$49.44
+NP205,"N.PATH - PEANUT BUTTER GRANOLA","Nature's Path","$ 4.12",12,$49.44
+NP403,"N.PATH - FLAX PUMPKIN GRANOLA","Nature's Path","$ 4.12",12,$49.44
+NP506,"N.PATH - OPT CINN BB HOT","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+EB203,"E.BEST - 8oz OATMEAL CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+EB202,"E.BEST - 8oz MULTIGRAIN CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+EB201,"E.BEST - 8oz BROWN RICE CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+EB422,"E.BEST - ORIGINAL CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+HA162,"H.BABY TEETHERS BANANA SWT POT","Happy Baby","$ 4.06",6,$24.36
+HA323,"HAPPY BABY # 4 BAN, MANGO, PCH","Happy Baby","$ 1.53",16,$24.48
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA413,"H.BABY CC # 2 BANANA RASP OAT","Happy Baby","$ 1.73",16,$27.68
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",16,$26.56
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN112,"M. NATURE - BANANAS 4oz","Made in Nature","$ 4.99",6,$29.94
+MN105,"M. NATURE - SMYRNA FIGS 7oz","Made in Nature","$ 4.99",6,$29.94
+MN103,"M. NATURE DRIED PINEAPPLE 3oz","Made in Nature","$ 4.99",6,$29.94
+NEW101A,"NEWMAN'S - LOW FAT FIG BAR","Fig Newman's","$ 4",6,$24
+NEW101,"NEWMAN'S - FAT FREE FIG BAR","Fig Newman's","$ 4",6,$24
+NEW601,"NEWMAN'S O'S REGULAR","Newman's (cookies)","$ 4.72",6,$28.32
+NEW609,"NEWMAN'S O'S VANILLA VANILLA","Newman's (cookies)","$ 4.72",6,$28.32
+NEW603,"NEWMAN'S O'S CHOCOLATE","Newman's (cookies)","$ 4.72",6,$28.32
+NEW612,"NEWMAN'S O'S PEANUT BUTTER","Newman's (cookies)","$ 4.72",6,$28.32
+EF302,"E.F DISH LIQUID PEAR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+,,,,,$3122.74

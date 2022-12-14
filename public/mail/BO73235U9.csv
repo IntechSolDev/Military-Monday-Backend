@@ -1,0 +1,176 @@
+Sku,Item,Category,Price,Quantity,Totals
+KZ101,"KHAZANA ORG BLK GRAM KIDNEY BN","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ103,"KHAZANA ORG YELLOW LENTILS","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ104,"KHAZANA ORG RED LENTIL CURRY","Khazana Organic Indian","$ 3.33",6,$19.98
+KZ105,"KHAZANA ORG CHIPOTLE CHKPEA","Khazana Organic Indian","$ 3.33",6,$19.98
+TB512,"TASTY BITE BASMATI RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB516,"TASTY BITE COCONUT RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+ES202,"N. FOREST OG LITE COCO MLK can","Native Forest Condiments","$ 2.26",12,$27.12
+ES211,"N. FOREST OG COCONUT CREAM 5.4","Native Forest Condiments","$ 1.39",12,$16.68
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD332,"BRAD ORG COCONUT OIL REF 14oz","Brad's Organic Coconut","$ 6.19",12,$74.28
+K603,"KASHI - GRAN BAR PEANUT BUTTER","Kashi (granola bars)","$ 4.19",8,$33.52
+K601,"KASHI - GRAN BAR TRAIL MIX","Kashi (granola bars)","$ 4.19",8,$33.52
+K631,"KASHI - BREAKFAST BAR CHOCLATE","Kashi (granola bars)","$ 4.19",8,$33.52
+K633,"KASHI - BREAKFST BAR MIX BERRY","Kashi (granola bars)","$ 4.19",8,$33.52
+MN105,"M. NATURE - SMYRNA FIGS 7oz","Made in Nature","$ 4.99",6,$29.94
+MN111,"M. NATURE - SUPER BERRY FUSION","Made in Nature","$ 4.99",6,$29.94
+MN113,"M. NATURE - DATES 8oz","Made in Nature","$ 4.99",6,$29.94
+SC404,"S.CRUZ OG CINNAMON SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC601,"S.CRUZ OG APPLESAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN108,"ANNIE'S ORG CAESAR","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN103,"ANNIE'S ORG L/F RASPBERRY 8oz","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN128,"ANNIE'S ORG SHIITAKE 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+BRD301,"BRAD OG TRKSH OLIVE OIL 250ml","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+BRD307,"BRAD OG SPNSH EV OLVE OIL 25.4","Brad's Organic Oil & Vinegar","$ 8.33",12,$99.96
+BRD312,"BRAD - ORG RED WINE VINEGAR","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+SP112,"SPEC UNREFINED PEANUT OIL 16oz",Spectrum,"$ 8.66",12,$103.92
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD390,"BRAD ORG HRTS PALM SPEARS jars","Brad's Organic Hearts Palm","$ 4.88",12,$58.56
+BRD391,"BRAD ORG HRTS PALM SLICES jars","Brad's Organic Hearts Palm","$ 3.55",12,$42.6
+BRD392,"BRAD ORG HRTS PALM SPEARS cans","Brad's Organic Hearts Palm","$ 4",12,$48
+BRD393,"BRAD ORG HRTS PALM SLICES cans","Brad's Organic Hearts Palm","$ 3",12,$36
+PA412,"PACIFIC - UNSW HEMP VANIL 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA415,"PACIFIC - VANILLA HEMP MILK 32","Pacific (milk)","$ 3.36",12,$40.32
+PA405,"PACIFIC - ORG UNSW ALMOND ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA407,"PACIFIC - NATRL CHOC HAZELNUT","Pacific (milk)","$ 2.74",6,$16.44
+PA404,"PACIFIC - NATURAL HAZELNUT PLN","Pacific (milk)","$ 2.74",6,$16.44
+WB204,"WESTSOY OG UNSWEET PLAIN 32oz",Westsoy,"$ 3.53",12,$42.36
+RD313,"R. DREAM - ENRICH UNSWEET 32oz","Rice Dream","$ 3.53",12,$42.36
+OAT103,"OAT DREAM - VANILLA 32oz","Oat Dream","$ 3.53",6,$21.18
+OAT102,"OAT DREAM - UNSWEET 32oz","Oat Dream","$ 3.53",6,$21.18
+TR110,"TRAD MED - NIGHTY NIGHT","Traditional Medicinals","$ 4.33",6,$25.98
+TR136,"TRAD MED NIGHT NIGHT VALERIAN","Traditional Medicinals","$ 4.33",6,$25.98
+TR134,"TRAD MED - CHAM SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR133,"TRAD MED ORG PEPMINT SMTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR102,"TRAD MED - ORG SMOOTH MOVE","Traditional Medicinals","$ 4.33",6,$25.98
+TR115,"TRAD MED - BELLY CMFRT PEPRMNT","Traditional Medicinals","$ 4.33",6,$25.98
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K301,"KASHI - GO LEAN CEREAL",Kashi,"$ 4.46",10,$44.6
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP523,"N.PATH - G/F OAT SUGAR MAPLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP551,"N.PATH OATMEAL CAN QUICK OATS","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+NP552,"N.PATH OATMEAL CAN OLD FASHION","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD702,"BRAD ORG OATMEAL APP CINN WLNT","Brad's Organic Oatmeal","$ 3.2",12,$38.4
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+LU201,"LUNDBERG - COUNTRY WILD 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU206,"LUNDBERG - WILD BLEND RICE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU202,"LUNDBERG - JUBILEE 1lb","Lundberg (1lb rice)","$ 3.83",6,$22.98
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+FM102,"F. MARKET - SWT POT PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD291,"BRAD PINK HIMALAYN SLT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA105,"PACIFIC - ORG VEG BROTH 4-pk","Pacific (soup)","$ 3.33",6,$19.98
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+BRD543,"BRAD ORG MAPLE DARK A 16oz","Brad's Organic Maple Syrup","$ 12.66",12,$151.92
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA371,"H.TOT FIBER PEAR BLUE SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA359,"H.BABY BELLIES BANANA SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA112,"HAPPY BABY MELTS MIX BERRY","Happy Baby","$ 3.33",8,$26.64
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+BRD173,"BRAD - ORG PRETZ UNSALTD ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+CL001,"CLIF - CRUNCHY PEANUT BUTTER","Clif Bars","$ 1.5",12,$18
+CL002,"CLIF - CHOC CHIP PNUT CRUNCH","Clif Bars","$ 1.5",12,$18
+CL003,"CLIF - CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL006,"CLIF - COOL MINT CHOCOLATE","Clif Bars","$ 1.5",12,$18
+CL007,"CLIF - CHOC BROWNIE","Clif Bars","$ 1.5",12,$18
+CL012,"CLIF - PEANUT TOFFEE BUZZ","Clif Bars","$ 1.5",12,$18
+CL014,"CLIF - OATMEAL RAISIN WALNUT","Clif Bars","$ 1.5",12,$18
+CL016,"CLIF - BLUEBERRY CRISP","Clif Bars","$ 1.5",12,$18
+CL018,"CLIF - WHITE CHOC MACADAMIA","Clif Bars","$ 1.5",12,$18
+CL019,"CLIF - COCONUT CHOC CHIP","Clif Bars","$ 1.5",12,$18
+CL020,"CLIF - P.B. BANANA DARK CHOC","Clif Bars","$ 1.5",12,$18
+CL021,"CLIF - CHOC CHUNK SEA SALT","Clif Bars","$ 1.5",12,$18
+CL022,"CLIF - P. BUTTER & HONEY","Clif Bars","$ 1.5",12,$18
+CL310,"CLIF - BUILDER CINN NUT SWIRL","Clif Bars","$ 1.86",12,$22.32
+CL308,"CLIF - BUILDER VANILLA ALMOND","Clif Bars","$ 1.86",12,$22.32
+CL307,"CLIF - BUILDER COOKIES & CREAM","Clif Bars","$ 1.86",12,$22.32
+CL306,"CLIF - BUILDER CRNCHY P.BUTTER","Clif Bars","$ 1.86",12,$22.32
+CL303,"CLIF - BUILDER CHOC MINT","Clif Bars","$ 1.86",12,$22.32
+CL302,"CLIF - BUILDER CHOCOLATE","Clif Bars","$ 1.86",12,$22.32
+CL301,"CLIF - BUILDER CHOC PNUT BUTR","Clif Bars","$ 1.86",12,$22.32
+LUN101,"LUNA BAR - LEMON ZEST 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN102,"LUNA BAR NUTZ OVER CHOC 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN108,"LUNA BAR - S'MORES 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN112,"LUNA BAR CHOC PEPPERMINT 15/cs","Luna Bars","$ 1.39",15,$20.85
+LUN113,"LUNA BAR - WHT CHOC MACADAMIA","Luna Bars","$ 1.39",15,$20.85
+LUN115,"LUNA BAR- DREAMY PEANUT BUTTER","Luna Bars","$ 1.39",15,$20.85
+LUN118,"LUNA BAR - CARAMEL NUT BROWNIE","Luna Bars","$ 1.39",15,$20.85
+LUN120,"LUNA BAR - CHOC DIPPED COCONUT","Luna Bars","$ 1.39",15,$20.85
+LUN123,"LUNA BAR - CHOCOLATE CUPCAKE","Luna Bars","$ 1.39",15,$20.85
+PUR109,"PURE PROTEIN COOKIES & CREAM","Pure Protein Bars","$ 1.76",6,$10.56
+PUR108,"PURE PROTEIN MARSH CRISPY TRT","Pure Protein Bars","$ 1.76",6,$10.56
+PUR107,"PURE PROTEIN RED VELVET","Pure Protein Bars","$ 1.76",6,$10.56
+PUR106,"PURE PROTEIN MAPLE CARAMEL","Pure Protein Bars","$ 1.76",6,$10.56
+PUR105,"PURE PROTEIN BIRTHDAY CAKE","Pure Protein Bars","$ 1.76",6,$10.56
+PUR104,"PURE PROTEIN SALTED CARAMEL","Pure Protein Bars","$ 1.76",6,$10.56
+PUR103,"PURE PROTEIN CHEWY CHOC CHIP","Pure Protein Bars","$ 1.76",6,$10.56
+PUR102,"PURE PROTEIN CHOC DELUXE","Pure Protein Bars","$ 1.76",6,$10.56
+PUR101,"PURE PROTEIN CHOC P.BUTTER","Pure Protein Bars","$ 1.76",6,$10.56
+TT501,"THINK THIN- CHUNKY PNUT BUTTER","Think! Protein Bars","$ 1.79",10,$17.9
+TT502,"THINK THIN- CREAMY PNUT BUTTER","Think! Protein Bars","$ 1.79",10,$17.9
+TT503,"THINK THIN - BROWNIE CRUNCH","Think! Protein Bars","$ 1.79",10,$17.9
+TT504,"THINK THIN - WHITE CHOCOLATE","Think! Protein Bars","$ 1.79",10,$17.9
+TT505,"THINK THIN - CHOCOLATE FUDGE","Think! Protein Bars","$ 1.79",10,$17.9
+TT506,"THINK THIN - DOUBLE CARAMEL","Think! Protein Bars","$ 1.79",10,$17.9
+TT507,"THINK THIN - COOKIES & CREAM","Think! Protein Bars","$ 1.79",10,$17.9
+TT508,"THINK THIN - BERRIES & CRÈME","Think! Protein Bars","$ 1.79",10,$17.9
+TT511,"THINK! KETO PROTEIN CHOC P.B.","Think! Protein Bars","$ 1.79",10,$17.9
+TT541,"THINK THIN LEAN SALTED CARAMEL","Think! Protein Bars","$ 1.59",10,$15.9
+TT543,"THINK THIN LEAN CHC ALM BRWNIE","Think! Protein Bars","$ 1.59",10,$15.9
+TT545,"THINK THIN LEAN CHNKY CHC PNUT","Think! Protein Bars","$ 1.59",10,$15.9
+TT546,"THINK THIN LEAN CUPCAKE BATTER","Think! Protein Bars","$ 1.59",10,$15.9
+TT547,"THINK THIN LEAN S'MORES","Think! Protein Bars","$ 1.59",10,$15.9
+TT548,"THINK THIN DARK CHOC PEPPRMINT","Think! Protein Bars","$ 1.59",10,$15.9
+BAL102,"BALANCE - CHOCOLATE CRAZE",Balance,"$ 1.26",6,$7.56
+BAL105,"BALANCE - YOGURT HONEY PEANUT",Balance,"$ 1.26",6,$7.56
+BAL107,"BALANCE - PEANUT BUTTER",Balance,"$ 1.26",6,$7.56
+BAL108,"BALANCE - COOKIE DOUGH",Balance,"$ 1.26",6,$7.56
+BAL201,"BALANCE - CARAMEL NUT BLAST",Balance,"$ 1.26",6,$7.56
+BAL206,"BALANCE - CHOC MINT GOLD CRNCH",Balance,"$ 1.26",6,$7.56
+BAL203,"BALANCE - CHOC PNUT BUTTER",Balance,"$ 1.26",6,$7.56
+LB101,"LARA BAR - CHERRY PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB102,"LARA BAR - APPLE PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB104,"LARA BAR - CHOC COCONUT 16/bar","Lara Bar","$ 1.5",16,$24
+LB105,"LARA BAR - CASHEW COOKIE 16","Lara Bar","$ 1.5",16,$24
+LB107,"LARA BAR - BANANA BREAD 16/bar","Lara Bar","$ 1.5",16,$24
+LB108,"LARA BAR - PECAN PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB109,"LARA BAR - LEMON 16/bars","Lara Bar","$ 1.5",16,$24
+LB111,"LARA BAR - COCONUT CREAM PIE","Lara Bar","$ 1.5",16,$24
+LB112,"LARA BAR - PEANUT BTR COOKIE","Lara Bar","$ 1.5",16,$24
+LB113,"LARA BAR - CHOC CHIP BROWNIE","Lara Bar","$ 1.5",16,$24
+LB114,"LARA BAR - COOKIE DOUGH","Lara Bar","$ 1.5",16,$24
+LB115,"LARA BAR - BLUEBERRY MUFFIN 16","Lara Bar","$ 1.5",16,$24
+LB116,"LARA BAR - P.BUTTER CHOC CHIP","Lara Bar","$ 1.5",16,$24
+LB117,"LARA BAR - MINT CHIP BROWNIE","Lara Bar","$ 1.5",16,$24
+LB118,"LARA BAR - ALMOND BTR CH CHIP","Lara Bar","$ 1.5",16,$24
+,,,,,$4737.21

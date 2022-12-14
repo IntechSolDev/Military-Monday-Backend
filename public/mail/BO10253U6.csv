@@ -1,0 +1,95 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD182,"BRAD ORG RICE CAKES N/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD185,"BRAD ORG CORN CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD582,"BRAD - COFFEE HOUSE BLEND bag","Brad's Organic Coffee","$ 8",6,$48
+BRD581,"BRAD - COFFEE FRENCH ROAST bag","Brad's Organic Coffee","$ 8",6,$48
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",6,$24
+BRD577,"BRAD - ORG MORINGA TEA 20ct","Brad's Organic Tea","$ 4",6,$24
+BRD569,"BRAD - ORG THROAT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA302,"PACIFIC OG NATURALLY OAT VANIL","Pacific (milk)","$ 2.74",12,$32.88
+BRD233,"BRAD - ORG F/F L/S GARDEN VEG","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD461,"BRAD ORG RED LENTIL PENNE G/F","Brad's Organic Gluten Free Pasta","$ 4.57",12,$54.84
+BRD465,"BRAD ORG RICE CAULIFLWR FUSILI","Brad's Organic Gluten Free Pasta","$ 4.57",12,$54.84
+BRD421,"BRAD ORG SEMOLINA SPAGHETTI","Brad's Organic Pasta","$ 2",20,$40
+BRD432,"BRAD ORG WHOLE WHT CAPELINNI","Brad's Organic Pasta","$ 2",20,$40
+BRD431,"BRAD ORG WHOLE WHT LINGUINE","Brad's Organic Pasta","$ 2",20,$40
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",12,$75
+BRD634,"BRAD - ORG CHIA SEEDS 14oz","Brad's Organic Grains","$ 5",12,$60
+BRD641,"BRAD ORG SHORT BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD642,"BRAD ORG LONG BROWN RICE 2lb","Brad's Organic Grains","$ 4.33",6,$25.98
+BRD643,"BRAD ORG BROWN BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD644,"BRAD ORG WHITE BASMATI 2lb","Brad's Organic Grains","$ 5.86",6,$35.16
+BRD294,"BRAD BLK PEPPERCORN grinder","Brad's Natural Spices","$ 6.2",6,$37.2
+BRD291,"BRAD PINK HIMALAYN SLT grinder","Brad's Natural Spices","$ 5",6,$30
+BRD386,"BRAD ORG SUNDRIED TOMATOES","Brad's Organic Condiments","$ 6.66",12,$79.92
+BRD385,"BRAD ORG PITTED KALMATA OLIVES","Brad's Organic Condiments","$ 4",12,$48
+BRD383,"BRAD ORG SLICED JALAPENOS","Brad's Organic Condiments","$ 4",12,$48
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",24,$68.64
+BRD359,"BRAD ORG N/S WHL GRAIN MUSTARD","Brad's Organic Condiments","$ 2.66",6,$15.96
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD357,"BRAD ORG DELI STYLE MUSTARD","Brad's Organic Condiments","$ 2.66",6,$15.96
+BRD356,"BRAD ORG SPICY BROWN MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD355,"BRAD ORG YELLOW MUSTARD 10oz","Brad's Organic Condiments","$ 2.66",12,$31.92
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",24,$75.6
+PA106,"PACIFIC - ORG CHICK BROTH 4-pk","Pacific (soup)","$ 3.73",6,$22.38
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",12,$44.76
+RD514,"IMAGINE L/S VEG BROTH 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+BRD317,"BRAD - ORG GLAZE BALSAMIC 8.5","Brad's Organic Oil & Vinegar","$ 4",12,$48
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD607,"BRAD - ORG CHILI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD335,"BRAD ORG 32oz COCNUT OIL UNREF","Brad's Organic Coconut","$ 14.19",6,$85.14
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",12,$48
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",12,$48
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",12,$103.92
+BRD543,"BRAD ORG MAPLE DARK A 16oz","Brad's Organic Maple Syrup","$ 12.66",6,$75.96
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542,"BRAD ORG MAPLE DARK A 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",6,$21.18
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",6,$21.18
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD702,"BRAD ORG OATMEAL APP CINN WLNT","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+NP228,"N.PATH LOVE CRUNCH DOUBLE CHOC","Nature's Path","$ 4.27",6,$25.62
+NP241,"N.PATH GLTN FREE HNY ALM GRAN","Nature's Path","$ 5.07",8,$40.56
+NP242,"N.PATH GLTN FREE SUMMER BRY GR","Nature's Path","$ 5.07",8,$40.56
+NP245,"N.PATH G/F COCONUT CASHEW GRAN","Nature's Path","$ 5.07",8,$40.56
+NP205,"N.PATH - PEANUT BUTTER GRANOLA","Nature's Path","$ 4.12",12,$49.44
+NP201,"N.PATH - HEMP PLUS GRANOLA,W/F","Nature's Path","$ 4.12",12,$49.44
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+,,,,,$3669.02

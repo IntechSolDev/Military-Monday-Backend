@@ -1,0 +1,60 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD305,"BRAD OG SPNSH EV OLIVE OIL 8.5","Brad's Organic Oil & Vinegar","$ 3.33",12,$39.96
+AN101,"ANNIE'S SHIITAKE SES 8oz ntrl","Annie's (dressings)","$ 3.13",6,$18.78
+AN102,"ANNIE'S GODDESS 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN104,"ANNIE'S ROASTED RED PEPPER","Annie's (dressings)","$ 3.13",6,$18.78
+TB514,"TASTY BITE JASMINE RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB515,"TASTY BITE STICKY RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB519,"TASTY BITE BROWN RICE & LENTIL","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB102,"TASTY BITE ORG MADRAS LENTILS","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB103,"TASTY BITE KASHMIR SPINCH 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB110,"TASTY BITE SPINACH DAL 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB115,"TASTY BITE ORG CHANNA MASALA","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB117,"TASTY BITE MUSHRM MASALA 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+TB122,"TASTY BITE VEG TIKKA MASALA","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA302,"PACIFIC OG NATURALLY OAT VANIL","Pacific (milk)","$ 2.74",12,$32.88
+PA405,"PACIFIC - ORG UNSW ALMOND ORIG","Pacific (milk)","$ 2.74",12,$32.88
+RD313,"R. DREAM - ENRICH UNSWEET 32oz","Rice Dream","$ 3.53",12,$42.36
+HA101,"HAPPY BABY PUFFS APPLE","Happy Baby","$ 2.93",6,$17.58
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA412,"H.BABY CC # 2 APL GUAVA BEETS","Happy Baby","$ 1.73",16,$27.68
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA379,"H.BABY VEGGIES SPIN APL SWT PT","Happy Baby","$ 1.53",16,$24.48
+HA163,"H.BABY TEETHERS PEA & SPINACH","Happy Baby","$ 4.06",6,$24.36
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",12,$31.92
+RD502,"IMAGINE CREAMY TOMATO 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD511,"IMAGINE TOMATO BASIL SOUP 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+PA106A,"PACIFIC ORG L/S CHICK BRTH 4pk","Pacific (soup)","$ 3.73",6,$22.38
+BRD204,"BRAD - ORG RSTD GARLIC SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD333,"BRAD ORG COCNUT OIL UNREF 14oz","Brad's Organic Coconut","$ 7.53",6,$45.18
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",12,$31.92
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",6,$22.5
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y104,"YOGI ECHINACEA IMMUNE SUPPORT","Yogi Tea","$ 3.75",6,$22.5
+Y141,"YOGI ROSE HIBISCUS (skin detx)","Yogi Tea","$ 3.75",6,$22.5
+Y147,"YOGI - SWEET TANGERINE","Yogi Tea","$ 3.75",6,$22.5
+Y158,"YOGI - GINGER CITRUS TURMERIC","Yogi Tea",$3.75,6,$22.5
+Y203,"YOGI - SUPER ANTIOXIDANT","Yogi Tea","$ 3.75",6,$22.5
+Y206,"YOGI - HONEY CHAI TURMERIC","Yogi Tea","$ 3.75",6,$22.5
+Y157,"YOGI BLKBRY APPLE CIDER DIGEST","Yogi Tea","$ 3.75",6,$22.5
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",6,$32.76
+KN118,"KNUDSEN - JUST POMEGRANTE 32oz",Knudsen,"$ 6.92",6,$41.52
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",6,$25.14
+KN401,"KNUDSEN - ORG JUST PRUNE 32oz",Knudsen,"$ 6.92",6,$41.52
+,,,,,$1646.84

@@ -1,0 +1,73 @@
+Sku,Item,Category,Price,Quantity,Totals
+NP122,"N.PATH - SMART BRAN org","Nature's Path","$ 4.27",12,$51.24
+NP111,"N.PATH - FJS CORN FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP404,"N.PATH - FLAX PLUS RAISIN BRAN","Nature's Path","$ 4.12",12,$49.44
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+NP407,"N.PATH - FLAX PLUS MAPLE PECAN","Nature's Path","$ 4.27",12,$51.24
+NP125,"N.PATH - CINNAMON SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP302,"N.PATH - ENVIRO KOALA CRISP","Nature's Path","$ 4.12",12,$49.44
+NP308,"N.PATH - ENVIRO CHOCO CHIMPS","Nature's Path","$ 4.12",12,$49.44
+NP309,"N.PATH - ENVIRO TURTLE SPLASH","Nature's Path","$ 4.12",12,$49.44
+NP304,"N.PATH ENVIRO RHINO ROLLS","Nature's Path",$4.12,12,$49.44
+NP306,"N.PATH - ENVIRO LEAPIN LEMURS","Nature's Path","$ 4.12",12,$49.44
+NP226,"N.PATH LOVE CRNCH SALTED CARML","Nature's Path","$ 4.27",6,$25.62
+NP228,"N.PATH LOVE CRUNCH DOUBLE CHOC","Nature's Path","$ 4.27",6,$25.62
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+K302,"KASHI - GOLEAN CRNCH HNY ALMND",Kashi,"$ 4.46",12,$53.52
+NP556,"N.PATH G/F STEEL CUT OATS CAN","Nature's Path Hot Cereal","$ 5.33",6,$31.98
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP524,"N.PATH - G/F OATMEAL VARIETY","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP522,"N.PATH - G/F OATMEAL HOMESTYLE","Nature's Path Hot Cereal","$ 4.33",6,$25.98
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD715,"BRAD ORG PUMPKIN FLAX GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+BRD716,"BRAD ORG ISLAND PISTACHIO GRAN","Brad's Organic Granola","$ 3.8",8,$30.4
+PA402,"PACIFIC - ORG ALMOND ORIGINAL","Pacific (milk)","$ 2.74",12,$32.88
+PA406,"PACIFIC - ORG UNSW ALMND VANIL","Pacific (milk)","$ 2.74",12,$32.88
+BRD347,"BRAD ORGANIC CANE SUGAR","Brad's Organic Sugar",$3.80,12,$45.6
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+AP702,"ANNIE'S 12pk CHED BUNNIES 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP705,"ANNIE'S 12pk SNACKS VARIETY","Annie's (snacks)","$ 6.66",6,$39.96
+HA111,"HAPPY BABY MELTS STRAWBERRY","Happy Baby","$ 3.33",8,$26.64
+HA118,"H.BABY MELT APL SPINACH PEA","Happy Baby","$ 3.33",8,$26.64
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+AN111,"ANNIE'S ORG RD WINE OLIVE 8oz","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+MN101,"M. NATURE - PRUNES 6oz (PLUMS)","Made in Nature","$ 6.33",6,$37.98
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+LU107,"LUNDBERG E.F WHITE ARBORIO 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU102,"LUNDBERG - ORG LONG RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU106,"LUNDBERG ORG BROWN BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",6,$21.18
+GE128,"GOE - WICKED HOT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+BRD181,"BRAD ORG RICE CAKES L/S 4.6oz","Brad's Organic Rice Cakes","$ 2.2",12,$26.4
+BRD183,"BRAD ORG RICE CAKES DARK CHOC","Brad's Organic Rice Cakes","$ 2.66",12,$31.92
+LU304,"LUNDBERG - WILD RICE CAKE L/S","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU305,"LUNDBERG - TAM SEAWEED R CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU308,"LUNDBERG - CINNAMON RICE CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+BRD172,"BRAD - ORG PRETZELS MINI ROUND","Brad's Organic Pretzels","$ 2.19",12,$26.28
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",6,$41.52
+BRN101,"BROWNIE BRITTLE CHOC CHIP","Brownie Brittle","$ 2.84",12,$34.08
+MGC112,"MARY - SUPER SEED ROSEMARY OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+TB513,"TASTY BITE BROWN RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB516,"TASTY BITE COCONUT RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB109,"TASTY BITE ORG MADRAS 3 BEAN","Tasty Bite (ready to eat)","$ 2.99",6,$17.94
+TB101,"TASTY BITE BOMBAY POTATO 10oz","Tasty Bite (ready to eat)","$ 2.66",6,$15.96
+ES211,"N. FOREST OG COCONUT CREAM 5.4","Native Forest Condiments","$ 1.39",12,$16.68
+ES201,"N. FOREST OG COCONUT MILK can","Native Forest Condiments","$ 2.26",12,$27.12
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+BRD573,"BRAD ORG DECAF GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",6,$19.98
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",6,$22.5
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",6,$22.5
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",6,$22.5
+Y148,"YOGI - HONEY LAVENDER STRESS","Yogi Tea","$ 3.75",6,$22.5
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+,,,,,$2198.74

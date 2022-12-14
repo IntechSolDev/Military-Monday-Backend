@@ -1,0 +1,9 @@
+Sku,Item,Category,Price,Quantity,Totals
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",120,$378
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",240,$854.4
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",108,$340.2
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",144,$512.64
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",96,$341.76
+PA110,"PACIFIC OG L/S BEEF BROTH 32oz","Pacific (soup)","$ 3.56",96,$341.76
+PA107,"PACIFIC - ORG MUSH BROTH 32oz","Pacific (soup)","$ 3.15",96,$302.4
+,,,,,$3071.16

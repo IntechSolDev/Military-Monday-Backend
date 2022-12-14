@@ -1,0 +1,120 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD201,"BRAD - ORG MILD SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD202,"BRAD - ORG MEDIUM SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD203,"BRAD - ORG HOT SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD204,"BRAD - ORG RSTD GARLIC SALSA","Brad's Organic","$ 3.7",12,$44.4
+BRD205,"BRAD - ORG HABANERO SALSA","Brad's Organic",$3.7,12,$44.4
+BRD206,"BRAD - ORG MANGO SALSA","Brad's Organic","$ 3.7",12,$44.4
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",12,$103.92
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$46.32
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",12,$46.32
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD602,"BRAD - ORG GARBANZO BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD606,"BRAD - ORG LENTIL BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD605,"BRAD - ORG NORTHERN BEANS","Brad's Organic Beans","$ 1.72",48,$82.56
+BRD607,"BRAD - ORG CHILI BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD610,"BRAD - ORG SALAD BEANS","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD613,"BRAD - ORG BLACK EYED PEAS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD619,"BRAD - ORG NO SALT CHILI BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD618,"BRAD - ORG NO SALT LENTILS","Brad's Organic Beans","$ 1.72",24,$41.28
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",180,$640.8
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",180,$640.8
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",120,$378
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",120,$378
+NP301,"N.PATH - ENVIRO GORILLA MUNCH","Nature's Path","$ 4.12",12,$49.44
+NP309,"N.PATH - ENVIRO TURTLE SPLASH","Nature's Path","$ 4.12",12,$49.44
+NP302,"N.PATH - ENVIRO KOALA CRISP","Nature's Path","$ 4.12",12,$49.44
+NP308,"N.PATH - ENVIRO CHOCO CHIMPS","Nature's Path","$ 4.12",12,$49.44
+NP303,"N.PATH - ENVIRO AMAZON FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP112,"N.PATH - ENVIRO PANDA PUFFS","Nature's Path","$ 4.12",12,$49.44
+NP123,"N.PATH - VANILLA SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP126,"N.PATH - HONEY SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP132,"N.PATH PURPLE ACAI FLAKES 6/cs","Nature's Path","$ 4.39",6,$26.34
+NP106,"N.PATH - HERITAGE CRUNCH","Nature's Path","$ 4.12",12,$49.44
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+BB108,"BARBARA'S - P. BUTTER PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB109,"BARBARA'S - HONEY RICE PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB114,"BARBARA'S - PB & CHOC PUFFINS",Barbara's,"$ 4.26",12,$51.12
+BB102,"BARBARA'S - MORNING OATS CRNCH",Barbara's,"$ 4.26",12,$51.12
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+BRD290,"BRAD ATLANTIC SEA SALT grinder","Brad's Natural Spices","$ 5",6,$30
+KN130,"KNUDSEN - PEAR 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",14,$39.62
+KN101,"KNUDSEN - LEMONADE 6.75oz 4pk","Knudsen (4-pack)","$ 2.83",14,$39.62
+KN143,"KNUDSEN - ORG CRAN & POMEGRNTE",Knudsen,"$ 3.86",6,$23.16
+KN142,"KNUDSEN - ORG CRAN & BLUEBERRY",Knudsen,"$ 3.86",6,$23.16
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",6,$26.52
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",6,$19.98
+KN122,"KNUDSEN - MEGA GREEN 32oz",Knudsen,"$ 3.33",6,$19.98
+KN144,"KNUDSEN - ORG PINEAPPLE JUICE",Knudsen,"$ 5.53",6,$33.18
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",6,$25.14
+NX101,"NIXIE OG LIME GINGER 12oz 8pk","Nixie Org Sparkling Water","$ 4.99",3,$14.97
+NX102,"NIXIE OG WATERMELON MINT 8pk","Nixie Org Sparkling Water","$ 4.99",3,$14.97
+NX103,"NIXIE OG PEACH BLK TEA 8pk","Nixie Org Sparkling Water","$ 4.99",3,$14.97
+NX105,"NIXIE OG GRAPEFRUIT 12oz 8pk","Nixie Org Sparkling Water","$ 4.99",3,$14.97
+NX108,"NIXIE OG STRAW HIBISCUS 8pk","Nixie Org Sparkling Water",$4.99,3,$14.97
+EB201,"E.BEST - 8oz BROWN RICE CEREAL","Earth's Best (cereal, snacks)","$ 4.3",12,$51.6
+EB451,"E.BEST - STRAW BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB452,"E.BEST - APPLE BLUE SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB453,"E.BEST - PEACH BANANA SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB454,"E.BEST - PEAR MANGO SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB455,"E.BEST - MIXED BERRY SMOOTHIE","Earth's Best - Sesame Street","$ 1.92",12,$23.04
+EB422,"E.BEST - ORIGINAL CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB424,"E.BEST - HONEY GRM CRACKER","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB426,"E.BEST - OATMEAL CINN COOKIE","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+EB427,"E.BEST - VERY VANILLA COOKIE","Earth's Best - Sesame Street","$ 3.66",6,$21.96
+HA111,"HAPPY BABY MELTS STRAWBERRY","Happy Baby","$ 3.33",8,$26.64
+HA112,"HAPPY BABY MELTS MIX BERRY","Happy Baby","$ 3.33",8,$26.64
+HA113,"HAPPY BABY MELTS BANANA MANGO","Happy Baby","$ 3.33",8,$26.64
+HA118,"H.BABY MELT APL SPINACH PEA","Happy Baby","$ 3.33",8,$26.64
+HA119,"H.BABY MELT STRAW RASP CAROT","Happy Baby","$ 3.33",8,$26.64
+HA165,"H.BABY TEETHER CRCKR STRW BEET","Happy Baby","$ 4.06",6,$24.36
+HA161,"H.BABY TEETHERS BLUE CARROT","Happy Baby","$ 4.06",6,$24.36
+HA106,"HAPPY BABY PUFFS BLUE CARROT","Happy Baby","$ 2.93",6,$17.58
+HA102,"HAPPY BABY PUFFS BANANA","Happy Baby","$ 2.93",6,$17.58
+HA423,"H.BABY CC # 2 PEAS BANANA KIWI","Happy Baby","$ 1.73",16,$27.68
+HA422,"H.BABY CC # 2 BAN SWT PT PAPAY","Happy Baby","$ 1.73",16,$27.68
+HA421,"H.BABY CC # 2 PEAR ZUCHINI PEA","Happy Baby","$ 1.73",16,$27.68
+HA420,"H.BABY CC # 2 PEAR PUMPK GRAN","Happy Baby","$ 1.73",16,$27.68
+HA419,"H.BABY CC # 2 BAN PNAPPL GRAN","Happy Baby","$ 1.73",16,$27.68
+HA417,"H.BABY CC # 2 BANANA PLUM GRAN","Happy Baby","$ 1.73",16,$27.68
+HA416,"H.BABY CC # 2 PEAR SQSH BLKBRY","Happy Baby","$ 1.73",16,$27.68
+HA415,"H.BABY CC # 2 APL PMPK CARROT","Happy Baby","$ 1.73",16,$27.68
+HA414,"H.BABY CC # 2 APPLE BLUE OAT","Happy Baby","$ 1.73",16,$27.68
+HA402,"H.BABY CC STAGE 1 PRUNES","Happy Baby","$ 1.66",16,$26.56
+HA401,"H.BABY CC STAGE 1 MANGOS","Happy Baby","$ 1.66",16,$26.56
+HA378,"H.BABY VEGGIES CRT BANANA MNGO","Happy Baby","$ 1.53",16,$24.48
+HA377,"H.BABY VEGGIES BANANA BEET BLU","Happy Baby","$ 1.53",16,$24.48
+HA359,"H.BABY BELLIES BANANA SPINACH","Happy Baby","$ 1.53",16,$24.48
+HA358,"H.BABY BELLIES PEAR BEET BLK","Happy Baby","$ 1.53",16,$24.48
+HA357,"H.BABY BELLIES BANANA CARROT","Happy Baby","$ 1.53",16,$24.48
+HA354,"HAPPY MORNING APPLE ACAI CHIA","Happy Baby","$ 1.53",16,$24.48
+HA353,"HAPPY MRNG BANANA DRGN FRUIT","Happy Baby","$ 1.53",16,$24.48
+HA352,"HAPPY MORNING APL CINN YOG OAT","Happy Baby","$ 1.53",16,$24.48
+HA351,"HAPPY MORNING BANANA BLUE OAT","Happy Baby","$ 1.53",16,$24.48
+HA343,"H.BABY TOT #4 KALE APL MANGO","Happy Baby","$ 1.53",16,$24.48
+HA327,"H.TOT # 4 BLUE PEAR & BEET","Happy Baby","$ 1.53",16,$24.48
+HA326,"H.BABY # 4 PMPKIN SWT PT PEAR","Happy Baby","$ 1.53",16,$24.48
+HA324,"H.BABY # 4 SPIN MNGO PEAR 1293","Happy Baby","$ 1.53",16,$24.48
+HA322,"HAPPY BABY # 4 SWT POT, APPLES","Happy Baby","$ 1.53",16,$24.48
+HA213,"H.BABY # 2 SPIN MNGO PEAR 1392","Happy Baby","$ 1.43",16,$22.88
+HA211,"HAPPY BABY # 2 BAN, BEET, BLUE","Happy Baby","$ 1.43",16,$22.88
+AP701,"ANNIE'S CHEDDAR BUNNIES 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP702,"ANNIE'S 12pk CHED BUNNIES 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP704,"ANNIE'S 12pk FRIENDS GRAHM 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP705,"ANNIE'S 12pk SNACKS VARIETY","Annie's (snacks)","$ 6.66",6,$39.96
+AP707,"ANNIE'S CHEDD SQUARES 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP712,"ANNIE'S CINN BUNNY GRAHM 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP721,"ANNIES OG BNY GRM FRNDS 11.25z","Annie's (snacks)","$ 4.33",6,$25.98
+AP732,"ANNIE'S ORG CINN GRAHAM 14.4oz","Annie's (snacks)","$ 4.33",12,$51.96
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",60,$213.6
+,,,,,$6419.93

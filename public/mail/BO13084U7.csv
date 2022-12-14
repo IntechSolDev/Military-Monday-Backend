@@ -1,0 +1,82 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",120,$319.2
+KN113,"KNUDSEN - JUST CONCORD GRAPE",Knudsen,"$ 5.46",60,$327.6
+KN127,"KNUDSEN - ORG BEET JUICE 32oz",Knudsen,"$ 6.2",30,$186
+KN114,"KNUDSEN - JUST BLACK CHERRY",Knudsen,"$ 5.46",60,$327.6
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",60,$415.2
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",60,$415.2
+KN401,"KNUDSEN - ORG JUST PRUNE 32oz",Knudsen,"$ 6.92",30,$207.6
+KN301,"KNUDSEN - OG APPLE JUICE 32oz",Knudsen,"$ 4.19",120,$502.8
+KN107,"KNUDSEN - ORG PEAR 32oz",Knudsen,"$ 4.42",30,$132.6
+KN106,"KNUDSEN - ORG VERY VEGGIE 32oz",Knudsen,"$ 3.46",30,$103.8
+KN106A,"KNUDSEN - ORG L/S VERY VEGGIE",Knudsen,"$ 3.46",60,$207.6
+KN110,"KNUDSEN - LEM/GINGER ECHINACEA",Knudsen,"$ 3.33",30,$99.9
+KN115,"KNUDSEN - MORNING BLEND 32oz",Knudsen,"$ 3.33",30,$99.9
+KN116,"KNUDSEN - JUST BLUEBERRY 32oz",Knudsen,"$ 6.92",30,$207.6
+KN121,"KNUDSEN- MEGA ANTIOXIDANT 32oz",Knudsen,"$ 3.33",30,$99.9
+KN122,"KNUDSEN - MEGA GREEN 32oz",Knudsen,"$ 3.33",30,$99.9
+KN118,"KNUDSEN - JUST POMEGRANTE 32oz",Knudsen,"$ 6.92",30,$207.6
+KN141,"KNUDSEN - ORG BLUE & POMEGRNTE",Knudsen,"$ 3.86",30,$115.8
+KN142,"KNUDSEN - ORG CRAN & BLUEBERRY",Knudsen,"$ 3.86",30,$115.8
+KN143,"KNUDSEN - ORG CRAN & POMEGRNTE",Knudsen,"$ 3.86",30,$115.8
+NX101,"NIXIE OG LIME GINGER 12oz 8pk","Nixie Org Sparkling Water","$ 4.99",30,$149.7
+BRD619,"BRAD - ORG NO SALT CHILI BEANS","Brad's Organic Beans","$ 1.72",36,$61.92
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",24,$41.28
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",60,$103.2
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",120,$206.4
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",180,$478.8
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",60,$159.6
+BRD359,"BRAD ORG N/S WHL GRAIN MUSTARD","Brad's Organic Condiments","$ 2.66",12,$31.92
+BRD356,"BRAD ORG SPICY BROWN MUSTARD","Brad's Organic Condiments","$ 2.66",24,$63.84
+BRD358,"BRAD ORG DIJON MUSTARD","Brad's Organic Condiments","$ 2.66",24,$63.84
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+BRD382,"BRAD ORG RSTD RED & YELW PEPRS","Brad's Organic Condiments","$ 4",12,$48
+BRD633,"BRAD - ORGANIC QUINOA 14oz","Brad's Organic Grains","$ 6.25",60,$375
+BRD315,"BRAD ORG APPL CIDER VNGR liter","Brad's Organic Oil & Vinegar","$ 4.88",6,$29.28
+BRD327,"BRAD ORG WHT WINE VNGR MOTHER","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+BRD232,"BRAD - ORG F/F L/S TOMTO BASIL","Brad's Organic Pasta Sauce","$ 3.7",12,$44.4
+BRD241,"BRAD- ORG VODKA SAUCE less fat","Brad's Organic Pasta Sauce","$ 3.33",12,$39.96
+BRD441,"BRAD ORG TRI COLOR FUSILLI","Brad's Organic Pasta","$ 2",20,$40
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+PB104,"BRADS - NATURAL CASHEW BUTTER","Brad's Nut Butters","$ 8.66",24,$207.84
+BRD704,"BRAD ORG OATMEAL FLAX","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD703,"BRAD ORG OATMEAL MAPLE PECAN","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+BRD701,"BRAD ORG OATMEAL ORIGINAL","Brad's Organic Oatmeal","$ 3.2",6,$19.2
+F240,"FIRST - ORANGE BLOSSOM 1lb","1st International Honey","$ 3.53",12,$42.36
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",12,$48
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",12,$84
+BRD542B,"BRAD ORG A/B VERY DRK MPL 12oz","Brad's Organic Maple Syrup","$ 9.66",12,$115.92
+BRD538,"BRAD - 44oz ORG RAW BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+BRD107,"BRAD - NATURAL NACHO CHIPS","Brad's Organic","$ 2.66",60,$159.6
+BRD108,"BRAD - NATURAL RANCH CHIPS","Brad's Organic","$ 2.66",60,$159.6
+BRD145,"BRAD - NATRL VEGGIE STRAWS G/F","Brad's Organic","$ 3.33",60,$199.8
+BRD146,"BRAD - NATRL VEGGIE CHIPS G/F","Brad's Organic","$ 3.33",60,$199.8
+EF112,"E.F LNDRY LIQ F&C 100oz #9889","Earth Friendly","$ 11.09",36,$399.24
+EF113,"E.F LNDRY LIQ LVND 100oz #9891","Earth Friendly","$ 11.09",16,$177.44
+EF114,"E.F LNDRY LIQ LEMONGRASS 100oz","Earth Friendly","$ 11.09",28,$310.52
+EF111,"E.F LNDRY LIQ LILY 100oz #9888","Earth Friendly","$ 11.09",32,$354.88
+BRD580,"BRAD - COFFEE BRKFST BLEND bag","Brad's Organic Coffee","$ 8",18,$144
+BRD581,"BRAD - COFFEE FRENCH ROAST bag","Brad's Organic Coffee","$ 8",18,$144
+BRD582,"BRAD - COFFEE HOUSE BLEND bag","Brad's Organic Coffee","$ 8",18,$144
+BRD583,"BRAD - COFFEE ULTIMATE RST bag","Brad's Organic Coffee","$ 8",18,$144
+BRD584,"BRAD - COFFEE DECAF ROAST bag","Brad's Organic Coffee","$ 8",18,$144
+BRD578,"BRAD - ORG MORINGA LMN GINGER","Brad's Organic Tea","$ 4",12,$48
+BRD577,"BRAD - ORG MORINGA TEA 20ct","Brad's Organic Tea","$ 4",12,$48
+BRD575,"BRAD - ORG CHAMOMILE TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD574,"BRAD ORG ROOIBOS CHAI TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD573,"BRAD ORG DECAF GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD572,"BRAD - ORG GREEN TEA KOMB 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD571,"BRAD - ORG ECHINACEA TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD570,"BRAD - ORG GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD569,"BRAD - ORG THROAT TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD568,"BRAD - ORG PEPPERMINT TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD567,"BRAD - ORGANIC GREEN TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD566,"BRAD ORG LEMON GINGER TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD565,"BRAD ORG GINGER TURMERIC TEA","Brad's Organic Tea","$ 3.33",12,$39.96
+BRD561,"BRAD -  ORG BEDTIME TEA 20ct","Brad's Organic Tea","$ 3.33",12,$39.96
+,,,,,$10755.6

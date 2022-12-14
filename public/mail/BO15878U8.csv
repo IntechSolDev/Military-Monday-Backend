@@ -1,0 +1,50 @@
+Sku,Item,Category,Price,Quantity,Totals
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",96,$384
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",36,$144
+TB502,"TASTY BITE THAI LIME RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB512,"TASTY BITE BASMATI RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB514,"TASTY BITE JASMINE RICE","Tasty Bite (ready to eat)","$ 1.99",24,$47.76
+TB515,"TASTY BITE STICKY RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB518,"TASTY BITE ANCIENT GRAINS","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB519,"TASTY BITE BROWN RICE & LENTIL","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB513,"TASTY BITE BROWN RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB516,"TASTY BITE COCONUT RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB517,"TASTY BITE SMKY CHIPOTLE RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+AN120,"ANNIE'S ORG RSTD GARLIC DRSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN113,"ANNIE'S ORG GREEN GODDESS","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN118,"ANNIE'S TUSCANY ITALIAN","Annie's (dressings)","$ 3.13",6,$18.78
+AN101,"ANNIE'S SHIITAKE SES 8oz ntrl","Annie's (dressings)","$ 3.13",6,$18.78
+AP101,"ANNIE'S SHELL WHT CHED #00004","Annie's (pasta)","$ 2.08",60,$124.8
+AP202,"ANNIES OG SHELL WHT CHD #30063","Annie's (pasta)","$ 3",60,$180
+AP106,"ANNIE'S CLASSIC MAC CHS #00045","Annie's (pasta)","$ 2.08",60,$124.8
+AB111,"ABS G.FREE ORIG FLATBREAD 5.29","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB113,"ABS G.FREE EVRYTHING FLATBREAD","Absolutely Gluten Free","$ 3.86",12,$46.32
+NP123,"N.PATH - VANILLA SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP405,"N.PATH - FLAX PMPKN RSN CRUNCH","Nature's Path","$ 4.27",12,$51.24
+NP124,"N.PATH - MAPLE SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP125,"N.PATH - CINNAMON SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP126,"N.PATH - HONEY SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+BB102,"BARBARA'S - MORNING OATS CRNCH",Barbara's,"$ 4.26",12,$51.12
+KN110,"KNUDSEN - LEM/GINGER ECHINACEA",Knudsen,"$ 3.33",6,$19.98
+KN121,"KNUDSEN- MEGA ANTIOXIDANT 32oz",Knudsen,"$ 3.33",6,$19.98
+EB422,"E.BEST - ORIGINAL CRACKER","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB423,"E.BEST - VEGGIE CRACKER","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB424,"E.BEST - HONEY GRM CRACKER","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB426,"E.BEST - OATMEAL CINN COOKIE","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB427,"E.BEST - VERY VANILLA COOKIE","Earth's Best - Sesame Street","$ 3.66",12,$43.92
+EB431,"E.BEST - APPLE SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+EB432,"E.BEST - STRAW SNACK BAR 6/8pk","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+EB433,"E.BEST - SWT POT CAROT SNK BAR","Earth's Best - Sesame Street","$ 4.39",12,$52.68
+NP502,"N.PATH - APPLE CINN HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP504,"N.PATH - FLAX PLUS HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+NP554,"N.PATH STEEL CUT OATS CANISTER","Nature's Path Hot Cereal","$ 3.9",6,$23.4
+BRD201,"BRAD - ORG MILD SALSA","Brad's Organic","$ 3.7",12,$44.4
+AP701,"ANNIE'S CHEDDAR BUNNIES 7.5oz","Annie's (snacks)","$ 3.73",24,$89.52
+AP707,"ANNIE'S CHEDD SQUARES 7.5oz","Annie's (snacks)","$ 3.73",24,$89.52
+AP741,"ANNIE'S ORGANIC SNACK MIX 9oz","Annie's (snacks)","$ 4.39",24,$105.36
+AP742,"ANNIE'S ORG CHED SNACK MIX 9oz","Annie's (snacks)","$ 4.39",24,$105.36
+,,,,,$2695.32

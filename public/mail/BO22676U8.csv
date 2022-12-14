@@ -1,0 +1,66 @@
+Sku,Item,Category,Price,Quantity,Totals
+GT301,"SWEET HOME - MAPLE PECAN GRAN","Sweet Home Granola","$ 5.33",24,$127.92
+GT302,"SWEET HOME - FRNCH VANILA GRAN","Sweet Home Granola","$ 5.33",16,$85.28
+GT303,"SWEET HOME- HNY ALMND NUT GRAN","Sweet Home Granola","$ 5.33",24,$127.92
+GT304,"SWEET HOME- L/F GRAN w/ RAISIN","Sweet Home Granola","$ 5.33",8,$42.64
+GT305,"SWEET HOME BLUE FLAX GRANOLA","Sweet Home Granola","$ 5.33",16,$85.28
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",12,$49.44
+NP106,"N.PATH - HERITAGE CRUNCH","Nature's Path","$ 4.12",12,$49.44
+NP107,"N.PATH - MESA SUNRISE","Nature's Path","$ 4.12",12,$49.44
+NP112,"N.PATH - ENVIRO PANDA PUFFS","Nature's Path","$ 4.12",12,$49.44
+NP114,"N.PATH - OPTIMUM BLUE / CINN","Nature's Path","$ 4.27",12,$51.24
+NP126,"N.PATH - HONEY SUNRISE G/F","Nature's Path","$ 4.27",12,$51.24
+NP205,"N.PATH - PEANUT BUTTER GRANOLA","Nature's Path","$ 4.12",12,$49.44
+NP301,"N.PATH - ENVIRO GORILLA MUNCH","Nature's Path","$ 4.12",12,$49.44
+NP308,"N.PATH - ENVIRO CHOCO CHIMPS","Nature's Path","$ 4.12",12,$49.44
+NP401,"N.PATH - FLAX PLUS","Nature's Path","$ 4.12",12,$49.44
+NP403,"N.PATH - FLAX PUMPKIN GRANOLA","Nature's Path","$ 4.12",12,$49.44
+NP407,"N.PATH - FLAX PLUS MAPLE PECAN","Nature's Path","$ 4.27",12,$51.24
+PA411,"PACIFIC - UNSW HEMP ORIG 32oz","Pacific (milk)","$ 3.36",24,$80.64
+KN105,"KNUDSEN - JUST CRANBERRY 32oz",Knudsen,"$ 6.92",12,$83.04
+KN110,"KNUDSEN - LEM/GINGER ECHINACEA",Knudsen,"$ 3.33",6,$19.98
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+SC107,"SANTA CRUZ - OG RASP LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC115,"SANTA CRUZ - OG PEACH LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+SC116,"SANTA CRUZ OG CHERRY LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+BRD360,"BRAD ORGANIC KETCHUP 24oz","Brad's Organic Condiments","$ 3.13",12,$37.56
+BRD387,"BRAD ORG CAPERS","Brad's Organic Condiments","$ 2.86",12,$34.32
+AN403,"ANNIE'S ORG HONEY MUSTARD 9oz","Annie's (condiments)","$ 4",12,$48
+AN404,"ANNIE'S ORG DIJON MUSTARD","Annie's (condiments)","$ 4",12,$48
+SC401,"S.CRUZ OG APPLESAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC402,"S.CRUZ OG APRICOT SAUCE 6pk","Santa Cruz (applesauce)","$ 3.86",12,$46.32
+SC601,"S.CRUZ OG APPLESAUCE 23oz","Santa Cruz (applesauce)","$ 3.66",12,$43.92
+PB201,"BRADS - ORGANIC PB SMOOTH","Brad's Nut Butters","$ 4",180,$720
+PB202,"BRADS - ORGANIC PB CRUNCHY","Brad's Nut Butters","$ 4",120,$480
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",240,$638.4
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",120,$319.2
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",36,$95.76
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",36,$95.76
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",36,$95.76
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",36,$95.76
+RD501,"IMAGINE BUTTERNUT SQUASH 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD502,"IMAGINE CREAMY TOMATO 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD503,"IMAGINE CREAMY POT LEEK 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD505,"IMAGINE PORTABELLA MUSH 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD507,"IMAGINE VEGETABLE BROTH 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD509,"IMAGINE FREE RANGE CHICK 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD513,"IMAGINE L/S CHICK BROTH 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD514,"IMAGINE L/S VEG BROTH 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD530,"IMAGINE BONE BROTH CHICKEN","Imagine (32oz soup)","$ 4.66",24,$111.84
+RD531,"IMAGINE BONE BROTH CHKN BEEF","Imagine (32oz soup)","$ 4.66",24,$111.84
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",36,$113.4
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",36,$113.4
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",36,$128.16
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",12,$44.76
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",12,$44.76
+LU101,"LUNDBERG - ORG SHORT RICE 2lb","Lundberg (2lb rice)","$ 4.91",6,$29.46
+LU103,"LUNDBERG - PREM SHORT RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU104,"LUNDBERG - PREM LONG RICE 2lb","Lundberg (2lb rice)","$ 3.54",6,$21.24
+LU106,"LUNDBERG ORG BROWN BASMATI 2lb","Lundberg (2lb rice)","$ 6.54",12,$78.48
+LU108,"LUNDBERG - ORG SUSHI RICE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+LU109,"LUNDBERG ORG BROWN JASMINE 2lb","Lundberg (2lb rice)","$ 6.54",6,$39.24
+BRD312,"BRAD - ORG RED WINE VINEGAR","Brad's Organic Oil & Vinegar","$ 2.66",12,$31.92
+,,,,,$5924.48

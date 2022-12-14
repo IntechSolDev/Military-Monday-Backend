@@ -1,0 +1,126 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD381,"BRAD ORG RSTD RED PEPPERS","Brad's Organic Condiments","$ 4",12,$48
+AN127,"ANNIE'S ORG GODDESS 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN130,"ANNIE'S ORG COWGIRL 8oz ORG","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN124,"ANNIE'S LEMON & CHIVES","Annie's (dressings)","$ 3.13",6,$18.78
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",6,$19.92
+EF305,"E.F DISH LIQUID FREE CLR 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF307,"E.F DISH LIQ BAMBOO LEMON 25oz","Earth Friendly","$ 3.2",6,$19.2
+EF509,"E.F TOILET CLEANER 24oz","Earth Friendly","$ 3.04",6,$18.24
+EF511,"E.F FLOOR CLEANER 22oz","Earth Friendly","$ 3.04",6,$18.24
+EF102,"E.F LNDRY LIQ F&C 50oz #9764","Earth Friendly","$ 6.2",8,$49.6
+EF112,"E.F LNDRY LIQ F&C 100oz #9889","Earth Friendly","$ 11.09",4,$44.36
+EF113,"E.F LNDRY LIQ LVND 100oz #9891","Earth Friendly","$ 11.09",4,$44.36
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+PB101,"BRADS NATRL P.B. SMOOTH","Brad's Nut Butters","$ 2.66",12,$31.92
+PB102,"BRADS NATRL P.B CRUNCHY","Brad's Nut Butters","$ 2.66",12,$31.92
+PA404,"PACIFIC - NATURAL HAZELNUT PLN","Pacific (milk)","$ 2.74",6,$16.44
+MGC112,"MARY - SUPER SEED ROSEMARY OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",6,$25.98
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",12,$31.92
+BRD627,"BRAD - ORG NO SALT NORTHERN BN","Brad's Organic Beans","$ 1.72",12,$20.64
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",12,$31.92
+BRD339,"BRAD ORG COCONUT MILK LIGHT","Brad's Organic Coconut","$ 2.66",12,$31.92
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",12,$42.72
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA131,"PACIFIC OG CHK BONE BROTH 32oz","Pacific (soup)","$ 5.13",12,$61.56
+LU305,"LUNDBERG - TAM SEAWEED R CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+LU313,"LUNDBERG OG HONEY NUT R. CAKE","Lundberg (rice cakes/chips)","$ 3.4",6,$20.4
+K604,"KASHI - GRAN BAR CHERRY CHOC","Kashi (granola bars)","$ 4.19",8,$33.52
+K631,"KASHI - BREAKFAST BAR CHOCLATE","Kashi (granola bars)","$ 4.19",8,$33.52
+K610,"KASHI GRAIN FREE BAR COCO ALM","Kashi (granola bars)","$ 4.19",8,$33.52
+MN108,"M. NATURE - DRIED MANGO 3oz","Made in Nature","$ 4.99",6,$29.94
+MN112,"M. NATURE - BANANAS 4oz","Made in Nature","$ 4.99",6,$29.94
+AP754,"ANNIE'S ORG FRUIT SNACK STRAW","Annie's (snacks)","$ 4.13",10,$41.3
+AP753,"ANNIE'S ORG FRT SNK SNY CITRUS","Annie's (snacks)","$ 4.13",10,$41.3
+GE302,"GOE - RED HOT BLUES 16oz PARTY","Garden of Eatin","$ 4.99",12,$59.88
+GE301,"GOE - BLUE TORTILLA 16oz PARTY","Garden of Eatin","$ 4.99",12,$59.88
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,12,$31.92
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",6,$59.94
+WS111,"WHOLESOME ORG LT BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS112,"WHOLESOME ORG DRK BROWN SUGAR","Wholesome Sweeteners","$ 4.26",6,$25.56
+WS113,"WHOLESOME ORG POWDERED SUGAR","Wholesome Sweeteners","$ 3.7",6,$22.2
+KN128,"KNUDSEN - ORG JUST TART CHERRY",Knudsen,"$ 6.92",6,$41.52
+SC119,"SANTA CRUZ OG BLUEBRY LEMONADE","Santa Cruz Lemonades","$ 2.39",12,$28.68
+NKD202,"B NAKED CINN PROTEIN GR CEREAL","Bear Naked","$ 4.86",6,$29.16
+NKD208,"B NAKED MAPLE-ICIOUS GRANOLA","Bear Naked","$ 4.86",6,$29.16
+NKD209,"B NAKED PEANUT BUTTER GRAN","Bear Naked","$ 4.86",6,$29.16
+NKD210,"B NAKED TRIPLE BERRY FIT GRAN","Bear Naked","$ 4.86",12,$58.32
+NP225,"N.PATH LOVE CRUNCH CHOC MCROON","Nature's Path","$ 4.27",6,$25.62
+NP229,"N.PATH LOVE CRNCH ESPRESSO VAN","Nature's Path","$ 4.27",6,$25.62
+NP221,"N.PATH LOVE CRNCH DRK CHOC BRY","Nature's Path","$ 4.27",6,$25.62
+NP223,"N.PATH LOVE CRUNCH APPLE CRUMB","Nature's Path","$ 4.27",6,$25.62
+NP227,"N.PATH LOVE CRUNCH CHOC PB","Nature's Path","$ 4.27",6,$25.62
+BRD714,"BRAD ORG COCONUT ALMND GRANOLA","Brad's Organic Granola","$ 3.8",8,$30.4
+NP552,"N.PATH OATMEAL CAN OLD FASHION","Nature's Path Hot Cereal","$ 3.13",6,$18.78
+NP553,"N.PATH OATMEAL G/F OLD FASHION","Nature's Path Hot Cereal","$ 3.6",6,$21.6
+NP503,"N.PATH - MAPLE NUT HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP506,"N.PATH - OPT CINN BB HOT","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+Y101,"YOGI - DETOX","Yogi Tea","$ 3.75",6,$22.5
+Y103,"YOGI - GINGER","Yogi Tea","$ 3.75",12,$45
+Y107,"YOGI - LEMON GINGER reg","Yogi Tea","$ 3.75",12,$45
+Y108,"YOGI - COLD SEASON (W. RELIEF)","Yogi Tea","$ 3.75",12,$45
+Y109,"YOGI - BEDTIME","Yogi Tea","$ 3.75",12,$45
+Y110,"YOGI - THROAT COMFORT","Yogi Tea","$ 3.75",12,$45
+Y112,"YOGI - PEACH DETOX","Yogi Tea","$ 3.75",12,$45
+Y115,"YOGI - STOMACH EASE","Yogi Tea","$ 3.75",12,$45
+Y119,"YOGI - EGYPTIAN LICORICE reg","Yogi Tea","$ 3.75",12,$45
+Y121,"YOGI - KAVA STRESS RELIEF","Yogi Tea","$ 3.75",12,$45
+Y126,"YOGI - CALMING","Yogi Tea","$ 3.75",12,$45
+Y127,"YOGI - HONEY LEMON THROAT","Yogi Tea","$ 3.75",12,$45
+Y132,"YOGI - WOMAN'S RASP LEAF","Yogi Tea","$ 3.75",12,$45
+Y138,"YOGI MEDITATIVE (relaxed mind)","Yogi Tea","$ 3.75",12,$45
+Y139,"YOGI - ELDRBRY LMN BALM STRESS","Yogi Tea","$ 3.75",12,$45
+Y140,"YOGI - BERRY DETOX","Yogi Tea","$ 3.75",12,$45
+Y141,"YOGI ROSE HIBISCUS (skin detx)","Yogi Tea","$ 3.75",12,$45
+Y142,"YOGI - VANILLA SPICE ENERGY","Yogi Tea","$ 3.75",12,$45
+Y144,"YOGI - RASP PASSION ENERGY","Yogi Tea","$ 3.75",12,$45
+Y145,"YOGI - CARAMEL BEDTIME","Yogi Tea","$ 3.75",12,$45
+Y146,"YOGI - CARAMEL APPLE SPICE","Yogi Tea","$ 3.75",12,$45
+Y147,"YOGI - SWEET TANGERINE","Yogi Tea","$ 3.75",12,$45
+Y148,"YOGI - HONEY LAVENDER STRESS","Yogi Tea","$ 3.75",12,$45
+Y149,"YOGI - CINN VANIL HEALTHY SKIN","Yogi Tea","$ 3.75",12,$45
+Y150,"YOGI - RSTD DANDELION DETOX","Yogi Tea","$ 3.75",12,$45
+Y152,"YOGI - CINN BERRY PROBIOTIC","Yogi Tea","$ 3.75",12,$45
+Y154,"YOGI - MANGO GINGER","Yogi Tea","$ 3.75",12,$45
+Y156,"YOGI SWEET CLEMENTINE STRESS","Yogi Tea","$ 3.75",12,$45
+Y157,"YOGI BLKBRY APPLE CIDER DIGEST","Yogi Tea","$ 3.75",12,$45
+Y158,"YOGI - GINGER CITRUS TURMERIC","Yogi Tea",$3.75,12,$45
+Y203,"YOGI - SUPER ANTIOXIDANT","Yogi Tea","$ 3.75",12,$45
+Y204,"YOGI - CHAMOMILLE","Yogi Tea","$ 3.75",12,$45
+Y205,"YOGI - PEPPERMINT","Yogi Tea","$ 3.75",12,$45
+Y206,"YOGI - HONEY CHAI TURMERIC","Yogi Tea","$ 3.75",12,$45
+Y207,"YOGI - EGYPTIAN MINT LICORICE","Yogi Tea","$ 3.75",12,$45
+Y210,"YOGI - ROOIBOS CHAI","Yogi Tea","$ 3.75",12,$45
+Y401,"YOGI - PURE GREEN TEA","Yogi Tea","$ 3.75",6,$22.5
+TZ101,"TAZO - REFRESH HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ103,"TAZO - W. S. ORANGE HERBAL TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ106,"TAZO - AWAKE BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ107,"TAZO - EARL GREY BLACK TEA","Tazo Tea","$ 3.99",6,$23.94
+TZ110,"TAZO - GINGER GREEN TEA","Tazo Tea","$ 3.99",6,$23.94
+BB108,"BARBARA'S - P. BUTTER PUFFINS",Barbara's,"$ 4.26",12,$51.12
+K305,"KASHI - GOLEAN CRUNCH P.BUTTER",Kashi,"$ 4.46",8,$35.68
+K304,"KASHI - GOLEAN CHOCOLATE CRNCH",Kashi,"$ 4.46",8,$35.68
+K113,"KASHI - BERRY FRUITFUL ORG",Kashi,"$ 4.67",12,$56.04
+K107,"KASHI - STRAWBERRY FIELDS ORG",Kashi,"$ 4.67",12,$56.04
+K303,"KASHI - GOLEAN CRISP BERRY CRM",Kashi,"$ 4.46",12,$53.52
+K117,"Kashi - kids cinn loops organic",Kashi,$4.67,10,$46.7
+K118,"Kashi - choc loops organic",Kashi,$4.67,10,$46.7
+K119,"Kashi - kids berry loops organic",Kashi,$4.67,10,$46.7
+LB101,"LARA BAR - CHERRY PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB102,"LARA BAR - APPLE PIE 16/bars","Lara Bar","$ 1.5",16,$24
+LB105,"LARA BAR - CASHEW COOKIE 16","Lara Bar","$ 1.5",16,$24
+LB107,"LARA BAR - BANANA BREAD 16/bar","Lara Bar","$ 1.5",16,$24
+LB111,"LARA BAR - COCONUT CREAM PIE","Lara Bar","$ 1.5",16,$24
+LB112,"LARA BAR - PEANUT BTR COOKIE","Lara Bar","$ 1.5",16,$24
+LB113,"LARA BAR - CHOC CHIP BROWNIE","Lara Bar","$ 1.5",16,$24
+LB114,"LARA BAR - COOKIE DOUGH","Lara Bar","$ 1.5",16,$24
+LB115,"LARA BAR - BLUEBERRY MUFFIN 16","Lara Bar","$ 1.5",16,$24
+LB116,"LARA BAR - P.BUTTER CHOC CHIP","Lara Bar","$ 1.5",16,$24
+LB117,"LARA BAR - MINT CHIP BROWNIE","Lara Bar","$ 1.5",16,$24
+,,,,,$4458.96

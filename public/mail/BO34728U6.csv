@@ -1,0 +1,11 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD511A,"BRAD ORG WILDFLOWR HONEY 12.35","Brad's Organic Honey","$ 4.16",24,$99.84
+BRD512,"BRAD ORG WILDFLOWR HONEY 15oz","Brad's Organic Honey","$ 6.66",12,$79.92
+BRD537,"BRAD - 44oz ORG BLUE AGAVE","Brad's Organic Agave Syrup","$ 9.99",36,$359.64
+BRD541,"BRAD ORG MAPLE DARK A 8oz","Brad's Organic Maple Syrup","$ 7",24,$168
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Sugar",$4,12,$48
+PB203,"BRADS - ORGANIC ALMOND BUTTER","Brad's Nut Butters","$ 13.33",12,$159.96
+PB103,"BRADS - NATURAL ALMOND BUTTER","Brad's Nut Butters","$ 9",12,$108
+PB131,"BRADS NATURAL MACADAMIA 8.8oz","Brad's Nut Butters","$ 10",12,$120
+PB205,"BRADS - ORG SESAME TAHINI 16oz","Brad's Nut Butters","$ 5.13",12,$61.56
+,,,,,$1204.92

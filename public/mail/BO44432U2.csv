@@ -1,0 +1,41 @@
+Sku,Item,Category,Price,Quantity,Totals
+F241,"FIRST - CLOVER 1lb","1st International Honey","$ 3.53",12,$42.36
+F242,"FIRST - WILDFLOWER 1lb","1st International Honey","$ 3.53",12,$42.36
+F243,"FIRST - BUCKWHEAT 1lb","1st International Honey","$ 4",12,$48
+F245,"FIRST - HONEY BEARS","1st International Honey","$ 2.86",12,$34.32
+F245A,"FIRST- HONEY BEAR DISPLAY 48pc","1st International Honey","$ 2.86",48,$137.28
+F247,"FIRST - ORANGE BLOSSOM 2lb","1st International Honey","$ 6.66",12,$79.92
+AB103,"ABS G.FREE PEPPER CRACKER","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB111,"ABS G.FREE ORIG FLATBREAD 5.29","Absolutely Gluten Free","$ 3.86",12,$46.32
+AB101,"ABS G.FREE ORIG CRACKER 4.4oz","Absolutely Gluten Free","$ 3.86",12,$46.32
+AN402,"ANNIE'S ORG HORSRADISH MUSTARD","Annie's (condiments)","$ 4",12,$48
+AN102,"ANNIE'S GODDESS 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN101,"ANNIE'S SHIITAKE SES 8oz ntrl","Annie's (dressings)","$ 3.13",6,$18.78
+AN105,"ANNIE'S BALSAMIC natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN109,"ANNIE'S COW GIRL 8oz natural","Annie's (dressings)","$ 3.13",6,$18.78
+AN118,"ANNIE'S TUSCANY ITALIAN","Annie's (dressings)","$ 3.13",6,$18.78
+AN103,"ANNIE'S ORG L/F RASPBERRY 8oz","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN107,"ANNIE'S ORG GREEN GARLIC","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN108,"ANNIE'S ORG CAESAR","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN115,"ANNIE'S ORG HNY MSTRD DRESSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN120,"ANNIE'S ORG RSTD GARLIC DRSING","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN122,"ANNIE'S ORG ASIAN SESAME","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN123,"ANNIE'S ORG PAPAYA POPPY SEED","Annie's (organic dressings)","$ 3.58",6,$21.48
+AP101,"ANNIE'S SHELL WHT CHED #00004","Annie's (pasta)","$ 2.08",12,$24.96
+AP103,"ANNIE'S BUNNY PASTA W/ YUMMY","Annie's (pasta)","$ 2.08",12,$24.96
+AP104,"ANNIE'S SPIRALS W/ BTR PARMESN","Annie's (pasta)","$ 2.08",12,$24.96
+AP105,"ANNIE'S WISCONSIN CHED #30084","Annie's (pasta)","$ 2.08",12,$24.96
+AP106,"ANNIE'S CLASSIC MAC CHS #00045","Annie's (pasta)","$ 2.08",12,$24.96
+AP107,"ANNIES 25% LESS SODIUM MAC CHS","Annie's (pasta)","$ 2.08",12,$24.96
+AP402,"ANNIE'S MICRO REAL WISCON CHED","Annie's (pasta)","$ 5.86",6,$35.16
+AP411,"ANNIE'S MICRO CUP AGED CHED","Annie's (pasta)","$ 1.79",12,$21.48
+AP412,"ANNIE'S MICRO CUP WHITE CHED","Annie's (pasta)","$ 1.79",12,$21.48
+AP501,"ANNIE'S ORG BERNIEO'S","Annie's (pasta)","$ 2.73",12,$32.76
+AP701,"ANNIE'S CHEDDAR BUNNIES 7.5oz","Annie's (snacks)","$ 3.73",12,$44.76
+AP702,"ANNIE'S 12pk CHED BUNNIES 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+AP704,"ANNIE'S 12pk FRIENDS GRAHM 1oz","Annie's (snacks)","$ 6.33",4,$25.32
+MA102,"ARTISANA - 8oz ORG ALMOND 6/cs","Artisana Nut Butters","$ 14.33",6,$85.98
+MA103,"ARTISANA - ORG WALNUT 6/8oz","Artisana Nut Butters","$ 14.66",6,$87.96
+MA104,"ARTISANA - ORG PECAN 6/8oz","Artisana Nut Butters","$ 12.66",6,$75.96
+MA107,"ARTISANA- 8oz ORG COCONUT BTR","Artisana Nut Butters","$ 7.49",6,$44.94
+,,,,,$1466.34

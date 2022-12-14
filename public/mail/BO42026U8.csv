@@ -1,0 +1,37 @@
+Sku,Item,Category,Price,Quantity,Totals
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",48,$151.2
+PA103,"PACIFIC - OG L/S VEG BRTH 32oz","Pacific (soup)","$ 3.15",36,$113.4
+PA102,"PACIFIC - ORG CHICK BROTH 32oz","Pacific (soup)","$ 3.56",60,$213.6
+PA104,"PACIFIC - OG L/S CHK BRTH 32oz","Pacific (soup)","$ 3.56",60,$213.6
+PA109,"PACIFIC - ORG BEEF BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA110,"PACIFIC OG L/S BEEF BROTH 32oz","Pacific (soup)","$ 3.56",24,$85.44
+PA107,"PACIFIC - ORG MUSH BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA202,"PACIFIC- OG CREAMY TOMATO 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA207,"PACIFIC- OG BUTERNUT SQSH 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA208,"PACIFIC- OG RSTD PEPP TOM 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA210,"PACIFIC CSHW CARROT GNGER 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA213,"PACIFIC- ORG TOMATO BASIL 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA221,"PACIFIC - ORG L/S TOMATO 32oz","Pacific (soup)","$ 3.73",36,$134.28
+PA222,"PACIFIC OG L/S BTRNT SQSH 32oz","Pacific (soup)","$ 3.73",24,$89.52
+PA223,"PACIFIC OG L/S RSTD PEPP 32oz","Pacific (soup)","$ 3.73",24,$89.52
+RD515,"IMAGINE L/S NO-CHICK BRTH 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+RD514,"IMAGINE L/S VEG BROTH 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD507,"IMAGINE VEGETABLE BROTH 32oz","Imagine (32oz soup)","$ 3.46",24,$83.04
+RD509,"IMAGINE FREE RANGE CHICK 32oz","Imagine (32oz soup)","$ 3.46",36,$124.56
+RD513,"IMAGINE L/S CHICK BROTH 32oz","Imagine (32oz soup)","$ 3.46",36,$124.56
+RD506,"IMAGINE NO-CHICKEN BROTH 32oz","Imagine (32oz soup)","$ 3.46",12,$41.52
+RD501,"IMAGINE BUTTERNUT SQUASH 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD502,"IMAGINE CREAMY TOMATO 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD503,"IMAGINE CREAMY POT LEEK 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD504,"IMAGINE CREAMY BROCOLI 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+RD511,"IMAGINE TOMATO BASIL SOUP 32oz","Imagine (32oz soup)","$ 4.66",12,$55.92
+GE128,"GOE - WICKED HOT CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE124,"GOE - MULTIGRAIN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE126,"GOE - TOUCH OF LIME CHIPS 5.5","Garden of Eatin","$ 2.66",12,$31.92
+GE127,"GOE - WHITE CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",12,$31.92
+GE129,"GOE - YELLOW CORN CHIPS 5.5oz","Garden of Eatin","$ 2.66",36,$95.76
+GE125,"GOE - SESAME BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE123,"GOE - RED HOT BLUE CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE122,"GOE - BLUE NO SALT CHIPS 5.5oz","Garden of Eatin","$ 2.66",24,$63.84
+GE121,"GOE - BLUE CORN CHIPS 5.5oz","Garden of Eatin",$2.66,24,$63.84
+,,,,,$2918.04

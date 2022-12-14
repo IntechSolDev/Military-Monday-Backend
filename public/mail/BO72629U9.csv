@@ -1,0 +1,51 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD661,"BRAD ORG KOSHER CHCK BRTH 32oz","Brad's Organic Broths","$ 2.66",240,$638.4
+BRD662,"BRAD - ORG L/S CHICK BRTH 32oz","Brad's Organic Broths","$ 2.66",84,$223.44
+BRD663,"BRAD ORG KOSHER VEG BROTH 32oz","Brad's Organic Broths","$ 2.66",180,$478.8
+BRD664,"BRAD ORG KOSHER L/S VEG BROTH","Brad's Organic Broths","$ 2.66",84,$223.44
+AN108,"ANNIE'S ORG CAESAR","Annie's (organic dressings)","$ 3.58",6,$21.48
+AN110,"ANNIE'S ORG SESAME GINGER","Annie's (organic dressings)","$ 3.58",6,$21.48
+NP101,"N.PATH - HERITAGE FLAKES","Nature's Path","$ 4.12",24,$98.88
+NP106,"N.PATH - HERITAGE CRUNCH","Nature's Path","$ 4.12",24,$98.88
+NP112,"N.PATH - ENVIRO PANDA PUFFS","Nature's Path","$ 4.12",12,$49.44
+NP308,"N.PATH - ENVIRO CHOCO CHIMPS","Nature's Path","$ 4.12",12,$49.44
+NP501,"N.PATH - ORIGINAL HOT CEREAL","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP505,"N.PATH - HOT CEREAL VARIETY","Nature's Path Hot Cereal","$ 3.66",6,$21.96
+NP551,"N.PATH OATMEAL CAN QUICK OATS","Nature's Path Hot Cereal","$ 3.13",12,$37.56
+NP554,"N.PATH STEEL CUT OATS CANISTER","Nature's Path Hot Cereal","$ 3.9",12,$46.8
+FM101,"F. MARKET - PUMPKIN PUREE OG","Farmer's Market","$ 2.66",264,$702.24
+FM102,"F. MARKET - SWT POT PUREE OG","Farmer's Market","$ 2.66",24,$63.84
+FM103,"F. MARKET - BTTRNT SQ PUREE OG","Farmer's Market","$ 2.66",12,$31.92
+TB101,"TASTY BITE BOMBAY POTATO 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB102,"TASTY BITE ORG MADRAS LENTILS","Tasty Bite (ready to eat)","$ 2.99",12,$35.88
+TB103,"TASTY BITE KASHMIR SPINCH 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB104,"TASTY BITE PUNJAB EGGPLNT 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB107,"TASTY BITE ORG JODPHUR DAL","Tasty Bite (ready to eat)","$ 2.99",12,$35.88
+TB110,"TASTY BITE SPINACH DAL 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB115,"TASTY BITE ORG CHANNA MASALA","Tasty Bite (ready to eat)","$ 2.99",12,$35.88
+TB117,"TASTY BITE MUSHRM MASALA 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB122,"TASTY BITE VEG TIKKA MASALA","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB114,"TASTY BITE VEGTABLE KORMA 10oz","Tasty Bite (ready to eat)","$ 2.66",12,$31.92
+TB512,"TASTY BITE BASMATI RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+TB513,"TASTY BITE BROWN RICE","Tasty Bite (ready to eat)","$ 1.99",12,$23.88
+BRD691,"BRADS - ORG COCONUT WATER","Brad's Organic Coconut","$ 4.66",120,$559.2
+BRD338,"BRAD ORG COCONUT MILK REG","Brad's Organic Coconut","$ 2.66",24,$63.84
+CL001,"CLIF - CRUNCHY PEANUT BUTTER","Clif Bars","$ 1.5",36,$54
+CL002,"CLIF - CHOC CHIP PNUT CRUNCH","Clif Bars","$ 1.5",36,$54
+CL003,"CLIF - CHOC CHIP","Clif Bars","$ 1.5",48,$72
+CL006,"CLIF - COOL MINT CHOCOLATE","Clif Bars","$ 1.5",24,$36
+CL007,"CLIF - CHOC BROWNIE","Clif Bars","$ 1.5",24,$36
+CL012,"CLIF - PEANUT TOFFEE BUZZ","Clif Bars","$ 1.5",24,$36
+CL014,"CLIF - OATMEAL RAISIN WALNUT","Clif Bars","$ 1.5",24,$36
+CL016,"CLIF - BLUEBERRY CRISP","Clif Bars","$ 1.5",24,$36
+CL018,"CLIF - WHITE CHOC MACADAMIA","Clif Bars","$ 1.5",24,$36
+CL019,"CLIF - COCONUT CHOC CHIP","Clif Bars","$ 1.5",24,$36
+CL020,"CLIF - P.B. BANANA DARK CHOC","Clif Bars","$ 1.5",24,$36
+CL021,"CLIF - CHOC CHUNK SEA SALT","Clif Bars","$ 1.5",12,$18
+CL022,"CLIF - P. BUTTER & HONEY","Clif Bars","$ 1.5",12,$18
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA313,"PACIFIC OG COCONUT UNSW VANILA","Pacific (milk)","$ 2.74",12,$32.88
+PA411,"PACIFIC - UNSW HEMP ORIG 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA412,"PACIFIC - UNSW HEMP VANIL 32oz","Pacific (milk)","$ 3.36",12,$40.32
+PA414,"PACIFIC - ORIG HEMP MILK 32oz","Pacific (milk)","$ 3.36",12,$40.32
+,,,,,$4522.56

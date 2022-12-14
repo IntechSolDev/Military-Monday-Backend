@@ -1,0 +1,15 @@
+Sku,Item,Category,Price,Quantity,Totals
+BRD601,"BRAD - ORG BLACK BEANS","Brad's Organic Beans","$ 1.72",420,$722.4
+BRD603,"BRAD - ORG KIDNEY BEANS","Brad's Organic Beans","$ 1.72",192,$330.24
+BRD604,"BRAD - ORG PINTO BEANS","Brad's Organic Beans","$ 1.72",132,$227.04
+BRD623,"BRAD - ORG NO SALT BLACK BEANS","Brad's Organic Beans","$ 1.72",420,$722.4
+BRD624,"BRAD - ORG NO SALT GARBANZO","Brad's Organic Beans","$ 1.72",192,$330.24
+BRD625,"BRAD - ORG NO SALT KIDNEY BEAN","Brad's Organic Beans","$ 1.72",192,$330.24
+BRD626,"BRAD - ORG NO SALT PINTO BEANS","Brad's Organic Beans","$ 1.72",132,$227.04
+BRD628,"BRAD - ORG NO SALT CANNELLINI","Brad's Organic Beans","$ 1.72",240,$412.8
+BRD611,"BRAD - ORG CANNELLINI BEANS","Brad's Organic Beans","$ 1.72",120,$206.4
+EF351,"E.F HAND SOAP LEMONGRASS 17oz","Earth Friendly","$ 3.32",42,$139.44
+EF352,"E.F HAND SOAP LAVENDER 17oz","Earth Friendly","$ 3.32",42,$139.44
+EF353,"E.F HAND SOAP ORANGE BLSM 17oz","Earth Friendly","$ 3.32",42,$139.44
+EF354,"E.F HAND SOAP FREE & CLR 17oz","Earth Friendly","$ 3.32",54,$179.28
+,,,,,$4106.4

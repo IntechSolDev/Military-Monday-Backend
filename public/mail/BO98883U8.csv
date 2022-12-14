@@ -1,0 +1,41 @@
+Sku,Item,Category,Price,Quantity,Totals
+GT103A,"G.TEMPLE - BULK BLUEBERRY FLAX","Bulk Granola","$ 72.5",2,$145
+GT108,"G.TEMPLE - BULK FR VANILLA ALM","Bulk Granola","$ 72.5",2,$145
+GT117,"G.TEMPLE - BULK STRAW VAN HEMP","Bulk Granola","$ 72.5",2,$145
+GT109,"G.TEMPLE - BULK MAPLE PECAN","Bulk Granola","$ 72.5",2,$145
+GT101A,"G.TEMPLE - BULK SUPER NUTTY","Bulk Granola","$ 72.5",1,$72.5
+FM102,"F. MARKET - SWT POT PUREE OG","Farmer's Market","$ 2.66",24,$63.84
+BRD275,"BRAD - ORG CANNED PUMPKIN 15oz","Brad's Organic Pumpkin","$ 2.66",24,$63.84
+ES203,"LET'S ORG - SHRED COCONUT 8oz","Native Forest Condiments","$ 2.53",12,$30.36
+ES204,"LET'S ORG - LITE SHRED COCONUT","Native Forest Condiments","$ 2.53",12,$30.36
+ES205,"LET'S ORG TSTD COCONUT FLAKES","Native Forest Condiments","$ 2.53",12,$30.36
+ES208,"LET'S ORG - CASSAVA FLOUR 14oz","Native Forest Condiments","$ 4.06",6,$24.36
+BRD345,"BRAD ORG COCONUT SUGAR 14oz","Brad's Organic Coconut","$ 4",12,$48
+SC501,"SANTA CRUZ - ORG LEMON JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+SC502,"SANTA CRUZ - ORG LIME JUICE","Santa Cruz Juices","$ 4.13",8,$33.04
+WP032,"W. PLANET ANCHOVIES IN EVOO","Wild Planet","$ 2.19",48,$105.12
+WP031,"W. PLANET ANCHOVIES IN WATER","Wild Planet","$ 2.19",24,$52.56
+WP023,"W. PLANET SARDINES OIL & LEMON","Wild Planet","$ 2.19",12,$26.28
+WP001,"WILD PLANET - ALBACORE TUNA","Wild Planet","$ 4.33",12,$51.96
+WP002,"WILD PLANET NO SALT ALBCR TUNA","Wild Planet","$ 4.33",12,$51.96
+WP003,"WILD PLANET - SKIPJACK TUNA","Wild Planet","$ 3.06",12,$36.72
+WP005,"WILD PLANET WLD SOCKEYE SALMON","Wild Planet","$ 7.07",12,$84.84
+WP006,"WILD PLANET ALASKA PINK SALMON","Wild Planet","$ 4.8",12,$57.6
+WP009,"WILD PLANET NO SLT SKPJCK TUNA","Wild Planet","$ 3.06",12,$36.72
+BRD533,"BRAD - ORG BLUE AGAVE 23.5oz","Brad's Organic Agave Syrup","$ 6",12,$72
+MGC101,"MARY - ORIGINAL CRACKER ORG","Mary's Gone Crackers","$ 4.33",30,$129.9
+MGC103,"MARY - HERB CRACKER ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC104,"MARY - BLK PEPPER CRCKER ORG","Mary's Gone Crackers","$ 4.33",12,$51.96
+MGC107,"MARY - SUPER SEED CLASSIC ORG","Mary's Gone Crackers","$ 4.33",18,$77.94
+MGC108,"MARY - SUPER SEED EVERYTHNG OG","Mary's Gone Crackers","$ 4.33",18,$77.94
+MGC109,"MARY - SUPER SEED SEAWEED OG","Mary's Gone Crackers","$ 4.33",18,$77.94
+MGC112,"MARY - SUPER SEED ROSEMARY OG","Mary's Gone Crackers","$ 4.33",12,$51.96
+EF101,"E.F LNDRY LIQ LILY 50oz #9750","Earth Friendly","$ 6.2",8,$49.6
+EF102,"E.F LNDRY LIQ F&C 50oz #9764","Earth Friendly","$ 6.2",8,$49.6
+EF103,"E.F LNDRY LIQ LVND 50oz #9755","Earth Friendly","$ 6.2",8,$49.6
+PA101,"PACIFIC - ORG VEG BROTH 32oz","Pacific (soup)","$ 3.15",12,$37.8
+PA301,"PACIFIC- OG NATURALLY OAT ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA302,"PACIFIC OG NATURALLY OAT VANIL","Pacific (milk)","$ 2.74",12,$32.88
+PA312,"PACIFIC OG COCONUT UNSW ORIG","Pacific (milk)","$ 2.74",12,$32.88
+PA313,"PACIFIC OG COCONUT UNSW VANILA","Pacific (milk)","$ 2.74",12,$32.88
+,,,,,$2423.18
